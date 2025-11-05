@@ -1,0 +1,1525 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:BTSLAFDx6Kot94M08TCcQ
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251105T183000Z
+DTEND:20251105T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226512
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:bDHZnVdzS2eX4s0kOKWVO
+SUMMARY:ULTRAJEUX OBERKAMPF - Riftbound - Release Event n° 1
+DTSTAMP:20251105T100105Z
+DTSTART:20251105T183000Z
+DTEND:20251105T213000Z
+DESCRIPTION:Seul le règlement de votre place sur ultrajeux.com garantit vot
+	re participation à cet évènement
+URL:https://locator.riftbound.uvsgames.com/events/200522
+GEO:48.8639689;2.3715375
+LOCATION:47 Rue de la Folie Méricourt\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:3WemDzLWPwwYgHVOPlCh6
+SUMMARY:ULTRAJEUX OBERKAMPF - Riftbound - Release Event n° 2
+DTSTAMP:20251105T100105Z
+DTSTART:20251105T183000Z
+DTEND:20251105T213000Z
+DESCRIPTION:Seul le règlement de votre place sur ultrajeux.com garantit vot
+	re participation à cet évènement
+URL:https://locator.riftbound.uvsgames.com/events/200526
+GEO:48.8639689;2.3715375
+LOCATION:47 Rue de la Folie Méricourt\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:GSohQjPijUhT2R5vGBHU7
+SUMMARY:Playin Paris BNF - jeudi Evening Release Event
+DTSTAMP:20251105T100105Z
+DTSTART:20251106T160000Z
+DTEND:20251106T190000Z
+URL:https://locator.riftbound.uvsgames.com/events/198122
+GEO:48.8312895;2.3758214
+LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:v1hBx4x3viZP7jZx5p4r2
+SUMMARY:Geek Factory - NEXUS NIGHT Tournoi Construit Riftbound : Jeudi 06 N
+	ovembre 2025 - 19h30
+DTSTAMP:20251105T100105Z
+DTSTART:20251106T183000Z
+DTEND:20251106T213000Z
+DESCRIPTION:Il est l'heure du Premier construit de Riftbound ! Préparez vos
+	 decks (5 Proxy max autorisé) et venez vous confronter aux autres. Inscrip
+	tion uniquement en boutique avec nous au 01 48 76 48 42.\n\nDate de l'évén
+	ement : Jeudi 6 novembre - 19h30. Fin estimée (23H30)\n\nPrix de participa
+	tion : 7€\n\nRécompenses : Dotations officielles et Bon d'achat selon le c
+	lassement. (détail à venir)\n\nFormat : Construit. BO3 - 3 ou 4 rondes sel
+	on affluence\nProxy autorisé la première semaine  dans la limite de  5 car
+	tes.
+URL:https://locator.riftbound.uvsgames.com/events/244006
+GEO:48.8355146;2.4725096
+LOCATION:4 Pl. du Général Leclerc\, 94130 Nogent-sur-Marne\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:SYjL6CrA2Er4g0In1Qiw6
+SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251106T190000Z
+DTEND:20251106T220000Z
+DESCRIPTION:Venez entrainer votre deck dans la Faille au cours de notre Nex
+	us Night !\n\nFormat Construit en BO1.\n\nEntrée libre\, jeu libre
+URL:https://locator.riftbound.uvsgames.com/events/216585
+GEO:48.90035399999998;2.2140119999999994
+LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:Qp_eAyLHQDpBdo_ZIgN13
+SUMMARY:Parkage Paris - Nexus Night - Parkage EDB
+DTSTAMP:20251105T100105Z
+DTSTART:20251107T180000Z
+DTEND:20251107T210000Z
+DESCRIPTION:Plus d'informations et inscription obligatoire sur notre site p
+	arkage.com section "Tournois & Evenements" !
+URL:https://locator.riftbound.uvsgames.com/events/245223
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:GQPL17sBXnawh57mTNHzZ
+SUMMARY:Atmos Arena - Atmos arena - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251107T180000Z
+DTEND:20251107T210000Z
+DESCRIPTION:Nexus Night tout les mercredi soir à Atmos Arena ! 1 Booster de
+	 participation pour tous et des packs promos à gagner !
+URL:https://locator.riftbound.uvsgames.com/events/203306
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:CX97SEoWDg05UUhnlBqOa
+SUMMARY:Uchronies Games - Nexus Night - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251107T183000Z
+DTEND:20251107T213000Z
+DESCRIPTION:• Format : Construit \n• Tarif : 7€\n• Places : 16 places\, ins
+	criptions obligatoires sur le site uchroniesgames.fr\nPensez également à c
+	réer votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n•
+	 Horaires : début du tournoi à 19h30\, fin vers 22h30\n• Structure : 3 ron
+	des de 55 minutes\n• Dotation :\n3.50€ de on d'achat par victoire\n1\,75€ 
+	de bon d'achat par match nul\n1 Pack Nexus Promo pour chaque participant
+URL:https://locator.riftbound.uvsgames.com/events/247843
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:gLZyRxitjxNC89yHmkAsd
+SUMMARY:Le Repaire du Dragon - Tournoi de Sortie Riftbound
+DTSTAMP:20251105T100105Z
+DTSTART:20251108T100000Z
+DTEND:20251108T130000Z
+DESCRIPTION:Tournoi de sortie Riftbound en paquet scellé:\n\nChaque joueur 
+	recevra un deck et deux boosters pour le modifier. Le tournois se dérouler
+	a en ronde suisses. \nLes participants gagneront des boosters en fonction 
+	de leur classement.
+URL:https://locator.riftbound.uvsgames.com/events/196974
+GEO:48.87605589999999;2.3805953
+LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:QZPSN5bx1pE8n57ZQqJzU
+SUMMARY:Troll2jeux - Release Event Riftbound du Samedi 8 Novembre !
+DTSTAMP:20251105T100105Z
+DTSTART:20251108T123000Z
+DTEND:20251108T153000Z
+DESCRIPTION:Venez célébrer la sortie du jeu Riftbound - League Of legends T
+	CG ! \n\nEmbarquez vous dans la faille de l'invocateur avec un scellé pour
+	 démarrer votre collection Riftbound !\n\nL'inscription est obligatoire pa
+	r le biais du site internet Troll2Jeux\, la réservation par le site UVS ne
+	 suffit pas : https://troll2jeux.com/evenement/1254-evenement-de-lancement
+	-riftbound\n\nL'évènement se présentera par un scellé de 1 deck champion p
+	armi Jinx\, Lee Sin et Viktor ainsi que 2 boosters à ouvrir pour découvrir
+	 et construire son deck idéal Riftbound !\n\nNombre de joueurs : 24 joueur
+	(euses)\nHeure de début : 19 heures\nNombre de rondes : 3 rondes \nLots : 
+	Vous repartez avec le contenu ouvert en boutique + 1 pack de cartes promos
+	 2 cartes dont une version foil de Jinx\, Viktor OU Lee Sin ainsi qu'une c
+	arte légende champion parmi les 12 disponibles !\n\nQu'attendez-vous ? Plo
+	ngez dans la faille et rejoignez des batailles épiques sur table !
+URL:https://locator.riftbound.uvsgames.com/events/198160
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Pl. d'Aligre\, 75012 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:ilCewljZYGHbyDcf4l0Pu
+SUMMARY:Uchronies Games - Construit - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251108T130000Z
+DTEND:20251108T160000Z
+DESCRIPTION:• Format : Construit (proxy tolérée pour le temps que les produ
+	its deviennent accessibles)\n• Tarif : 7€\n• Places : 16 places\, inscript
+	ions obligatoires sur le site : uchroniesgames.fr\nPensez également à crée
+	r votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n• Ho
+	raires : début du tournoi à 14h00\, fin vers 18h00\n• Structure : 4 rondes
+	 de 55 minutes\n• Dotation :\n1 booster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247853
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:gE4QspUTzsdBYULg0ZgY4
+SUMMARY:Goupiya - Saturday Evening Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251108T140000Z
+DTEND:20251108T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239436
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:zkZpr0FIxBZZE_b_OKTHN
+SUMMARY:Troll2jeux - Nexus Night du 11 Novembre 2025
+DTSTAMP:20251105T100105Z
+DTSTART:20251111T180000Z
+DTEND:20251111T210000Z
+DESCRIPTION:Tous les mercredis soirs\, venez jouer à la boutique ! La bouti
+	que Troll2Jeux organise une soirée Riftbound le mardi 11 novembre 2025 à 1
+	9 heures.\n\nNombre de joueurs : 16\n\nHeure de début : 19h\n\nVenez profi
+	ter des locaux et retrouver d'autres joueurs afin de disputer vos meilleur
+	s decks !
+URL:https://locator.riftbound.uvsgames.com/events/233477
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Place d'Aligre\, Paris\, IDF\, 75012\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:mRHcPrEs612VDIHBdB8wh
+SUMMARY:Uchronies Games - Multijoueur - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251111T183000Z
+DTEND:20251111T213000Z
+DESCRIPTION:• Format : Construit Multijoueurs (Table de 4 joueurs)\n• Tarif
+	 : 7€\n• Places : 8 places\, inscriptions obligatoires sur le site : uchro
+	niesgames.fr\nPensez également à créer votre compte de joueur sur https://
+	locator.riftbound.uvsgames.com/\n• Horaires : début du tournoi à 19h30\, f
+	in vers 22h30\n• Structure : 2 à 3 rondes de 55 minutes\n• Dotation :\n1 b
+	ooster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247858
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:0XjfIesiUFKijRt_MyB5z
+SUMMARY:Troll2jeux - Séance de jeu du 12 Novembre 2025
+DTSTAMP:20251105T100105Z
+DTSTART:20251112T180000Z
+DTEND:20251112T210000Z
+DESCRIPTION:Tous les mercredis soirs\, venez jouer à la boutique ! La bouti
+	que Troll2Jeux organise une soirée Riftbound le mercredi 12 novembre 2025 
+	à 19 heures.\n\nNombre de joueurs : 16\n\nHeure de début : 19h\n\nVenez pr
+	ofiter des locaux et retrouver d'autres joueurs afin de disputer vos meill
+	eurs decks !
+URL:https://locator.riftbound.uvsgames.com/events/247810
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Place d'Aligre\, Paris\, IDF\, 75012\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:l1y16XoACU7Z_j0GOjwj_
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251112T183000Z
+DTEND:20251112T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226517
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:KaqqIJyZOVk_clKGKIRpG
+SUMMARY:Parkage Paris - Nexus Night - Parkage EDB
+DTSTAMP:20251105T100105Z
+DTSTART:20251114T180000Z
+DTEND:20251114T210000Z
+DESCRIPTION:Plus d'informations et inscription obligatoire sur notre site p
+	arkage.com section "Tournois & Evenements" !
+URL:https://locator.riftbound.uvsgames.com/events/245241
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:4jh1naRdFiU4Ibk2G3ENC
+SUMMARY:Atmos Arena - Atmos Arena - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251114T180000Z
+DTEND:20251114T210000Z
+DESCRIPTION:Déroulement du Nexus Night\n\n    Tournoi classique construit\n
+	        Proxies non autorisés\n    Format de jeu\n        Rondes suisses\n
+	            3 rondes en BO3\n            35 minutes max par ronde\n       
+	     Un side deck de 8 cartes est autorisé\n\nPAF : 7€\n\n\n1er: 2 booster
+	s Riftbound Origins\n\nTout les participants repartent avec un booster Rif
+	tbound Origins + Un pack Nexus Promo
+URL:https://locator.riftbound.uvsgames.com/events/219712
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, 75002 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:-Yi3QFPet9Sywi4CIilA0
+SUMMARY:Uchronies Games - Nexus Night - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251114T183000Z
+DTEND:20251114T213000Z
+DESCRIPTION:• Format : Construit \n• Tarif : 7€\n• Places : 16 places\, ins
+	criptions obligatoires sur le site uchroniesgames.fr\nPensez également à c
+	réer votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n•
+	 Horaires : début du tournoi à 19h30\, fin vers 22h30\n• Structure : 3 ron
+	des de 55 minutes\n• Dotation :\n3.50€ de on d'achat par victoire\n1\,75€ 
+	de bon d'achat par match nul\n1 Pack Nexus Promo pour chaque participant
+URL:https://locator.riftbound.uvsgames.com/events/247846
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:rbAmv7ycEd9lFhMq3iREG
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251115T140000Z
+DTEND:20251115T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239443
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:DBdStzDV6zKSOxKJE89uo
+SUMMARY:Uchronies Games - Construit - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251116T130000Z
+DTEND:20251116T160000Z
+DESCRIPTION:• Format : Construit (proxy tolérée pour le temps que les produ
+	its deviennent accessibles)\n• Tarif : 7€\n• Places : 16 places\, inscript
+	ions obligatoires sur le site : uchroniesgames.fr\nPensez également à crée
+	r votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n• Ho
+	raires : début du tournoi à 14h00\, fin vers 18h00\n• Structure : 4 rondes
+	 de 55 minutes\n• Dotation :\n1 booster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247854
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:2nUGPT0PQlxjQpaLRv2or
+SUMMARY:Troll2jeux - Nexus Night du 18 Novembre 2025
+DTSTAMP:20251105T100105Z
+DTSTART:20251118T180000Z
+DTEND:20251118T210000Z
+DESCRIPTION:Tous les mercredis soirs\, venez jouer à la boutique ! La bouti
+	que Troll2Jeux organise une soirée Riftbound le mardi 18 novembre 2025 à 1
+	9 heures.\n\nNombre de joueurs : 16\n\nHeure de début : 19h\n\nVenez profi
+	ter des locaux et retrouver d'autres joueurs afin de disputer vos meilleur
+	s decks !
+URL:https://locator.riftbound.uvsgames.com/events/233482
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Place d'Aligre\, Paris\, IDF\, 75012\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:JpAqKgr-Z7z_DqoKrpYtR
+SUMMARY:Uchronies Games - Multijoueur - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251118T183000Z
+DTEND:20251118T213000Z
+DESCRIPTION:• Format : Construit Multijoueurs (Table de 4 joueurs)\n• Tarif
+	 : 7€\n• Places : 8 places\, inscriptions obligatoires sur le site : uchro
+	niesgames.fr\nPensez également à créer votre compte de joueur sur https://
+	locator.riftbound.uvsgames.com/\n• Horaires : début du tournoi à 19h30\, f
+	in vers 22h30\n• Structure : 2 à 3 rondes de 55 minutes\n• Dotation :\n1 b
+	ooster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247861
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:0IRozDTNwWVbFDnLXVXcC
+SUMMARY:Troll2jeux - Séance de jeu du 19 Novembre 2025
+DTSTAMP:20251105T100105Z
+DTSTART:20251119T180000Z
+DTEND:20251119T210000Z
+DESCRIPTION:Tous les mercredis soirs\, venez jouer à la boutique ! La bouti
+	que Troll2Jeux organise une soirée Riftbound le mardi 11 novembre 2025 à 1
+	9 heures.\n\nNombre de joueurs : 16\n\nHeure de début : 19h\n\nVenez profi
+	ter des locaux et retrouver d'autres joueurs afin de disputer vos meilleur
+	s decks !
+URL:https://locator.riftbound.uvsgames.com/events/247802
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Place d'Aligre\, Paris\, IDF\, 75012\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:MMBlOeh8nKus6rti7C_hz
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251119T183000Z
+DTEND:20251119T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226533
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:6KxKTwcTzdNWKVpFAXz4a
+SUMMARY:Parkage Paris - Nexus Night - Parkage EDB
+DTSTAMP:20251105T100105Z
+DTSTART:20251121T180000Z
+DTEND:20251121T210000Z
+DESCRIPTION:Plus d'informations et inscription obligatoire sur notre site p
+	arkage.com section "Tournois & Evenements" !
+URL:https://locator.riftbound.uvsgames.com/events/245239
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:8_bgVfowTwtR10vrXpGSM
+SUMMARY:Uchronies Games - Nexus Night - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251121T183000Z
+DTEND:20251121T213000Z
+DESCRIPTION:• Format : Construit \n• Tarif : 7€\n• Places : 16 places\, ins
+	criptions obligatoires sur le site uchroniesgames.fr\nPensez également à c
+	réer votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n•
+	 Horaires : début du tournoi à 19h30\, fin vers 22h30\n• Structure : 3 ron
+	des de 55 minutes\n• Dotation :\n3.50€ de on d'achat par victoire\n1\,75€ 
+	de bon d'achat par match nul\n1 Pack Nexus Promo pour chaque participant
+URL:https://locator.riftbound.uvsgames.com/events/247847
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:qCzMz_LcQX-HIe2FBQ60L
+SUMMARY:Uchronies Games - Construit - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251122T130000Z
+DTEND:20251122T160000Z
+DESCRIPTION:• Format : Construit (proxy tolérée pour le temps que les produ
+	its deviennent accessibles)\n• Tarif : 7€\n• Places : 16 places\, inscript
+	ions obligatoires sur le site : uchroniesgames.fr\nPensez également à crée
+	r votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n• Ho
+	raires : début du tournoi à 14h00\, fin vers 18h00\n• Structure : 4 rondes
+	 de 55 minutes\n• Dotation :\n1 booster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247855
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:xamr2fpkjRRoepgAcYyHY
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251122T140000Z
+DTEND:20251122T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239447
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:knRLKWBAx4jwcFfzIGR_I
+SUMMARY:Uchronies Games - Multijoueur - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251125T123000Z
+DTEND:20251125T153000Z
+DESCRIPTION:• Format : Construit Multijoueurs (Table de 4 joueurs)\n• Tarif
+	 : 7€\n• Places : 8 places\, inscriptions obligatoires sur le site : uchro
+	niesgames.fr\nPensez également à créer votre compte de joueur sur https://
+	locator.riftbound.uvsgames.com/\n• Horaires : début du tournoi à 19h30\, f
+	in vers 22h30\n• Structure : 2 à 3 rondes de 55 minutes\n• Dotation :\n1 b
+	ooster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247863
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:HxzcaHk-rmD6cvh2l_3Rb
+SUMMARY:Troll2jeux - Nexus Night du 26 Novembre 2025
+DTSTAMP:20251105T100105Z
+DTSTART:20251126T180000Z
+DTEND:20251126T210000Z
+DESCRIPTION:Tous les mercredis soirs\, venez jouer à la boutique ! La bouti
+	que Troll2Jeux organise une soirée Riftbound le mardi 18 novembre 2025 à 1
+	9 heures.\n\nNombre de joueurs : 16\n\nHeure de début : 19h\n\nVenez profi
+	ter des locaux et retrouver d'autres joueurs afin de disputer vos meilleur
+	s decks !
+URL:https://locator.riftbound.uvsgames.com/events/247800
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Place d'Aligre\, Paris\, IDF\, 75012\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:PSTRcEi7v7Km2Ep9b3LSZ
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251126T183000Z
+DTEND:20251126T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226538
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:euFPOKtfUS4PMfX3hXzlq
+SUMMARY:Parkage Paris - Nexus Night - Parkage EDB
+DTSTAMP:20251105T100105Z
+DTSTART:20251128T180000Z
+DTEND:20251128T210000Z
+DESCRIPTION:Plus d'informations et inscription obligatoire sur notre site p
+	arkage.com section "Tournois & Evenements" !
+URL:https://locator.riftbound.uvsgames.com/events/245242
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:KyAvAyYlnYHEe2e_mhQcc
+SUMMARY:Uchronies Games - Nexus Night - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251128T183000Z
+DTEND:20251128T213000Z
+DESCRIPTION:• Format : Construit \n• Tarif : 7€\n• Places : 16 places\, ins
+	criptions obligatoires sur le site uchroniesgames.fr\nPensez également à c
+	réer votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n•
+	 Horaires : début du tournoi à 19h30\, fin vers 22h30\n• Structure : 3 ron
+	des de 55 minutes\n• Dotation :\n3.50€ de on d'achat par victoire\n1\,75€ 
+	de bon d'achat par match nul\n1 Pack Nexus Promo pour chaque participant
+URL:https://locator.riftbound.uvsgames.com/events/247850
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:qCgy4X23rumOxA48pYs5e
+SUMMARY:Le Troll Savant - Summoner Skirmish - December
+DTSTAMP:20251105T100105Z
+DTSTART:20251129T090000Z
+DTEND:20251129T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/228416
+GEO:48.79274359999999;2.4631197
+LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:haumErdLxdOrHBzTIcExX
+SUMMARY:Troll2jeux - Summoner Skirmish du 29 NOVEMBRE 2025 à 12 heures
+DTSTAMP:20251105T100105Z
+DTSTART:20251129T110000Z
+DTEND:20251129T140000Z
+DESCRIPTION:Invocateurs ! \n\nL'appel de la bataille vous attend à Troll2Je
+	ux le 29 NOVEMBRE 2025 à 12 HEURES !\n\nNombre de joueurs : 32\nNombre de 
+	rondes : 5 de 50 minutes avec un Top 8.\nLots : \n\nPour tous les joueurs 
+	en dessous du top 8 : Une carte promo de participation !\nPour le top 8 : 
+	La carte de participation + une carte promotionnelle pour avoir atteint le
+	 top 8 !\nPour l'invocateur CHAMPION : La carte de participation + la cart
+	e de top 8 ET un tapis de jeu CHAMPION !\n\nLe Champion recevra également 
+	un "Round 1 Bye" utilisable pour les Regional Qualifier !\n\nQu'attendez v
+	ous ? Préparez votre meilleur deck et champions et affrontez le monde des 
+	invocateurs !
+URL:https://locator.riftbound.uvsgames.com/events/210484
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Pl. d'Aligre\, 75012 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:SHzbJlKtkq5tWeJ4sQXuv
+SUMMARY:Uchronies Games - Construit - Uchronies Games
+DTSTAMP:20251105T100105Z
+DTSTART:20251129T130000Z
+DTEND:20251129T160000Z
+DESCRIPTION:• Format : Construit (proxy tolérée pour le temps que les produ
+	its deviennent accessibles)\n• Tarif : 7€\n• Places : 16 places\, inscript
+	ions obligatoires sur le site : uchroniesgames.fr\nPensez également à crée
+	r votre compte de joueur sur https://locator.riftbound.uvsgames.com/\n• Ho
+	raires : début du tournoi à 14h00\, fin vers 18h00\n• Structure : 4 rondes
+	 de 55 minutes\n• Dotation :\n1 booster Riftbound par participant
+URL:https://locator.riftbound.uvsgames.com/events/247856
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:bU8wuzu-wGqfLFWnZhzRI
+SUMMARY:Goupiya - samedi Night Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251129T220000Z
+DTEND:20251130T010000Z
+URL:https://locator.riftbound.uvsgames.com/events/239450
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:uv0iGtsleMgl3bVEg7fDk
+SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Skirmish Set 1 - Décembr
+	e 2025
+DTSTAMP:20251105T100105Z
+DTSTART:20251130T083000Z
+DTEND:20251130T113000Z
+DESCRIPTION:Lin vers notre billetterie : https://boutique.compagniedesjeux.
+	fr/?page=product&id=5658\n\n**Tournoi RIFTBOUND Skirmish SET 1 Décembre**\
+	n\nVoici plusieurs informations importantes pour son bon déroulement :\n\n
+	Vous pouvez arriver sur le lieu du tournoi dès 9h30 pour un démarrage à 10
+	h00 max. \n\nL'adresse :\nLa Compagnie des Jeux\n169 Esplanade Patrice Ché
+	reau\n92000 Nanterre\nLe lien Google Maps :\nhttps://maps.app.goo.gl/Yf4jM
+	ZcpPn5cArWZ8\n\nFormat : Core (construit)\n5 rondes suisses et Top Cut 8 (
+	élimination directe)\n24 Participants\nRonde de 55 minutes en BO3\nTours à
+	 élimination directe :\n- BO3\n- 70 minutes par tour du Top 8\n- Finale no
+	n chronométrée\nSide deck autorisé\n\nNous ferons une pause pour déjeuner 
+	après les 3 premières rondes. Il y a de nombreuses solutions pour se resta
+	urer autour de la boutique\, vous aurez l'embarras du choix.\n\n\nDotation
+	s\n\n**Le Champion vainqueur reçoit :**\n1 tapis Champion\n12 boosters Set
+	 1\n1 carte Promo Top 8\n1 carte Promo de participation\nLe vainqueur béné
+	ficiera d'un bye pour le premier tour lors des qualifications régionales.\
+	n\n**Place d'honneur - Le deuxième reçoit :**\n8 boosters Set 1 \n1 carte 
+	Promo Top 8\n1 carte Promo de participation\n\n**Pour les 3ème et 4ème :**
+	\n4 boosters Set 1\n1 carte Promo Top 8\n1 carte Promo de participation\n\
+	n**Pour les 5ème\, 6ème\, 7ème et 8ème :**\n3 boosters Set 1\n1 carte Prom
+	o Top 8\n1 carte Promo de participation\n\n**Pour les 9ème à 24ème :**\n2 
+	boosters Set 1\n1 Carte Promo de participation\n\nLa dotation pourra être 
+	ajustée en fonction de la participation.
+URL:https://locator.riftbound.uvsgames.com/events/216551
+GEO:48.90035399999998;2.2140119999999994
+LOCATION:169 Espl. Patrice Chéreau\, 92000 Nanterre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:3gtKZ6WjT32GJ-5JkqI33
+SUMMARY:Majestik Games - LOL RIFTBOUND - SUMMONER SKIRMISH DIMANCHE 30 NOVE
+	MBRE 11H00
+DTSTAMP:20251105T100105Z
+DTSTART:20251130T100000Z
+DTEND:20251130T130000Z
+DESCRIPTION:Format : 1v1 Construit\nStructure : 5 rondes suisse en Bo3 puis
+	 Top 8.\nTarif : 15€\nPlaces : 32 places\nHoraires : Début du tournoi à 11
+	h00\, fin vers 19h00.\nLieu : Boutique MajestiK Games\, 148 avenue du Main
+	e\, 75014 Paris.\nAccès : 10min à pied de la station Denfert-Rocherot\, Mé
+	tro 6 et 4\, RER B\, Ligne L.\n\nLots :\n\n1er: 3 Boosters Riftbound Origi
+	nes + Carte promo Top 8 + Playmat Champion\n\n2e: 3 Boosters Riftbound Ori
+	gines + Carte promo Top 8\n\n3-4e: 2 Boosters Riftbound Origines + Carte p
+	romo Top 8\n\n5-8e: 1 Boosters Riftbound Origines + Carte promo Top 8\n\n9
+	-32e: 1 Booster Riftbound Origines + Carte promo
+URL:https://locator.riftbound.uvsgames.com/events/226682
+GEO:48.8342176;2.3239146
+LOCATION:148 Av. du Maine\, 75014 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:e6YHbvxVYuDA3cJltIV53
+SUMMARY:ULTRAJEUX OBERKAMPF - ULTRAJEUX Oberkampf - Summoner Skirmish - Dec
+	ember
+DTSTAMP:20251105T100105Z
+DTSTART:20251201T180000Z
+DTEND:20251201T210000Z
+DESCRIPTION:Seul le règlement de votre place sur ultrajeux.com garantit vot
+	re participation à cet évènement.\n* Tarif et Capacité à venir\, l'horaire
+	 pourrait être amené à changer prochainement.
+URL:https://locator.riftbound.uvsgames.com/events/225481
+GEO:48.8639689;2.3715375
+LOCATION:47 Rue de la Folie Méricourt\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:t0aWu0tRiJykszbBY5VQc
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251203T183000Z
+DTEND:20251203T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226549
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:VMlJEZKnCBWZs2o6Ni-cb
+SUMMARY:Le Repaire du Dragon - Le Repaire du Dragon Summoner Skirmish - Dec
+	ember
+DTSTAMP:20251105T100105Z
+DTSTART:20251206T100000Z
+DTEND:20251206T130000Z
+DESCRIPTION:Tournoi Skirmish de Décembre au Repaire du Dragon.
+URL:https://locator.riftbound.uvsgames.com/events/225518
+GEO:48.87605589999999;2.3805953
+LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:4oB54cMYDDPlgKKPCDSGS
+SUMMARY:Parkage Paris - Summoner Skirmish - Parkage EDB
+DTSTAMP:20251105T100105Z
+DTSTART:20251206T103000Z
+DTEND:20251206T133000Z
+DESCRIPTION:Plus d'informations à venir !
+URL:https://locator.riftbound.uvsgames.com/events/209432
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:sIsTwX_MaaVRnT3IliZXO
+SUMMARY:Goupiya - samedi Afternoon Summoner Skirmish - December
+DTSTAMP:20251105T100105Z
+DTSTART:20251206T140000Z
+DTEND:20251206T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/207199
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:fFVwCSj5S70tHyIIlkJqg
+SUMMARY:Goupiya - samedi Night Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251206T220000Z
+DTEND:20251207T010000Z
+URL:https://locator.riftbound.uvsgames.com/events/239451
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:ScMGGtbhNa0ZOoi8Akpd7
+SUMMARY:Uchronies Games - Summoner Skirmish
+DTSTAMP:20251105T100105Z
+DTSTART:20251207T080000Z
+DTEND:20251207T110000Z
+URL:https://locator.riftbound.uvsgames.com/events/222973
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:GmdA_HYYdkM7XZhpy8afa
+SUMMARY:Geek Factory - Summoner Skirmish : Dimanche 07 Decembre 9h30
+DTSTAMP:20251105T100105Z
+DTSTART:20251207T083000Z
+DTEND:20251207T113000Z
+DESCRIPTION:C'est parti pour le premier Skirmish de Riftbound ! Invocateurs
+	 préparez vos decks !\n\n\nDotation (et PRIX) PROVISOIRE: (sur la base de 
+	16 joueurs minimum)\n\n- Cartes Promotionnelles de participation.\n- Carte
+	s Promotionnelles pour le top cut.\n- Un Playmate pour le Vainqueur\n- Le 
+	Vainqueur recevra un Bye Round 1 a un Régional Qualifier.\n\nToutes partic
+	ipation devra être validée par les organisateurs. Contactez le Geek Factor
+	y de Nogent-sur-Marne pour toute inscription ou question.
+URL:https://locator.riftbound.uvsgames.com/events/229484
+GEO:48.8355146;2.4725096
+LOCATION:4 Pl. du Général Leclerc\, 94130 Nogent-sur-Marne\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:rbMtZLLQpozintQG5Hgkl
+SUMMARY:Loufoque - Summoner Skirmish 1 LOUFOQUE - Décembre
+DTSTAMP:20251105T100105Z
+DTSTART:20251207T090000Z
+DTEND:20251207T120000Z
+DESCRIPTION:Skirmish RIFTBOUND 1\n\nFormat : Tournoi Construit Standard\n\n
+	PAF : 12 €\n\n5 rondes suisses de 50min en bo3 suivi d'un top 8 en bo3\n\n
+	Lots :\nVainqueur : Un Playmat "Champion" + 1 booster + 1 Round 1 BYE à un
+	 Regional Qualifier\n\nTOP 8 : Une Promo Foil + 1 booster\n\nTous les autr
+	es participants : 1 booster + 1 carte promo\n\nPour toute inscription\, se
+	 rendre sur le site web : boutique@loufoque.fr
+URL:https://locator.riftbound.uvsgames.com/events/228937
+GEO:48.85108470000001;2.3468215
+LOCATION:5 Rue Dante\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:5ihoBaBBk4ehUx040Xbi0
+SUMMARY:Playin Paris Rivoli - Playin Rivoli Summoner Skirmish - December
+DTSTAMP:20251105T100105Z
+DTSTART:20251207T113000Z
+DTEND:20251207T143000Z
+URL:https://locator.riftbound.uvsgames.com/events/215260
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:wT0epkfy7ekeTPz5eJPBl
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251210T183000Z
+DTEND:20251210T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226552
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:BtcC_t6YEHOLcu4aSoF6g
+SUMMARY:Atmos Arena - Atmos Arena Skirmish Riftbound
+DTSTAMP:20251105T100105Z
+DTSTART:20251213T090000Z
+DTEND:20251213T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/219754
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:lx8RXr3LkNt7emxNcTm3c
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251213T140000Z
+DTEND:20251213T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239452
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:K7zCjLX8tx13uh1oBdTz0
+SUMMARY:MEiSiA - Riftbound - Summoner Skirmish - Décembre
+DTSTAMP:20251105T100105Z
+DTSTART:20251214T090000Z
+DTEND:20251214T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/213497
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:hmZMm4OpGuwm_k3qIsZdR
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251217T183000Z
+DTEND:20251217T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226556
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:7SVmS-BS5iL6fGBk7FXt-
+SUMMARY:Playin Paris BNF - samedi Morning Summoner Skirmish - December
+DTSTAMP:20251105T100105Z
+DTSTART:20251220T103000Z
+DTEND:20251220T133000Z
+URL:https://locator.riftbound.uvsgames.com/events/221753
+GEO:48.8312895;2.3758214
+LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:0N1sR7nAGYGIUVDBn_3UJ
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251220T140000Z
+DTEND:20251220T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239455
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:xAOSmkn_ELhymwWTS43OH
+SUMMARY:ULTRAJEUX BASTILLE - ULTRAJEUX Bastille - Summoner Skirmish - Décem
+	bre
+DTSTAMP:20251105T100105Z
+DTSTART:20251221T093000Z
+DTEND:20251221T123000Z
+DESCRIPTION:Seule la réservation d'une place sur ultrajeux.com garantit vot
+	re participation à cet évènement.\nPlaces et Tarif à venir sur notre site.
+URL:https://locator.riftbound.uvsgames.com/events/220775
+GEO:48.8554475;2.3692011
+LOCATION:13 Rue Amelot\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:01ISsCiEjLJx7_Sd04R1o
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251227T140000Z
+DTEND:20251227T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239456
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:dwi5bzeJ51Wk6QmIahl07
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20251231T183000Z
+DTEND:20251231T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226560
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:ZE_UGQ4hZioGnwBGmY_9t
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20260103T140000Z
+DTEND:20260103T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239472
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:uWW2daMy8KXAlKy6hTFPD
+SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Skirmish Set 1 - Janvier
+	 2026
+DTSTAMP:20251105T100105Z
+DTSTART:20260104T083000Z
+DTEND:20260104T113000Z
+DESCRIPTION:*Tournoi RIFTBOUND Skirmish SET 1 Janvier**\n\nVoici plusieurs 
+	informations importantes pour son bon déroulement :\n\nVous pouvez arriver
+	 sur le lieu du tournoi dès 9h30 pour un démarrage à 10h00 max. \n\nL'adre
+	sse :\nLa Compagnie des Jeux\n169 Esplanade Patrice Chéreau\n92000 Nanterr
+	e\nLe lien Google Maps :\nhttps://maps.app.goo.gl/Yf4jMZcpPn5cArWZ8\n\nFor
+	mat : Core (construit)\n5 rondes suisses et Top Cut 8 (élimination directe
+	)\n24 Participants\nRonde de 55 minutes en BO3\nTours à élimination direct
+	e :\n- BO3\n- 70 minutes par tour du Top 8\n- Finale non chronométrée\nSid
+	e deck autorisé\n\nNous ferons une pause pour déjeuner après les 3 premièr
+	es rondes. Il y a de nombreuses solutions pour se restaurer autour de la b
+	outique\, vous aurez l'embarras du choix.\n\n\nDotations\n\n**Le Champion 
+	vainqueur reçoit :**\n1 tapis Champion\n12 boosters Set 1\n1 carte Promo T
+	op 8\n1 carte Promo de participation\nLe vainqueur bénéficiera d'un bye po
+	ur le premier tour lors des qualifications régionales.\n\n**Place d'honneu
+	r - Le deuxième reçoit :**\n8 boosters Set 1 \n1 carte Promo Top 8\n1 cart
+	e Promo de participation\n\n**Pour les 3ème et 4ème :**\n4 boosters Set 1\
+	n1 carte Promo Top 8\n1 carte Promo de participation\n\n**Pour les 5ème\, 
+	6ème\, 7ème et 8ème :**\n3 boosters Set 1\n1 carte Promo Top 8\n1 carte Pr
+	omo de participation\n\n**Pour les 9ème à 24ème :**\n2 boosters Set 1\n1 C
+	arte Promo de participation\n\nLa dotation pourra être ajustée en fonction
+	 de la participation.
+URL:https://locator.riftbound.uvsgames.com/events/218553
+GEO:48.90035399999998;2.2140119999999994
+LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:L0WGh5dCJR2zdmG5uo_7z
+SUMMARY:Loufoque - Summoner Skirmish 2 LOUFOQUE - Janvier
+DTSTAMP:20251105T100105Z
+DTSTART:20260104T090000Z
+DTEND:20260104T120000Z
+DESCRIPTION:Skirmish RIFTBOUND 2\n\nFormat : Tournoi Construit Standard\n\n
+	PAF : 12 €\n\n5 rondes suisses de 50min en bo3 suivi d'un top 8 en bo3\n\n
+	Lots :\nVainqueur : Un Playmat "Champion" + 1 booster + 1 Round 1 BYE à un
+	 Regional Qualifier\n\nTOP 8 : Une Promo Foil + 1 booster\n\nTous les autr
+	es participants : 1 booster + 1 carte promo\n\nPour toute inscription\, se
+	 rendre sur le site web : boutique@loufoque.fr
+URL:https://locator.riftbound.uvsgames.com/events/228941
+GEO:48.85108470000001;2.3468215
+LOCATION:5 Rue Dante\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:EJNIhGInelp9Ov7lVgpKT
+SUMMARY:MEiSiA - Riftbound - Summoner Skirmish - Janvier
+DTSTAMP:20251105T100105Z
+DTSTART:20260104T090000Z
+DTEND:20260104T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/213517
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:hj_aIo5TvAdh-D8hIdyGG
+SUMMARY:ULTRAJEUX BASTILLE - ULTRAJEUX Bastille - Summoner Skirmish - Janvi
+	er
+DTSTAMP:20251105T100105Z
+DTSTART:20260104T093000Z
+DTEND:20260104T123000Z
+DESCRIPTION:Seule la réservation d'une place sur ultrajeux.com garantit vot
+	re participation à cet évènement.\nPlaces et Tarif à venir sur notre site.
+URL:https://locator.riftbound.uvsgames.com/events/220783
+GEO:48.8554475;2.3692011
+LOCATION:13 Rue Amelot\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:MImmp45K4n_gY9NdZGT_y
+SUMMARY:Playin Paris Rivoli - Playin RIvoli Summoner Skirmish - January
+DTSTAMP:20251105T100105Z
+DTSTART:20260104T113000Z
+DTEND:20260104T143000Z
+URL:https://locator.riftbound.uvsgames.com/events/215270
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:NRDJX2p1NqvZfLWrlo6Ux
+SUMMARY:ULTRAJEUX OBERKAMPF - ULTRAJEUX  Oberkampf - Summoner Skirmish - Ja
+	nuary
+DTSTAMP:20251105T100105Z
+DTSTART:20260105T180000Z
+DTEND:20260105T210000Z
+DESCRIPTION:Seul le règlement de votre place sur ultrajeux.com garantit vot
+	re participation à cet évènement.\n* Tarif et Capacité à venir\, l'horaire
+	 pourrait être amené à changer prochainement.
+URL:https://locator.riftbound.uvsgames.com/events/225483
+GEO:48.8639689;2.3715375
+LOCATION:47 Rue de la Folie Méricourt\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:s53FihlHhkRqy0cDXxdXP
+SUMMARY:MEiSiA - Riftbound - Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20260107T183000Z
+DTEND:20260107T213000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-nexus-night/
+URL:https://locator.riftbound.uvsgames.com/events/226575
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:TRQj_GGebR5uerww6A4PL
+SUMMARY:Parkage Paris - Summoner Skirmish - Parkage EDB
+DTSTAMP:20251105T100105Z
+DTSTART:20260110T103000Z
+DTEND:20260110T133000Z
+DESCRIPTION:Plus d'informations à venir !
+URL:https://locator.riftbound.uvsgames.com/events/209434
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:-SWE2KRYXPtViwVejkHdx
+SUMMARY:Playin Paris BNF - samedi Morning Summoner Skirmish - January
+DTSTAMP:20251105T100105Z
+DTSTART:20260110T103000Z
+DTEND:20260110T133000Z
+URL:https://locator.riftbound.uvsgames.com/events/231501
+GEO:48.8312895;2.3758214
+LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:lJMCu1krC4KcPRj_-gGkH
+SUMMARY:Le Repaire du Dragon - Tournoi Summoner Skirmish du Repaire du Drag
+	on - January
+DTSTAMP:20251105T100105Z
+DTSTART:20260110T130000Z
+DTEND:20260110T160000Z
+DESCRIPTION:Tournoi Summoner Skirmish du Repaire du Dragon de janvier
+URL:https://locator.riftbound.uvsgames.com/events/225531
+GEO:48.87605589999999;2.3805953
+LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:zciZi4kc9b95LIPkDSSUK
+SUMMARY:Goupiya - samedi Afternoon Summoner Skirmish - January
+DTSTAMP:20251105T100105Z
+DTSTART:20260110T140000Z
+DTEND:20260110T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/207214
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:HpJbKG35nnoKmOQUfBHld
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100105Z
+DTSTART:20260110T140000Z
+DTEND:20260110T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239480
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:IbScO90nkDZFC3KACdU45
+SUMMARY:Geek Factory - Summoner Skirmish : Dimanche 11 janvier 2026
+DTSTAMP:20251105T100105Z
+DTSTART:20260111T083000Z
+DTEND:20260111T113000Z
+DESCRIPTION:C'est parti pour un nouveau Skirmish de Riftbound ! Invocateurs
+	 préparez vos decks !\n\nDotation (et PRIX) PROVISOIRE: (sur la base de 16
+	 joueurs minimum)\n\n- Cartes Promotionnelles de participation.\n- Cartes 
+	Promotionnelles pour le top cut.\n- Un Playmate pour le Vainqueur\n- Le Va
+	inqueur recevra un Bye Round 1 a un Régional Qualifier.\n\nAutre lot : inf
+	ormations à venir\n\nToutes participation devra être validée par les organ
+	isateurs. Contactez le Geek Factory de Nogent-sur-Marne pour toute inscrip
+	tion ou question.
+URL:https://locator.riftbound.uvsgames.com/events/232413
+GEO:48.8355146;2.4725096
+LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:nZSxC0UurgC0wdtV1ozVx
+SUMMARY:Les Gentlemen du Jeu - Tournoi Summoner Skirmish - Janvier
+DTSTAMP:20251105T100105Z
+DTSTART:20260111T090000Z
+DTEND:20260111T120000Z
+DESCRIPTION:Rejoingnez nous pour notre premier Summoner Skirmish aux Gentle
+	men du Jeu\nRéservation sur notre site internet lesgentlemendujeu.com
+URL:https://locator.riftbound.uvsgames.com/events/228940
+GEO:48.8642911;2.3976277
+LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:9UcXzopTSnNVG_cVX5XRn
+SUMMARY:Majestik Games - LOL RIFTBOUND - SUMMONER SKIRMISH DIMANCHE 11 JANV
+	IER 11H00
+DTSTAMP:20251105T100105Z
+DTSTART:20260111T100000Z
+DTEND:20260111T130000Z
+DESCRIPTION:Format : 1v1 Construit\nStructure : 5 rondes suisse en Bo3 puis
+	 Top 8.\nTarif : 15€\nPlaces : 32 places\nHoraires : Début du tournoi à 11
+	h00\, fin vers 19h00.\nLieu : Boutique MajestiK Games\, 148 avenue du Main
+	e\, 75014 Paris.\nAccès : 10min à pied de la station Denfert-Rocherot\, Mé
+	tro 6 et 4\, RER B\, Ligne L.\n\nLots :\n\n1er: 3 Boosters Riftbound Origi
+	nes + Carte promo Top 8 + Playmat Champion\n\n2e: 3 Boosters Riftbound Ori
+	gines + Carte promo Top 8\n\n3-4e: 2 Boosters Riftbound Origines + Carte p
+	romo Top 8\n\n5-8e: 1 Boosters Riftbound Origines + Carte promo Top 8\n\n9
+	-32e: 1 Booster Riftbound Origines + Carte promo
+URL:https://locator.riftbound.uvsgames.com/events/226720
+GEO:48.8342176;2.3239146
+LOCATION:148 Av. du Maine\, 75014 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:y-1kmrDSHDR_85kvOPytk
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100106Z
+DTSTART:20260117T140000Z
+DTEND:20260117T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239484
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:6vLdouXG_nNKbHp6_KOAb
+SUMMARY:Goupiya - samedi Night Nexus Night
+DTSTAMP:20251105T100106Z
+DTSTART:20260117T140000Z
+DTEND:20260117T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239489
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:cNxhCjOy5WBT7xpPvA6KB
+SUMMARY:Atmos Arena - Atmos Arena Skirmish Riftbound
+DTSTAMP:20251105T100106Z
+DTSTART:20260117T150000Z
+DTEND:20260117T180000Z
+URL:https://locator.riftbound.uvsgames.com/events/219755
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:oyAnxfKTkM9w1mXhLDQlM
+SUMMARY:Uchronies Games - Summoner Skirmish
+DTSTAMP:20251105T100106Z
+DTSTART:20260118T080000Z
+DTEND:20260118T110000Z
+URL:https://locator.riftbound.uvsgames.com/events/231098
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:g963duld2m6NyS6xKgu0t
+SUMMARY:Troll2jeux - Summoner Skirmish du 24 JANVIER 2026 à 12 heures
+DTSTAMP:20251105T100106Z
+DTSTART:20260124T110000Z
+DTEND:20260124T140000Z
+DESCRIPTION:Invocateurs ! \n\nL'appel de la bataille vous attend à Troll2Je
+	ux le 29 NOVEMBRE 2025 à 12 HEURES !\n\nNombre de joueurs : 32\nNombre de 
+	rondes : 5 de 50 minutes avec un Top 8.\nLots : \n\nPour tous les joueurs 
+	en dessous du top 8 : Une carte promo de participation !\nPour le top 8 : 
+	La carte de participation + une carte promotionnelle pour avoir atteint le
+	 top 8 !\nPour l'invocateur CHAMPION : La carte de participation + la cart
+	e de top 8 ET un tapis de jeu CHAMPION !\n\nLe Champion recevra également 
+	un "Round 1 Bye" utilisable pour les Regional Qualifier !\n\nQu'attendez v
+	ous ? Préparez votre meilleur deck et champions et affrontez le monde des 
+	invocateurs !
+URL:https://locator.riftbound.uvsgames.com/events/210485
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Pl. d'Aligre\, 75012 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:s4jfZvdUYECPN3kJxcF7b
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100106Z
+DTSTART:20260124T140000Z
+DTEND:20260124T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239492
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:RzLNVBVz894RqxoIuaaAH
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100106Z
+DTSTART:20260124T140000Z
+DTEND:20260124T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239490
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:kGYhPI6ZU98GqrdLO_8qy
+SUMMARY:Le Troll Savant - Summoner Skirmish - January
+DTSTAMP:20251105T100106Z
+DTSTART:20260131T090000Z
+DTEND:20260131T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/228419
+GEO:48.79274359999999;2.4631197
+LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:AG8AbYVBdeA9pwA0O1F8C
+SUMMARY:Goupiya - samedi Afternoon Nexus Night
+DTSTAMP:20251105T100106Z
+DTSTART:20260131T140000Z
+DTEND:20260131T170000Z
+URL:https://locator.riftbound.uvsgames.com/events/239496
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:R6sumXVwRS7v8zGH5pgta
+SUMMARY:Parkage Paris - Spiritforged Pre-Rift Event - Parkage EDB
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T180000Z
+DTEND:20260206T210000Z
+DESCRIPTION:Plus d'infos prochainement !
+URL:https://locator.riftbound.uvsgames.com/events/218988
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:nFhmYiv16Zn6vnef4uuN1
+SUMMARY:Goupiya - vendredi Evening Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T180000Z
+DTEND:20260206T210000Z
+URL:https://locator.riftbound.uvsgames.com/events/229224
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:gNnNi0uBwXFBmPj-7fWhm
+SUMMARY:Loufoque - Spiritforged Avant-première I Loufoque
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T180000Z
+DTEND:20260206T210000Z
+DESCRIPTION:A venir
+URL:https://locator.riftbound.uvsgames.com/events/250122
+GEO:48.85108470000001;2.3468215
+LOCATION:5 Rue Dante\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:8g3vA7Lg-SNrYa8ckA4AO
+SUMMARY:Playin Paris Rivoli - Spiritforged Pre-Rift Event Playin Rivoli
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T180000Z
+DTEND:20260206T210000Z
+URL:https://locator.riftbound.uvsgames.com/events/215169
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:OyxOA653543l6w3680Azz
+SUMMARY:Les Gentlemen du Jeu - Avant-Première Riftbound : Spiritforged
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T183000Z
+DTEND:20260206T213000Z
+DESCRIPTION:Avant-Première Riftbound - Spiritforged
+URL:https://locator.riftbound.uvsgames.com/events/229609
+GEO:48.8642911;2.3976277
+LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:7CBM6LIBf9WWqu3tYwKxV
+SUMMARY:Uchronies Games - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T183000Z
+DTEND:20260206T213000Z
+URL:https://locator.riftbound.uvsgames.com/events/246069
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:6NdXxoo7y728xsnATlMIj
+SUMMARY:MEiSiA - Riftbound - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T183000Z
+DTEND:20260206T213000Z
+URL:https://locator.riftbound.uvsgames.com/events/214300
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:7TFdK5uomNz31fGVlUtGL
+SUMMARY:Le Troll Savant - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260206T190000Z
+DTEND:20260206T220000Z
+URL:https://locator.riftbound.uvsgames.com/events/228427
+GEO:48.79274359999999;2.4631197
+LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:pBzSeLTysEnwimt1bbRwV
+SUMMARY:Goupiya - samedi Morning Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T083000Z
+DTEND:20260207T113000Z
+URL:https://locator.riftbound.uvsgames.com/events/229225
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:QdjinO2p9IryosTyYYH4E
+SUMMARY:MEiSiA - mardi Evening Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T090000Z
+DTEND:20260207T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/214303
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:HRrLaGHvqi6xo-Tda9Xc7
+SUMMARY:Playin Paris BNF - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T103000Z
+DTEND:20260207T133000Z
+URL:https://locator.riftbound.uvsgames.com/events/224067
+GEO:48.8312895;2.3758214
+LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:ef96VNTc4B1Ze3202D2oc
+SUMMARY:Uchronies Games - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T130000Z
+DTEND:20260207T160000Z
+URL:https://locator.riftbound.uvsgames.com/events/246071
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:Rh-SZipbW_3dqHkmHyV0e
+SUMMARY:Le Repaire du Dragon - Avant-Première Spiritforged
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T133000Z
+DTEND:20260207T163000Z
+DESCRIPTION:Avant-première Riftbound Spiritforged.
+URL:https://locator.riftbound.uvsgames.com/events/244034
+GEO:48.87605589999999;2.3805953
+LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:EqsO7jfowDHbwWZt5aEOI
+SUMMARY:Parkage Paris - Spiritforged Pre-Rift Event - Parkage EDB
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T133000Z
+DTEND:20260207T163000Z
+DESCRIPTION:Plus d'infos prochainement !
+URL:https://locator.riftbound.uvsgames.com/events/218992
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:Fo_oLXR-X65-rRTogEkty
+SUMMARY:Goupiya - samedi Afternoon Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T143000Z
+DTEND:20260207T173000Z
+URL:https://locator.riftbound.uvsgames.com/events/229226
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:0H4fOdu2P8BiJW4HRQsk4
+SUMMARY:ULTRAJEUX BASTILLE - ULTRAJEUX Bastille - Spiritforged Pre-Rift Eve
+	nt
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T170000Z
+DTEND:20260207T200000Z
+DESCRIPTION:Seule la réservation d'une place sur ultrajeux.com garantit vot
+	re participation à cet évènement.\nPlaces et Tarif à venir sur notre site
+URL:https://locator.riftbound.uvsgames.com/events/220789
+GEO:48.8554475;2.3692011
+LOCATION:13 Rue Amelot\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:NCcd9rBxHRxf_NkQLxl4G
+SUMMARY:Playin Paris BNF - samedi Evening Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260207T180000Z
+DTEND:20260207T210000Z
+URL:https://locator.riftbound.uvsgames.com/events/245675
+GEO:48.8312895;2.3758214
+LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:9Y3RB8NkChOA57-OemniP
+SUMMARY:MEiSiA - Riftbound - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260208T090000Z
+DTEND:20260208T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/214297
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:VnCDrp9fQ00eee8CchY43
+SUMMARY:Playin Paris Rivoli - Spiritforged Pre-Rift Event Playin Rivoli
+DTSTAMP:20251105T100106Z
+DTSTART:20260208T113000Z
+DTEND:20260208T143000Z
+URL:https://locator.riftbound.uvsgames.com/events/215178
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:xQfTShFqF1t_oAY8oT-at
+SUMMARY:Atmos Arena - Atmos Arena - Avant première Spiritforged
+DTSTAMP:20251105T100106Z
+DTSTART:20260208T120000Z
+DTEND:20260208T150000Z
+URL:https://locator.riftbound.uvsgames.com/events/215226
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:qSBwmYevDCXjhPed6szwc
+SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Spiritforged Pre-Rift Ev
+	ent
+DTSTAMP:20251105T100106Z
+DTSTART:20260208T120000Z
+DTEND:20260208T150000Z
+DESCRIPTION:Célébrons l'arrivée de Spiritforged avec ce tournoi de Pre-Rift
+	 en mode scellé ! \n\nChaque kit d'événement pré-lancement Spiritforged co
+	ntient :\n- 1 mini-deck préconstruit (15 cartes\, dont Champion Légende et
+	 Unité Champion)\n- 5 boosters Spiritforged\n- 1 carte promo pré-lancement
+	\n\nChaque participant reçoit un kit pré-lancement et utilise son contenu 
+	pour :\n- Construire un deck à l'aide du mini-deck préconstruit\, des cinq
+	 boosters et de la carte promo inclus.\n- Participer à un tournoi avec le 
+	deck construit.
+URL:https://locator.riftbound.uvsgames.com/events/246671
+GEO:48.90035399999998;2.2140119999999994
+LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:FSEuj87tJU3Sm_NZnMwzs
+SUMMARY:Loufoque - Spiritforged Avant-première II Loufoque
+DTSTAMP:20251105T100106Z
+DTSTART:20260208T130000Z
+DTEND:20260208T160000Z
+DESCRIPTION:A venir
+URL:https://locator.riftbound.uvsgames.com/events/250123
+GEO:48.85108470000001;2.3468215
+LOCATION:5 Rue Dante\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:0TwVxWnrYYae7f3LqmptW
+SUMMARY:Uchronies Games - Spiritforged Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260208T130000Z
+DTEND:20260208T160000Z
+URL:https://locator.riftbound.uvsgames.com/events/246072
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:_TP8OC_BS-P9nUUTnr1_o
+SUMMARY:ULTRAJEUX OBERKAMPF - ULTRAJEUX Oberkampf - Pre-Rift Event
+DTSTAMP:20251105T100106Z
+DTSTART:20260209T180000Z
+DTEND:20260209T210000Z
+DESCRIPTION:Seule la réservation d'un place sur ultrajeux.com garantit votr
+	e participation à cet évènement.\nTarif à venir.
+URL:https://locator.riftbound.uvsgames.com/events/221773
+GEO:48.8639689;2.3715375
+LOCATION:47 Rue de la Folie Méricourt\, 75011 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:rPMYJ9EdqXINTCSIWzYYM
+SUMMARY:Geek Factory - Skirmish : Riftbound (Mars) - Samedi 07 : 10H - 18H.
+DTSTAMP:20251105T100106Z
+DTSTART:20260307T090000Z
+DTEND:20260307T120000Z
+DESCRIPTION:C'est parti pour le premier Skirmish de Riftbound ! Invocateurs
+	 préparez vos decks !\n\nDotation (et PRIX) PROVISOIRE: (sur la base de 16
+	 joueurs minimum)\n\n- Cartes Promotionnelles de participation.\n- Cartes 
+	Promotionnelles pour le top cut.\n- Un Playmate pour le Vainqueur\n- Le Va
+	inqueur recevra un Bye Round 1 a un Régional Qualifier.\n\nToutes particip
+	ation devra être validée par les organisateurs. Contactez le Geek Factory 
+	de Nogent-sur-Marne pour toute inscription ou question.
+URL:https://locator.riftbound.uvsgames.com/events/240240
+GEO:48.8355146;2.4725096
+LOCATION:4 Pl. du Général Leclerc\, 94130 Nogent-sur-Marne\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:iY3nty3FaXaWh6pfKX4O3
+SUMMARY:Parkage Paris - Summoner Skirmish - Parkage EDB
+DTSTAMP:20251105T100106Z
+DTSTART:20260307T103000Z
+DTEND:20260307T133000Z
+DESCRIPTION:Plus d'infos à venir !
+URL:https://locator.riftbound.uvsgames.com/events/219012
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:tj4U1TY-e9jVyuBim2C-8
+SUMMARY:Goupiya - samedi Afternoon Summoner Skirmish - March
+DTSTAMP:20251105T100106Z
+DTSTART:20260307T143000Z
+DTEND:20260307T173000Z
+URL:https://locator.riftbound.uvsgames.com/events/229205
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:3pPs0XV7FxkgdcWBGA2tz
+SUMMARY:Atmos Arena - Atmos Arena Skirmish Mars
+DTSTAMP:20251105T100106Z
+DTSTART:20260314T150000Z
+DTEND:20260314T180000Z
+URL:https://locator.riftbound.uvsgames.com/events/219759
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:7Ac74IeETm4m_uZGGCW_h
+SUMMARY:MEiSiA - Riftbound - Summoner Skirmish - Mars
+DTSTAMP:20251105T100106Z
+DTSTART:20260328T090000Z
+DTEND:20260328T120000Z
+URL:https://locator.riftbound.uvsgames.com/events/214306
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:YHzvv85TIaOcHudxmYrTs
+SUMMARY:Parkage Paris - Summoner Skirmish - Parkage EDB
+DTSTAMP:20251105T100106Z
+DTSTART:20260404T093000Z
+DTEND:20260404T123000Z
+DESCRIPTION:Plus d'infos prochainement !
+URL:https://locator.riftbound.uvsgames.com/events/219016
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:oHx6es02lZeHel5vZcrJD
+SUMMARY:Goupiya - samedi Afternoon Summoner Skirmish - April
+DTSTAMP:20251105T100106Z
+DTSTART:20260404T133000Z
+DTEND:20260404T163000Z
+URL:https://locator.riftbound.uvsgames.com/events/229209
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:3YyeQJqO4hKApdV-HHTXS
+SUMMARY:Geek Factory - Skirmish : Riftbound (Avril) - Dimanche 05 : 10H - 1
+	8H.
+DTSTAMP:20251105T100106Z
+DTSTART:20260405T153000Z
+DTEND:20260405T183000Z
+DESCRIPTION:C'est parti pour un Skirmish de Riftbound ! Invocateurs prépare
+	z vos decks !\n\nDotation (et PRIX) PROVISOIRE: (sur la base de 16 joueurs
+	 minimum)\n\n- Cartes Promotionnelles de participation.\n- Cartes Promotio
+	nnelles pour le top cut.\n- Un Playmate pour le Vainqueur\n- Le Vainqueur 
+	recevra un Bye Round 1 a un Régional Qualifier.\n\nToutes participation de
+	vra être validée par les organisateurs. Contactez le Geek Factory de Nogen
+	t-sur-Marne pour toute inscription ou question.
+URL:https://locator.riftbound.uvsgames.com/events/240243
+GEO:48.8355146;2.4725096
+LOCATION:4 Pl. du Général Leclerc\, 94130 Nogent-sur-Marne\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:nMKK0XFd4WDWmI9ODb-aF
+SUMMARY:MEiSiA - Riftbound - Summoner Skirmish - Avril
+DTSTAMP:20251105T100106Z
+DTSTART:20260426T080000Z
+DTEND:20260426T110000Z
+URL:https://locator.riftbound.uvsgames.com/events/214309
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+END:VEVENT
+END:VCALENDAR
