@@ -1,0 +1,33 @@
+name: Update Riftbound Calendar Daily
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs daily at 4:00 AM UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run Bun script
+        run: bun run start
+
+      - name: Commit and push .ics file
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git add events.ics
+          git commit -m "Update events.ics [auto]" || echo "No changes to commit"
+          git push
