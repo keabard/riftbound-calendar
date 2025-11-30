@@ -163,7 +163,13 @@ const mapUVSEventToICSEvent = (event: EventLocatorResponse['results'][number]): 
     location: event.full_address,
     url: `https://locator.riftbound.uvsgames.com/events/${event.id}`,
     geo: { lat: event.latitude, lon: event.longitude },
-    lastModified: today.toISOString(),
+    lastModified: [
+      today.getFullYear(),
+      today.getMonth() + 1,
+      today.getDate(),
+      today.getHours(),
+      today.getMinutes(),
+    ],
   }
 }
 
