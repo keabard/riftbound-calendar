@@ -34,7 +34,7 @@ const eventLocatorResponseSchema = z.object({
         maximum_number_of_game_wins_per_match: z.number(),
         maximum_number_of_draws_per_match: z.null(),
         checkin_methods: z.array(z.string()),
-        stripe_price_id: z.null(),
+        stripe_price_id: z.string().nullable(),
         maximum_number_of_players_in_match: z.number(),
         enable_waitlist: z.boolean()
       }),
