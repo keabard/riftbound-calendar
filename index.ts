@@ -2,6 +2,45 @@ import z from 'zod'
 import ics, { EventAttributes } from 'ics'
 import { writeFileSync } from 'fs'
 
+const PARIS_COORDINATES = { latitude: 48.8571346, longitude: 2.3479679, radius: 8 }
+const LE_MANS_COORDINATES = { latitude: 48.006110, longitude: 0.199556, radius: 4 }
+
+const mapUVSEventToICSEvent = (event: EventLocatorResponse['results'][number]): EventAttributes => {
+  const today = new Date()
+  const startDate = new Date(event.start_datetime)
+  const endDate = event.end_datetime ? new Date(event.end_datetime) : new Date(startDate.getTime() + 3 * 60 * 60 * 1000); // Default to 3 hours if no end date
+
+  return {
+    start: [
+      startDate.getFullYear(),
+      startDate.getMonth() + 1,
+      startDate.getDate(),
+      startDate.getHours(),
+      startDate.getMinutes(),
+    ],
+    end: [
+      endDate.getFullYear(),
+      endDate.getMonth() + 1,
+      endDate.getDate(),
+      endDate.getHours(),
+      endDate.getMinutes(),
+    ],
+    title: `${event.store.name} - ${event.name}`,
+    description: event.description.replace(/<[^>]+>/g, ''),
+    location: event.full_address,
+    url: `https://locator.riftbound.uvsgames.com/events/${event.id}`,
+    geo: { lat: event.latitude, lon: event.longitude },
+    lastModified: [
+      today.getFullYear(),
+      today.getMonth() + 1,
+      today.getDate(),
+      today.getHours(),
+      today.getMinutes(),
+    ],
+  }
+}
+
+
 const eventLocatorResponseSchema = z.object({
   page_size: z.number(),
   count: z.number(),
@@ -130,54 +169,38 @@ type EventLocatorResponse = z.infer<typeof eventLocatorResponseSchema>
 
 const today = new Date()
 
-const response = await fetch(`https://api.cloudflare.riftbound.uvsgames.com/hydraproxy/api/v2/events/?start_date_after=${today.toISOString()}&display_status=upcoming&latitude=48.8571346&longitude=2.3479679&num_miles=8&upcoming_only=true&game_slug=riftbound&page=1&page_size=200`, {
+const parisResponse = await fetch(`https://api.cloudflare.riftbound.uvsgames.com/hydraproxy/api/v2/events/?start_date_after=${today.toISOString()}&display_status=upcoming&latitude=${PARIS_COORDINATES.latitude}&longitude=${PARIS_COORDINATES.longitude}&num_miles=${PARIS_COORDINATES.radius}&upcoming_only=true&game_slug=riftbound&page=1&page_size=200`, {
 	tls: {
 		rejectUnauthorized: false,
 	},
 })
 
-const responseJSON = await response.json()
-const result = eventLocatorResponseSchema.parse(responseJSON)
+const parisResponseJSON = await parisResponse.json()
+const parisResult = eventLocatorResponseSchema.parse(parisResponseJSON)
 
-const mapUVSEventToICSEvent = (event: EventLocatorResponse['results'][number]): EventAttributes => {
-  const startDate = new Date(event.start_datetime)
-  const endDate = event.end_datetime ? new Date(event.end_datetime) : new Date(startDate.getTime() + 3 * 60 * 60 * 1000); // Default to 3 hours if no end date
-
-  return {
-    start: [
-      startDate.getFullYear(),
-      startDate.getMonth() + 1,
-      startDate.getDate(),
-      startDate.getHours(),
-      startDate.getMinutes(),
-    ],
-    end: [
-      endDate.getFullYear(),
-      endDate.getMonth() + 1,
-      endDate.getDate(),
-      endDate.getHours(),
-      endDate.getMinutes(),
-    ],
-    title: `${event.store.name} - ${event.name}`,
-    description: event.description.replace(/<[^>]+>/g, ''),
-    location: event.full_address,
-    url: `https://locator.riftbound.uvsgames.com/events/${event.id}`,
-    geo: { lat: event.latitude, lon: event.longitude },
-    lastModified: [
-      today.getFullYear(),
-      today.getMonth() + 1,
-      today.getDate(),
-      today.getHours(),
-      today.getMinutes(),
-    ],
-  }
-}
-
-ics.createEvents(result.results.map(mapUVSEventToICSEvent), (error, value) => {
+ics.createEvents(parisResult.results.map(mapUVSEventToICSEvent), (error, value) => {
   if (error) {
     console.log('ICS ERROR', error);
     return;
   }
 
   writeFileSync('events.ics', value);
+});
+
+const leMansResponse = await fetch(`https://api.cloudflare.riftbound.uvsgames.com/hydraproxy/api/v2/events/?start_date_after=${today.toISOString()}&display_status=upcoming&latitude=${LE_MANS_COORDINATES.latitude}&longitude=${LE_MANS_COORDINATES.longitude}&num_miles=${LE_MANS_COORDINATES.radius}&upcoming_only=true&game_slug=riftbound&page=1&page_size=200`, {
+	tls: {
+		rejectUnauthorized: false,
+	},
+})
+
+const leMansResponseJSON = await leMansResponse.json()
+const leMansResult = eventLocatorResponseSchema.parse(leMansResponseJSON)
+
+ics.createEvents(leMansResult.results.map(mapUVSEventToICSEvent), (error, value) => {
+  if (error) {
+    console.log('ICS ERROR', error);
+    return;
+  }
+
+  writeFileSync('events_le_mans.ics', value);
 });
