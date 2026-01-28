@@ -1,6 +1,7 @@
 name: Update Riftbound Calendar Daily
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 4 * * *' # Runs daily at 4:00 AM UTC
 
