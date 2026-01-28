@@ -150,7 +150,7 @@ const eventLocatorResponseSchema = z.object({
         id: z.number(),
         name: z.string(),
         full_address: z.string(),
-        city: z.string(),
+        city: z.string().nullable(),
         country: z.string().nullable(),
         state: z.string().nullable(),
         latitude: z.number(),
