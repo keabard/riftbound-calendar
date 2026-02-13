@@ -5,84 +5,46 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:i2WJDJmBb439Xwgei3iyn
-SUMMARY:sortileges le mans - mercredi Evening Riftbound Open Play
-DTSTAMP:20260106T085101Z
-DTSTART:20260107T190000Z
-DTEND:20260107T220000Z
-DESCRIPTION:Summoner Open play Sortileges le mans à la visitation !
-URL:https://locator.riftbound.uvsgames.com/events/290604
-GEO:48.0042587;0.1950965
-LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
-	000\, FR
-LAST-MODIFIED:20260106T085100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:JzkouxLVIZSBoHCYMfQge
-SUMMARY:Ecoloustik - Evenement jeu libre
-DTSTAMP:20260106T085101Z
-DTSTART:20260117T190000Z
-DTEND:20260117T220000Z
-DESCRIPTION:Soirée jeu libre. Echanges\, initiation\, découverte.\nGratuit
-URL:https://locator.riftbound.uvsgames.com/events/307064
+UID:T4u_rg26r9KMxW6fZOD8z
+SUMMARY:Ecoloustik - RIFTBOUND Open Play Écoloustik
+DTSTAMP:20260213T110619Z
+DTSTART:20260213T190000Z
+DTEND:20260213T220000Z
+DESCRIPTION:Soirée jeu libre. \nÉchanges\, initiation\, découverte.\nGratui
+	t
+URL:https://locator.riftbound.uvsgames.com/events/387338
 GEO:48.0329431;0.1748939
 LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
-LAST-MODIFIED:20260106T085100Z
+LAST-MODIFIED:20260213T110600Z
 END:VEVENT
 BEGIN:VEVENT
-UID:L6wfDeLtXFTjG5TvNqtmu
-SUMMARY:Ecoloustik - Soirée jeu libre
-DTSTAMP:20260106T085101Z
-DTSTART:20260128T190000Z
-DTEND:20260128T220000Z
+UID:1WaRcAVZ3biQH1ffrCkDs
+SUMMARY:Ecoloustik - Soirée RIFTBOUND jeu libre
+DTSTAMP:20260213T110619Z
+DTSTART:20260220T190000Z
+DTEND:20260220T220000Z
 DESCRIPTION:Soirée jeu libre. Echanges\, initiation\, découverte.\nGratuit
-URL:https://locator.riftbound.uvsgames.com/events/307065
+URL:https://locator.riftbound.uvsgames.com/events/347747
 GEO:48.0329431;0.1748939
 LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
-LAST-MODIFIED:20260106T085100Z
+LAST-MODIFIED:20260213T110600Z
 END:VEVENT
 BEGIN:VEVENT
-UID:JPyW_rHM_WHZ0hdTtYhqW
-SUMMARY:sortileges le mans - mercredi Evening Riftbound Open Play
-DTSTAMP:20260106T085101Z
-DTSTART:20260204T190000Z
-DTEND:20260204T220000Z
-DESCRIPTION:Summoner Open play Sortileges le mans à la visitation !
-URL:https://locator.riftbound.uvsgames.com/events/290606
-GEO:48.0042587;0.1950965
-LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
-	000\, FR
-LAST-MODIFIED:20260106T085100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:0tcFpKrS1K4OYpHAkUCXN
-SUMMARY:sortileges le mans - vendredi Evening Spiritforged Pre-Rift Event
-DTSTAMP:20260106T085101Z
-DTSTART:20260206T190000Z
-DTEND:20260206T220000Z
-DESCRIPTION:b01\n5 round\ndeck semi préconstruit à améliorer avec 5 booster
-	s à ouvrir le jour J.
-URL:https://locator.riftbound.uvsgames.com/events/237347
-GEO:48.0042587;0.1950965
-LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
-	000\, FR
-LAST-MODIFIED:20260106T085100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:QJbCzqFgHv7n3jWZT2rna
-SUMMARY:La Boîte à Jeux - samedi Afternoon Spiritforged Pre-Rift Event
-DTSTAMP:20260106T085101Z
-DTSTART:20260207T130000Z
-DTEND:20260207T160000Z
-URL:https://locator.riftbound.uvsgames.com/events/299125
+UID:oI4R7J9Jab8mSakhIPgLt
+SUMMARY:La Boîte à Jeux - Saturday Afternoon Nexus Nights - 1v1
+DTSTAMP:20260213T110619Z
+DTSTART:20260221T130000Z
+DTEND:20260221T160000Z
+DESCRIPTION:tournoi quotidien nexus night
+URL:https://locator.riftbound.uvsgames.com/events/364014
 GEO:48.000268;0.198692
 LOCATION:20 Bis Rue nationale\, Le Mans\, Pays de la Loire\, 72000\, FR
-LAST-MODIFIED:20260106T085100Z
+LAST-MODIFIED:20260213T110600Z
 END:VEVENT
 BEGIN:VEVENT
-UID:MFUxCNMkkWSpZCP0EUZv_
+UID:mZJlPG8fCXDkCO9Qa_abF
 SUMMARY:sortileges le mans - mercredi Evening Summoner Skirmish - March
-DTSTAMP:20260106T085101Z
+DTSTAMP:20260213T110619Z
 DTSTART:20260304T190000Z
 DTEND:20260304T220000Z
 DESCRIPTION:March Summoner Skirmish Sortileges le mans à la visitation !
@@ -90,12 +52,12 @@ URL:https://locator.riftbound.uvsgames.com/events/290601
 GEO:48.0042587;0.1950965
 LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
 	000\, FR
-LAST-MODIFIED:20260106T085100Z
+LAST-MODIFIED:20260213T110600Z
 END:VEVENT
 BEGIN:VEVENT
-UID:qZI-KRoeNAmnZ_4oFDuDH
+UID:JNhftu7HQPNuQpsqWxVXt
 SUMMARY:sortileges le mans - mercredi Evening Summoner Skirmish - April
-DTSTAMP:20260106T085101Z
+DTSTAMP:20260213T110619Z
 DTSTART:20260401T180000Z
 DTEND:20260401T210000Z
 DESCRIPTION:Summoner Skirmish Sortileges le mans à la visitation !
@@ -103,6 +65,6 @@ URL:https://locator.riftbound.uvsgames.com/events/290598
 GEO:48.0042587;0.1950965
 LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
 	000\, FR
-LAST-MODIFIED:20260106T085100Z
+LAST-MODIFIED:20260213T110600Z
 END:VEVENT
 END:VCALENDAR
