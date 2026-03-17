@@ -57,8 +57,8 @@ const eventLocatorResponseSchema = z.object({
       start_datetime: z.string(),
       end_datetime: z.string().nullable(),
       day_2_start_datetime: z.null(),
-      timer_end_datetime: z.null(),
-      timer_paused_at_datetime: z.null(),
+      timer_end_datetime: z.string().nullable(),
+      timer_paused_at_datetime: z.string().nullable(),
       timer_is_running: z.boolean(),
       description: z.string(),
       settings: z.object({
