@@ -160,7 +160,7 @@ const eventLocatorResponseSchema = z.object({
       }),
       convention: z.null(),
       gameplay_format: z.object({ id: z.string(), name: z.string() }),
-      distance_in_miles: z.null(),
+      distance_in_miles: z.number().nullable(),
       display_status: z.string()
     })
   )
