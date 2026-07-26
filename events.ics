@@ -5,488 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qy-F7QKobinXtwQ1cbcND
-SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T080000Z
-DTEND:20260725T121000Z
-DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
-	s/
-URL:https://locator.riftbound.uvsgames.com/events/507082
-GEO:48.8693694;2.3569353
-LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:xCLge5TmL6IUkIg0XQcrN
-SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T080000Z
-DTEND:20260725T112000Z
-DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
-	nez-nous pour l’avant-première Riftbound: Vendetta !\n\nEnvie de découvrir
-	 le nouveau set Vendetta avant tout le monde ? On vous propose une matinée
-	 spéciale pour plonger directement dans les nouveautés de Riftbound – Leag
-	ue of Legends TCG\, dans une ambiance détendue et conviviale.\n\nLors de c
-	et événement en format scellé\, chacun repart avec un kit Pre-Rift contena
-	nt un mini-deck prêt à jouer\, plusieurs boosters Vendetta et une carte pr
-	omo exclusive. De quoi construire votre deck sur place et tester immédiate
-	ment les nouvelles mécaniques autour de quelques rondes.\n\nQue vous soyez
-	 joueur régulier ou simplement curieux\, c’est le moment idéal pour :\n\n-
-	     mettre la main sur les nouvelles cartes en avant-première\n-     expé
-	rimenter des stratégies et tenter des combos inédits\n-     rencontrer d’a
-	utres joueurs de la communauté\n-     passer une bonne soirée autour du je
-	u\, sans pression\n\nFormat : Scellé\n\nStructure : 4 rondes Suisses BO1 d
-	e 30 minutes\n\nDotation :\n\n-     1 booster Riftbound pour chaque partic
-	ipant\n-     2.50€ par ronde gagnée\n-     1\,50€ par match nul
-URL:https://locator.riftbound.uvsgames.com/events/535560
-GEO:48.8469379;2.2991451
-LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:npFhljH5lGQn7DmbNqiNb
-SUMMARY:Les Gentlemen du Jeu - Pigalle - Riftbound - Pre-Rift Vendetta - Sa
-	medi 25 Juillet à 10h - Pigalle
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T080000Z
-DTEND:20260725T121000Z
-DESCRIPTION:Rejoignez nous pour une Avant-Première Riftbound Vendetta aux G
-	entlemen du Jeu - Pigalle. 72 rue des Martyrs\, 75009 Paris\nInformations 
-	et Réservations sur https://lesgentlemendujeu.com/evenements-riftbound/123
-	93-riftbound-pre-rift-vendetta-pigalle-samedi-25-juillet-a-10h.html
-URL:https://locator.riftbound.uvsgames.com/events/521834
-GEO:48.881438599999996;2.3400781999999998
-LOCATION:72 R. des Martyrs\, 75009 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:vugJELm--W_R9zpFhZSPh
-SUMMARY:Geek Factory - GEEK FACTORY NOGENT PRE RELEASE VENDETTA SAMEDI - 10
-	H
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T080000Z
-DTEND:20260725T121000Z
-DESCRIPTION:Nos avant premières sont en 3 rondes.
-URL:https://locator.riftbound.uvsgames.com/events/511796
-GEO:48.8353478;2.4736673
-LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:LNaHCG-5IwwX4IVAmrx1G
-SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - SAMEDI 25 JU
-	ILLET 11H00
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T090000Z
-DTEND:20260725T131000Z
-DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
-	ikgames.com/fr/10000010-evenements\n\nLES INSCRIPTION SUR LE LOCATOR NE SE
-	RONT PAS PRIS EN COMPTE SI VOUS NE VOUS ÊTES PAS INSCRIT SUR NOTRE SITE AU
-	 PRÉALABLE.\n\nChaque participant reçoit un Kit d'avant première et utilis
-	e son contenu pour jouer.\nConstruisez un deck à l’aide du mini-deck préco
-	nstruit inclus\, de cinq boosters et d’une carte promotionnelle.\nProfitez
-	 d’une expérience de pré lancement accessible et idéale pour les débutants
-	\, tout en découvrant Vendetta avant sa sortie.\n\nFormat : Scellé\nStruct
-	ure : 3 rondes suisse en Bo3 de 50 minutes.\nTarif : 35€\nPlaces : 18 plac
-	es\nHoraires : Début du tournoi à 11h00\, fin vers 15h00.\nLieu : Boutique
-	 MajestiK Games\, 148 avenue du Maine\, 75014 Paris.\nAccès : 10min à pied
-	 de la station Denfert-Rochereau Métro 6 4 et RER B\, Métro 13 station Gaî
-	té\, Montparnasse Ligne N.\n\n\nLots :\n\n1 booster Riftbound pour chaque 
-	participant
-URL:https://locator.riftbound.uvsgames.com/events/520742
-GEO:48.8342176;2.3239146
-LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:W3fufkPnWZ0X9UiCJ_VYs
-SUMMARY:Le Repaire du Dragon - Le Repaire Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T090000Z
-DTEND:20260725T122000Z
-DESCRIPTION:Avant première Vendetta au Repaire du Dragon: \n\nDébut du tour
-	noi :\n\n    Samedi 25 juillet - 11h00\n    Nous invitons les participants
-	 à venir au moins 15 minutes à l'avance.\n\nLieu du tournoi :\n\n    A la 
-	boutique : 43 bis avenue Simon Bolivar 75019 Paris\n\nFormat du Tournoi :\
-	n\n    Paquet Scellé : Chaque joueur ouvrira un pack d'avant-première cont
-	enant un mini deck de 15 cartes avec un champion (parmi 6 aléatoire)\, une
-	 carte promo et 5 booster Vendetta avec lesquels il devra constituer un de
-	ck \n    Tournoi en Ronde suisse : les participants feront 3 rondes .\n\nR
-	écompense :\n\n    Des boosters seront à gagner en fonction du classement.
-	\n\nLes inscriptions pour cet évènement se font sur le site du Repaire du 
-	Dragon [ici](https://www.lerepairedudragon.fr/2393-riftbound)
-URL:https://locator.riftbound.uvsgames.com/events/544844
-GEO:48.87605589999999;2.3805953
-LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:FfMJspQ8C89OaCJ1YoRK4
-SUMMARY:Troll2jeux - Avant-Première Vendetta le 25 juillet 2026 à 11 heures
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T090000Z
-DTEND:20260725T131000Z
-DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound - League O
-	f legends TCG ! \n\nEmbarquez vous dans la faille de l'invocateur avec un 
-	scellé pour démarrer votre lancée dans l'extension !\n\nL'évènement se pré
-	sentera par un format scellé\, chaque joueur obtiendra un kit d'avant prem
-	ière du jeu.\n\nChaque kit d'avant première contiendra : \n\n- Un mini-dec
-	k préconstruit de 15 cartes avec la Légende comprise.\n- 5 Boosters Riftbo
-	und: Vendetta\n- 1 carte promo de pre-release Vendetta\n\nNombre de joueur
-	s : 32 joueur(euses)\nHeure de début : 11h\nNombre de rondes : 3 rondes \n
-	Lots : 1 booster Vendetta par victoire au delà de la première avec un mini
-	mum de 1.\n\nQu'attendez-vous ? Plongez dans la faille et rejoignez des ba
-	tailles épiques sur table !
-URL:https://locator.riftbound.uvsgames.com/events/503602
-GEO:48.8487755;2.3788405
-LOCATION:15-17 Place d'Aligre\, 15-17 Place d'Aligre\, Paris\, IDF\, 75012\
-	, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:Czx0edqy_AwpU4H5fdghd
-SUMMARY:Parkage Paris - Tournoi Vendetta Pre-Rift
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T091500Z
-DTEND:20260725T114500Z
-DESCRIPTION:INSCRIPTION PRIORITAIRE SUR PARKAGE.COM
-URL:https://locator.riftbound.uvsgames.com/events/608372
-GEO:48.8413925;2.3505626
-LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4VpFyjFvRobNRp8t1EFG6
-SUMMARY:Les Jeux de l'Olympe - Avant-Première Vendetta
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T120000Z
-DTEND:20260725T143000Z
-DESCRIPTION:scellé\, 3 rondes BO1\nLots : 3 boosters Nexus Night pour tous.
-	 1 booster Vendetta pour le vainqueur.
-URL:https://locator.riftbound.uvsgames.com/events/497609
-GEO:48.8399231;2.4965956
-LOCATION:25 avenue ledru-rollin\, Le Perreux sur Marne\, 94170\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:3PqJYWTQwk-V4H-JmqPzr
-SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T120000Z
-DTEND:20260725T152000Z
-DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
-	nez-nous pour l’avant-première Riftbound: Vendetta !\n\nEnvie de découvrir
-	 le nouveau set Vendetta avant tout le monde ? On vous propose une matinée
-	 spéciale pour plonger directement dans les nouveautés de Riftbound – Leag
-	ue of Legends TCG\, dans une ambiance détendue et conviviale.\n\nLors de c
-	et événement en format scellé\, chacun repart avec un kit Pre-Rift contena
-	nt un mini-deck prêt à jouer\, plusieurs boosters Vendetta et une carte pr
-	omo exclusive. De quoi construire votre deck sur place et tester immédiate
-	ment les nouvelles mécaniques autour de quelques rondes.\n\nQue vous soyez
-	 joueur régulier ou simplement curieux\, c’est le moment idéal pour :\n\n-
-	     mettre la main sur les nouvelles cartes en avant-première\n-     expé
-	rimenter des stratégies et tenter des combos inédits\n-     rencontrer d’a
-	utres joueurs de la communauté\n-     passer une bonne soirée autour du je
-	u\, sans pression\n\nFormat : Scellé\n\nStructure : 4 rondes Suisses BO1 d
-	e 30 minutes\n\nDotation :\n\n-     1 booster Riftbound pour chaque partic
-	ipant\n-     2.50€ par ronde gagnée\n-     1\,50€ par match nul
-URL:https://locator.riftbound.uvsgames.com/events/535561
-GEO:48.8469379;2.2991451
-LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:NSTf6q_Kp2J9BMTBchcUy
-SUMMARY:BULLE DE JEUX - COURBEVOIE - Avant-Première Riftbound Vendetta
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T120000Z
-DTEND:20260725T140000Z
-URL:https://locator.riftbound.uvsgames.com/events/616589
-GEO:48.896093699999994;2.2527014999999997
-LOCATION:Centre Commercial Charras\, 12 Rue Baudin\, 92400 Courbevoie\, Fra
-	nce
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2N-vNourBX27s7j43S5QJ
-SUMMARY:Les Gentlemen du Jeu - Pigalle - Riftbound - Pre-Rift Vendetta - Sa
-	medi 25 Juillet à 14h - Pigalle
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T120000Z
-DTEND:20260725T143000Z
-DESCRIPTION:Rejoignez nous pour une Avant-Première Riftbound Vendetta aux G
-	entlemen du Jeu - Pigalle. 72 rue des Martyrs\, 75009 Paris\nInformations 
-	et Réservations sur https://lesgentlemendujeu.com/evenements-riftbound/123
-	94-riftbound-pre-rift-vendetta-pigalle-samedi-25-juillet-a-14h.html
-URL:https://locator.riftbound.uvsgames.com/events/521836
-GEO:48.881438599999996;2.3400781999999998
-LOCATION:72 R. des Martyrs\, 75009 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ewmEZUJUaLkfvj9dGpJKN
-SUMMARY:MYSTIC GAMES - Saturday Afternoon Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T120000Z
-DTEND:20260725T152000Z
-URL:https://locator.riftbound.uvsgames.com/events/535533
-GEO:48.8263632;2.2474114
-LOCATION:270 Boulevard Jean Jaurès\, Boulogne Billancourt\, IDF\, 92100\, F
-	R
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:8VyeBhlQ5XpyGu6BuJMWC
-SUMMARY:Le Troll Savant - Le Troll Savant Créteil - AP Vendetta 25/07/26
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T120000Z
-DTEND:20260725T152000Z
-DESCRIPTION:Infos et inscriptions à notre avant première Vendetta (ENG) du 
-	24/07 sur notre profil Eventbrite par ici : \n\nhttps://www.eventbrite.fr/
-	e/billets-avant-premiere-riftbound-vendetta-samedi-2507-14h00-199258005357
-	9?aff=oddtdtcreator&_gl=1*vqswyj*_up*MQ..*_ga*NjY0NDQ4NjA0LjE3ODM0MTUyOTA.
-	*_ga_TQVES5V6SH*czE3ODM0MTUyODkkbzEkZzAkdDE3ODM0MTUyODkkajYwJGwwJGgw&keep_
-	tld=true
-URL:https://locator.riftbound.uvsgames.com/events/751842
-GEO:48.79274359999999;2.4631197
-LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:D0uzspNI4urQOXq_67crp
-SUMMARY:Chasseur de jeux - Soirées Nexus du samedi après-midi - 1v1
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T123000Z
-DTEND:20260725T150000Z
-URL:https://locator.riftbound.uvsgames.com/events/640610
-GEO:48.9185933;2.4491500999999998
-LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:y5_0Ss-0uo7b0wIEpS64z
-SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T123000Z
-DTEND:20260725T164000Z
-DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
-	s/
-URL:https://locator.riftbound.uvsgames.com/events/507146
-GEO:48.8693694;2.3569353
-LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:mEnvsgTRxhtgLy6j8o42h
-SUMMARY:Chasseur de jeux - Saturday Afternoon Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T123000Z
-DTEND:20260725T155000Z
-URL:https://locator.riftbound.uvsgames.com/events/540547
-GEO:48.9185933;2.4491500999999998
-LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:vYOzq0r5WMFBsN9Ur9wNg
-SUMMARY:Le Repaire du Dragon - Le Repaire Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T130000Z
-DTEND:20260725T162000Z
-DESCRIPTION:Avant première Vendetta au Repaire du Dragon: \n\nDébut du tour
-	noi :\n\n    Samedi 25 juillet - 15h00\n    Nous invitons les participants
-	 à venir au moins 15 minutes à l'avance.\n\nLieu du tournoi :\n\n    A la 
-	boutique : 43 bis avenue Simon Bolivar 75019 Paris\n\nFormat du Tournoi :\
-	n\n    Paquet Scellé : Chaque joueur ouvrira un pack d'avant-première cont
-	enant un mini deck de 15 cartes avec un champion (parmi 6 aléatoire)\, une
-	 carte promo et 5 booster Vendetta avec lesquels il devra constituer un de
-	ck \n    Tournoi en Ronde suisse : les participants feront 3 rondes .\n\nR
-	écompense :\n\n    Des boosters seront à gagner en fonction du classement.
-	\n\nLes inscriptions pour cet évènement se font sur le site du Repaire du 
-	Dragon [ici](https://www.lerepairedudragon.fr/2393-riftbound)
-URL:https://locator.riftbound.uvsgames.com/events/544845
-GEO:48.87605589999999;2.3805953
-LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:NeRONWfUZ4HKRMoubCUTS
-SUMMARY:Geek Factory - GEEK FACTORY NOGENT PRE RELEASE VENDETTA SAMEDI - 15
-	H
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T130000Z
-DTEND:20260725T171000Z
-DESCRIPTION:informations à venir.\nNos avant premières sont en 3 rondes.
-URL:https://locator.riftbound.uvsgames.com/events/511793
-GEO:48.8353478;2.4736673
-LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:GpvFNPMadHSwNBFgHecQq
-SUMMARY:Goupiya - Saturday Afternoon Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T130000Z
-DTEND:20260725T171000Z
-URL:https://locator.riftbound.uvsgames.com/events/503164
-GEO:48.758216;2.306741
-LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:qIUSs-QL_Aw6ULkHomBNy
-SUMMARY:Atmos Arena - Avant-Premiere Vendetta 25/07 (Pre-Rift Event)
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T130000Z
-DTEND:20260725T171000Z
-URL:https://locator.riftbound.uvsgames.com/events/604508
-GEO:48.8672591;2.3524848
-LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ngLPlZkPIjSURbWRvOOVh
-SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - SAMEDI 25 JU
-	ILLET 15H00
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T130000Z
-DTEND:20260725T171000Z
-DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
-	ikgames.com/fr/10000010-evenements\n\nLES INSCRIPTION SUR LE LOCATOR NE SE
-	RONT PAS PRIS EN COMPTE SI VOUS NE VOUS ÊTES PAS INSCRIT SUR NOTRE SITE AU
-	 PRÉALABLE.\n\nChaque participant reçoit un Kit d'avant première et utilis
-	e son contenu pour jouer.\nConstruisez un deck à l’aide du mini-deck préco
-	nstruit inclus\, de cinq boosters et d’une carte promotionnelle.\nProfitez
-	 d’une expérience de pré lancement accessible et idéale pour les débutants
-	\, tout en découvrant Vendetta avant sa sortie.\n\nFormat : Scellé\nStruct
-	ure : 3 rondes suisse en Bo3 de 50 minutes.\nTarif : 35€\nPlaces : 18 plac
-	es\nHoraires : Début du tournoi à 15h00\, fin vers 19h30.\nLieu : Boutique
-	 MajestiK Games\, 148 avenue du Maine\, 75014 Paris.\nAccès : 10min à pied
-	 de la station Denfert-Rochereau Métro 6 4 et RER B\, Métro 13 station Gaî
-	té\, Montparnasse Ligne N.\n\n\nLots :\n\n1 booster Riftbound pour chaque 
-	participant
-URL:https://locator.riftbound.uvsgames.com/events/520748
-GEO:48.8342176;2.3239146
-LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:5SQzu59lFglhubEX2m_S2
-SUMMARY:Playin Paris BNF - Avant Première Vendetta Play-in #3
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T130000Z
-DTEND:20260725T171000Z
-URL:https://locator.riftbound.uvsgames.com/events/526534
-GEO:48.8312895;2.3758214
-LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cNis6SABeOszZT99rwNWO
-SUMMARY:Troll2jeux - Avant-Première Vendetta le 25 juillet 2026 à 16 heures
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T140000Z
-DTEND:20260725T181000Z
-DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound - League O
-	f legends TCG ! \n\nEmbarquez vous dans la faille de l'invocateur avec un 
-	scellé pour démarrer votre lancée dans l'extension !\n\nL'évènement se pré
-	sentera par un format scellé\, chaque joueur obtiendra un kit d'avant prem
-	ière du jeu.\n\nChaque kit d'avant première contiendra : \n\n- Un mini-dec
-	k préconstruit de 15 cartes avec la Légende comprise.\n- 5 Boosters Riftbo
-	und: Vendetta\n- 1 carte promo de pre-release Vendetta\n\nNombre de joueur
-	s : 40 joueur(euses)\nHeure de début : 16h\nNombre de rondes : 3 rondes \n
-	Lots : 1 booster Vendetta par victoire au delà de la première avec un mini
-	mum de 1.\n\nQu'attendez-vous ? Plongez dans la faille et rejoignez des ba
-	tailles épiques sur table !*
-URL:https://locator.riftbound.uvsgames.com/events/503605
-GEO:48.8487755;2.3788405
-LOCATION:15-17 Place d'Aligre\, 15-17 Place d'Aligre\, Paris\, IDF\, 75012\
-	, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:6n9R1wEn2HVFeyigCg43O
-SUMMARY:BaronCollections Paris - Saturday Night Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T150000Z
-DTEND:20260725T182000Z
-URL:https://locator.riftbound.uvsgames.com/events/545854
-GEO:48.864591399999995;2.3682141999999997
-LOCATION:26 Bd Voltaire\, 75011 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:_DBfbIBvYTiumMLqMQG5M
-SUMMARY:Les Gentlemen du Jeu - Pigalle - Riftbound - Nexus - Tournoi Scellé
-	 Set 2 et 3 FR - Samedi 25 Juillet à 17h30 - Pigalle
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T153000Z
-DTEND:20260725T185000Z
-DESCRIPTION:Informations et Réservations sur : https://lesgentlemendujeu.co
-	m/evenements-riftbound/12488-riftbound-nexus-tournoi-scelle-set-2-et-3-fr-
-	samedi-25-juillet-a-17h30-pigalle.html
-URL:https://locator.riftbound.uvsgames.com/events/775351
-GEO:48.881438599999996;2.3400781999999998
-LOCATION:72 R. des Martyrs\, 75009 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:utCCCmRyUcL8uERIG3tGh
-SUMMARY:ULTRAJEUX BASTILLE - 0725 - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T153000Z
-DTEND:20260725T185000Z
-DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
-	ipation à cet évènement
-URL:https://locator.riftbound.uvsgames.com/events/583250
-GEO:48.8554475;2.3692011
-LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:89bQZT7gZj1GCT0AcHb__
-SUMMARY:Parkage Paris - Tournoi Vendetta Pre-Rift
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T163000Z
-DTEND:20260725T190000Z
-DESCRIPTION:INSCRIPTION PRIORITAIRE SUR PARKAGE.COM
-URL:https://locator.riftbound.uvsgames.com/events/608426
-GEO:48.8413925;2.3505626
-LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:fEOZXS-LWUjRU8MD82fbA
-SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre Rift Vendetta - Samedi 25 Ju
-	illet à 19h30 - Gambetta
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T173000Z
-DTEND:20260725T214000Z
-DESCRIPTION:Informations et réservations : https://lesgentlemendujeu.com/ev
-	enements-riftbound/12395-riftbound-pre-rift-vendetta-gambetta-samedi-25-ju
-	illet-a-19h30.html
-URL:https://locator.riftbound.uvsgames.com/events/712371
-GEO:48.8642911;2.3976277
-LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:p6-BOhALPWeb4K0ESm1Tx
-SUMMARY:Playin Paris BNF - Avant Première Vendetta Play-in #2
-DTSTAMP:20260725T061617Z
-DTSTART:20260725T210000Z
-DTEND:20260726T011000Z
-URL:https://locator.riftbound.uvsgames.com/events/526533
-GEO:48.8312895;2.3758214
-LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:PJNxdrH6SdZiKsFSrcN1s
+UID:FBs85LA_P_cN6hC0Ckek3
 SUMMARY:Geek Factory - Geek Factory -  Le Rift Tour - Phase 1 - 26 juillet 
 	2026
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T073000Z
 DTEND:20260726T114000Z
 DESCRIPTION:Encore quelques places !\n\nToutes les informations sur notre d
@@ -495,12 +17,27 @@ DESCRIPTION:Encore quelques places !\n\nToutes les informations sur notre d
 URL:https://locator.riftbound.uvsgames.com/events/638628
 GEO:48.8353478;2.4736673
 LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ZlfJrh3jUIJ8JqMLqL6N2
+UID:A-vJR1qrh4vMUCUm7F0Q_
+SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre-Rift Vendetta - Dimanche 26 
+	Juillet à 10h - Gambetta
+DTSTAMP:20260726T063449Z
+DTSTART:20260726T080000Z
+DTEND:20260726T121000Z
+DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
+	rvations sur https://lesgentlemendujeu.com/evenements-riftbound/12396-rift
+	bound-pre-rift-vendetta-gambetta-dimanche-26-juillet-a-10h.html
+URL:https://locator.riftbound.uvsgames.com/events/521796
+GEO:48.8642911;2.3976277
+LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d_dBcE8qrcwvuX8mzDkNX
 SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T080000Z
 DTEND:20260726T112000Z
 DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
@@ -522,12 +59,12 @@ DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
 URL:https://locator.riftbound.uvsgames.com/events/535562
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:gbuOArLiWVR1zBNVFqF2O
+UID:k-YLzMN3POpYnd9aEbz2O
 SUMMARY:Le Troll Savant - Le Troll Savant Créteil - AP Vendetta 26/07/26
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T080000Z
 DTEND:20260726T112000Z
 DESCRIPTION:Infos et inscriptions à notre avant première Vendetta (ENG) du 
@@ -539,38 +76,23 @@ DESCRIPTION:Infos et inscriptions à notre avant première Vendetta (ENG) du
 URL:https://locator.riftbound.uvsgames.com/events/751860
 GEO:48.79274359999999;2.4631197
 LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Lbtmn02YccW8vhR8rvFMW
-SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre-Rift Vendetta - Dimanche 26 
-	Juillet à 10h - Gambetta
-DTSTAMP:20260725T061617Z
-DTSTART:20260726T080000Z
-DTEND:20260726T121000Z
-DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
-	rvations sur https://lesgentlemendujeu.com/evenements-riftbound/12396-rift
-	bound-pre-rift-vendetta-gambetta-dimanche-26-juillet-a-10h.html
-URL:https://locator.riftbound.uvsgames.com/events/521796
-GEO:48.8642911;2.3976277
-LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:1JHUPPPZkKLjObzZ36cIp
+UID:DHQNctKdy0gxbnu7H7Xtp
 SUMMARY:Atmos Arena - Atmos Arena Rift Tour phase 1
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T080000Z
 DTEND:20260726T130000Z
 URL:https://locator.riftbound.uvsgames.com/events/639087
 GEO:48.8672591;2.3524848
 LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:mv7z4D8tiGV27UyLx7uNo
+UID:KT0S0mOC91G1Nx9xXnO6B
 SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T080000Z
 DTEND:20260726T121000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
@@ -578,12 +100,12 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
 URL:https://locator.riftbound.uvsgames.com/events/507151
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:E16MxnFLlxp9ptRJ3QueO
+UID:VbS15Y6nmdOaqcKHPFCUd
 SUMMARY:ULTRAJEUX BASTILLE - 0726 - Vendetta Pre-Rift Event n°2
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T083000Z
 DTEND:20260726T115000Z
 DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
@@ -591,13 +113,13 @@ DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
 URL:https://locator.riftbound.uvsgames.com/events/583259
 GEO:48.8554475;2.3692011
 LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f7Bt7wwkWaeY4TNYfFJDx
+UID:OZwbVAgQqxKKIFrceB5l6
 SUMMARY:Loufoque - Riftbound Vendetta Avant première #2- LOUFOQUE 26-07-202
 	6 - 16 Joueurs
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T090000Z
 DTEND:20260726T122000Z
 DESCRIPTION:Lieu : Boutique LOUFOQUE 05 rue Dante 75005 PARIS\nDate : diman
@@ -613,13 +135,13 @@ DESCRIPTION:Lieu : Boutique LOUFOQUE 05 rue Dante 75005 PARIS\nDate : diman
 URL:https://locator.riftbound.uvsgames.com/events/727575
 GEO:48.85108470000001;2.3468215
 LOCATION:57 Rue Galande\, Paris\, IDF\, 75005\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:CVR9BJ0IRaWSYw5U4pW25
+UID:4Fni3KjxUmnpfwfcOEApG
 SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - DIMANCHE 26 
 	JUILLET 11H00
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T090000Z
 DTEND:20260726T131000Z
 DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
@@ -638,24 +160,24 @@ DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
 URL:https://locator.riftbound.uvsgames.com/events/520829
 GEO:48.8342176;2.3239146
 LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:q3cjULHjfdibvivhlHQKX
+UID:ZZSSgInNm-tZ1cZe0781U
 SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #2
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T110000Z
 DTEND:20260726T151000Z
 URL:https://locator.riftbound.uvsgames.com/events/500131
 GEO:48.8592323;2.345664
 LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:WGhn6n_l3VW5QzDXoPVIB
+UID:7Z5VK67CjJ4vny1i3TU_5
 SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Vendetta : 1er Pre-Rift 
 	Event
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T113000Z
 DTEND:20260726T154000Z
 DESCRIPTION:Célébrons l'arrivée de Vendetta avec ce tournoi en mode scellé 
@@ -675,35 +197,12 @@ DESCRIPTION:Célébrons l'arrivée de Vendetta avec ce tournoi en mode scellé
 URL:https://locator.riftbound.uvsgames.com/events/496751
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:dzziN5WvOXv_ot-7wb7cu
-SUMMARY:Multivers - AP Vendetta Pre-Rift x Multivers
-DTSTAMP:20260725T061617Z
-DTSTART:20260726T120000Z
-DTEND:20260726T140000Z
-DESCRIPTION:🧞 Sortie de l'extension VENDETTA de Riftbound - League Of legen
-	ds TCG ! 🦹\n\nPlongez dans la faille de l'invocateur pour découvrir les ca
-	rtes du 4ème set à travers des batailles épiques.\n\nAvant-Première en Paq
-	uet Scellé\, où chaque joueureuse reçoit un kit Pré-Rift Unleashed.\nChaqu
-	e kit contient : \n\n🔸 Un mini-deck Préconstruit de 15 cartes (incluant Ch
-	ampion Légende et Champion Unit)\n🔸 5 Boosters Riftbound : Vendetta\n🔸 1 c
-	arte promo de Pre-release Vendetta\n\nFormat : Scellé\nStructure : Rondes 
-	suisses \nHoraires : 14h-18h\nNombre de places : 16 joueureuses\n\nDotatio
-	ns : \n1 booster Vendetta par participant.e\nTop 3 : 1 booster Vendetta su
-	pplémentaire\nTop 2 : 2 boosters supplémentaires\nGagnant.e : 3 boosters V
-	endetta supplémentaire\n\nNe tardez plus à vous inscrire\, ça va se déchaî
-	ner !🔥\n\nAmbiance à la cool 🧡
-URL:https://locator.riftbound.uvsgames.com/events/583407
-GEO:48.8433885;2.3813034
-LOCATION:81 Rue du Charolais\, Ground Control\, Paris\, IDF\, 75012\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:gOcIwNSfZIO0gzoNr4hJ2
+UID:M_AMdmaT1a5fEHo2PszDK
 SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T120000Z
 DTEND:20260726T152000Z
 DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
@@ -725,13 +224,36 @@ DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
 URL:https://locator.riftbound.uvsgames.com/events/535563
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:iZfGSATl6th8AFHkbDtaO
+UID:1uRG-1B3vMQM1rSGJF8Br
+SUMMARY:Multivers - AP Vendetta Pre-Rift x Multivers
+DTSTAMP:20260726T063449Z
+DTSTART:20260726T120000Z
+DTEND:20260726T140000Z
+DESCRIPTION:🧞 Sortie de l'extension VENDETTA de Riftbound - League Of legen
+	ds TCG ! 🦹\n\nPlongez dans la faille de l'invocateur pour découvrir les ca
+	rtes du 4ème set à travers des batailles épiques.\n\nAvant-Première en Paq
+	uet Scellé\, où chaque joueureuse reçoit un kit Pré-Rift Unleashed.\nChaqu
+	e kit contient : \n\n🔸 Un mini-deck Préconstruit de 15 cartes (incluant Ch
+	ampion Légende et Champion Unit)\n🔸 5 Boosters Riftbound : Vendetta\n🔸 1 c
+	arte promo de Pre-release Vendetta\n\nFormat : Scellé\nStructure : Rondes 
+	suisses \nHoraires : 14h-18h\nNombre de places : 16 joueureuses\n\nDotatio
+	ns : \n1 booster Vendetta par participant.e\nTop 3 : 1 booster Vendetta su
+	pplémentaire\nTop 2 : 2 boosters supplémentaires\nGagnant.e : 3 boosters V
+	endetta supplémentaire\n\nNe tardez plus à vous inscrire\, ça va se déchaî
+	ner !🔥\n\nAmbiance à la cool 🧡
+URL:https://locator.riftbound.uvsgames.com/events/583407
+GEO:48.8433885;2.3813034
+LOCATION:81 Rue du Charolais\, Ground Control\, Paris\, IDF\, 75012\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:YYOIoRdowVJmwxCv5zF4O
 SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre-Rift Vendetta - Dimanche 26 
 	Juillet à 14h - Gambetta
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T120000Z
 DTEND:20260726T143000Z
 DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
@@ -740,58 +262,12 @@ DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
 URL:https://locator.riftbound.uvsgames.com/events/521801
 GEO:48.8642911;2.3976277
 LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:JtQcXZOfVBK4yyNzgIlHg
-SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260726T123000Z
-DTEND:20260726T164000Z
-DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
-	s/
-URL:https://locator.riftbound.uvsgames.com/events/507156
-GEO:48.8693694;2.3569353
-LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2NMGpEGtvyHbPVbjMpHdY
-SUMMARY:Manga Story Belle Epine - Sunday Afternoon Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260726T123000Z
-DTEND:20260726T170000Z
-DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound - League O
-	f legends TCG ! \n\nL'évènement se présentera par un format scellé\, chaqu
-	e joueur obtiendra un kit d'avant première du jeu.\n\nChaque kit d'avant p
-	remière contiendra : \n\n- Un mini-deck préconstruit de 15 cartes avec la 
-	Légende comprise.\n- 5 Boosters Riftbound: Vendetta\n- 1 carte promo de pr
-	e-release Vendetta\nNombre de joueurs : 8 joueur(euses)\nHeure de début : 
-	14h30\nNombre de rondes : 3 rondes \nRécompenses : 1 booster par victoire\
-	n\nPour finaliser vos inscriptions\, passez directement en boutique afin d
-	'être sur d'avoir une place.
-URL:https://locator.riftbound.uvsgames.com/events/612057
-GEO:48.75693898608688;2.3724285005025125
-LOCATION:Rue du Luxembourg\, 94320 Thiais\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:FHZE4_ixpH_HzXQbNUfFZ
-SUMMARY:ULTRAJEUX BASTILLE - 0726 - Vendetta Pre-Rift Event n°1
-DTSTAMP:20260725T061617Z
-DTSTART:20260726T123000Z
-DTEND:20260726T155000Z
-DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
-	ipation à cet évènement
-URL:https://locator.riftbound.uvsgames.com/events/583262
-GEO:48.8554475;2.3692011
-LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:EGHS1B0zl0oRecXExUKIh
+UID:CFtfbDyFVWIZIoDNio8sq
 SUMMARY:Troll2jeux - Avant-Première Vendetta le 26 juillet 2026 à 14h30
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T123000Z
 DTEND:20260726T164000Z
 DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound - League O
@@ -809,12 +285,12 @@ URL:https://locator.riftbound.uvsgames.com/events/503608
 GEO:48.8487755;2.3788405
 LOCATION:15-17 Place d'Aligre\, 15-17 Place d'Aligre\, Paris\, IDF\, 75012\
 	, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Wn3hLIqpJzTISEMogZ7Nx
+UID:NxdMggEho-Tdlc1LysB1j
 SUMMARY:ULTRAJEUX BASTILLE - 0726 - Vendetta Pre-Rift Event n°2
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T123000Z
 DTEND:20260726T155000Z
 DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
@@ -822,13 +298,59 @@ DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
 URL:https://locator.riftbound.uvsgames.com/events/583264
 GEO:48.8554475;2.3692011
 LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5jyDstetryUh_uBJGJ-Dl
+UID:As2zOagEnp74iaVYu0A-_
+SUMMARY:Manga Story Belle Epine - Sunday Afternoon Vendetta Pre-Rift Event
+DTSTAMP:20260726T063449Z
+DTSTART:20260726T123000Z
+DTEND:20260726T170000Z
+DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound - League O
+	f legends TCG ! \n\nL'évènement se présentera par un format scellé\, chaqu
+	e joueur obtiendra un kit d'avant première du jeu.\n\nChaque kit d'avant p
+	remière contiendra : \n\n- Un mini-deck préconstruit de 15 cartes avec la 
+	Légende comprise.\n- 5 Boosters Riftbound: Vendetta\n- 1 carte promo de pr
+	e-release Vendetta\nNombre de joueurs : 8 joueur(euses)\nHeure de début : 
+	14h30\nNombre de rondes : 3 rondes \nRécompenses : 1 booster par victoire\
+	n\nPour finaliser vos inscriptions\, passez directement en boutique afin d
+	'être sur d'avoir une place.
+URL:https://locator.riftbound.uvsgames.com/events/612057
+GEO:48.75693898608688;2.3724285005025125
+LOCATION:Rue du Luxembourg\, 94320 Thiais\, France
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:U-ojU_sFNHXsmiYH-BFxZ
+SUMMARY:ULTRAJEUX BASTILLE - 0726 - Vendetta Pre-Rift Event n°1
+DTSTAMP:20260726T063449Z
+DTSTART:20260726T123000Z
+DTEND:20260726T155000Z
+DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
+	ipation à cet évènement
+URL:https://locator.riftbound.uvsgames.com/events/583262
+GEO:48.8554475;2.3692011
+LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GJucY17UkBCPb4h3_LsSc
+SUMMARY:MEiSiA - Vendetta Pre-Rift Event
+DTSTAMP:20260726T063449Z
+DTSTART:20260726T123000Z
+DTEND:20260726T164000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
+	s/
+URL:https://locator.riftbound.uvsgames.com/events/507156
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:to2pFyEZdqinVMF4HMPMT
 SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - DIMANCHE 26 
 	JUILLET 15H00
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T130000Z
 DTEND:20260726T171000Z
 DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
@@ -848,24 +370,24 @@ DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
 URL:https://locator.riftbound.uvsgames.com/events/520833
 GEO:48.8342176;2.3239146
 LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:AtWu9gEKoEEZDwIxfkKgE
+UID:BBJy1H0EPd3Pl1VmbRewT
 SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #3
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T143000Z
 DTEND:20260726T184000Z
 URL:https://locator.riftbound.uvsgames.com/events/500132
 GEO:48.8592323;2.345664
 LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Ppwscq3Z1UAGYcW8IzlwT
+UID:SHwXWOm2iQGdMru72BxUZ
 SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre-Rift Vendetta - Dimanche 26 
 	Juillet à 17h30 - Gambetta
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T153000Z
 DTEND:20260726T180000Z
 DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
@@ -874,23 +396,23 @@ DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
 URL:https://locator.riftbound.uvsgames.com/events/521802
 GEO:48.8642911;2.3976277
 LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:gpb993C_9UjwfuP-qGheJ
+UID:E0SxcFOWz9aDv0BABHZ1u
 SUMMARY:NEO TOKYO - Sunday Evening Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T183000Z
 DTEND:20260726T215000Z
 URL:https://locator.riftbound.uvsgames.com/events/663474
 GEO:48.8369432;2.4830959
 LOCATION:83 Gd Rue Charles de Gaulle\, 94130 Nogent-sur-Marne\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6DZhlImi_0taIle0pedMJ
+UID:Fwwr7zaLudl82mKSFZDzR
 SUMMARY:ULTRAJEUX BASTILLE - 0726 - Vendetta Pre-Rift Event n°1
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260726T203000Z
 DTEND:20260726T235000Z
 DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
@@ -898,12 +420,12 @@ DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
 URL:https://locator.riftbound.uvsgames.com/events/583254
 GEO:48.8554475;2.3692011
 LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Jb5wIpU-ZfBlw9Szzu318
+UID:CfZstcyf8PEchI58iyCam
 SUMMARY:MYSTIC GAMES - NEXUS NIGHT
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260727T110000Z
 DTEND:20260727T142000Z
 DESCRIPTION:nexus night
@@ -911,56 +433,56 @@ URL:https://locator.riftbound.uvsgames.com/events/724994
 GEO:48.8263632;2.2474114
 LOCATION:270 Boulevard Jean Jaurès\, Boulogne Billancourt\, IDF\, 92100\, F
 	R
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:WG3r0NH9x3Sskoq2BhcAA
+UID:t1XPgpF2Wwrr4ethqCbhP
 SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #4
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260727T140000Z
 DTEND:20260727T181000Z
 URL:https://locator.riftbound.uvsgames.com/events/500134
 GEO:48.8592323;2.345664
 LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:rm7W8-h9AE7msYEYDfF0V
-SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061617Z
-DTSTART:20260727T170000Z
-DTEND:20260727T211000Z
-URL:https://locator.riftbound.uvsgames.com/events/649501
-GEO:48.75870519999999;2.4113053
-LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:rtz-cdMvnklHzCPGnGCwJ
+UID:zJmcU8AoDsf42_Gk4mzTl
 SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #5
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260727T170000Z
 DTEND:20260727T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/500137
 GEO:48.8592323;2.345664
 LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ZSfKHCGNKZfuezWJatEMs
+UID:SKqjiqmg0vS3g2cZcJf_f
+SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
+DTSTAMP:20260726T063449Z
+DTSTART:20260727T170000Z
+DTEND:20260727T211000Z
+URL:https://locator.riftbound.uvsgames.com/events/649501
+GEO:48.75870519999999;2.4113053
+LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:OrQz5fk16H7Sgc2ohYJ-J
 SUMMARY:Atmos Arena - Avant-premiere Vendetta 27/07 (Pre-Rift Event)
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260727T170000Z
 DTEND:20260727T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/604594
 GEO:48.8672591;2.3524848
 LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:0vsslFPkrPuP_q_Izdc9j
+UID:0JRneR8ZVv3XyTxgVfrx_
 SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260727T173000Z
 DTEND:20260727T214000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
@@ -968,13 +490,25 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
 URL:https://locator.riftbound.uvsgames.com/events/507157
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:E5S0vcp1FyR5WaX2sg0vj
+UID:RLLisi4nfRmCjbYLcbLP_
+SUMMARY:Parkage Paris - Tournoi Vendetta Pre-Rift
+DTSTAMP:20260726T063449Z
+DTSTART:20260728T163000Z
+DTEND:20260728T190000Z
+DESCRIPTION:INSCRIPTION PRIORITAIRE SUR PARKAGE.COM
+URL:https://locator.riftbound.uvsgames.com/events/608430
+GEO:48.8413925;2.3505626
+LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:dZer7yV8kIcL9NTuxaZjj
 SUMMARY:Loufoque - Riftbound Nexus Night Gagne ton Tapis! #2  28-06-2026 - 
 	16 joueurs LOUFOQUE
-DTSTAMP:20260725T061617Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260728T163000Z
 DTEND:20260728T190000Z
 DESCRIPTION:Entre dans la Faille de l’invocateur pour notre rendez-vous heb
@@ -991,64 +525,13 @@ DESCRIPTION:Entre dans la Faille de l’invocateur pour notre rendez-vous heb
 URL:https://locator.riftbound.uvsgames.com/events/742189
 GEO:48.85108470000001;2.3468215
 LOCATION:57 Rue Galande\, Paris\, IDF\, 75005\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:SL87tDhqLfMgJwg3ngNJX
-SUMMARY:Parkage Paris - Tournoi Vendetta Pre-Rift
-DTSTAMP:20260725T061617Z
-DTSTART:20260728T163000Z
-DTEND:20260728T190000Z
-DESCRIPTION:INSCRIPTION PRIORITAIRE SUR PARKAGE.COM
-URL:https://locator.riftbound.uvsgames.com/events/608430
-GEO:48.8413925;2.3505626
-LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:pSMOo4PLgW5_Kqvh9SYwM
-SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #6
-DTSTAMP:20260725T061617Z
-DTSTART:20260728T170000Z
-DTEND:20260728T211000Z
-URL:https://locator.riftbound.uvsgames.com/events/500140
-GEO:48.8592323;2.345664
-LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:T-nqoBVdScYgVT2lLGWi6
-SUMMARY:Les Mauvais Joueurs - Tuesday Evening Vendetta Pre-Rift Event
-DTSTAMP:20260725T061617Z
-DTSTART:20260728T170000Z
-DTEND:20260728T211000Z
-DESCRIPTION:Inscription uniquement par mail à les.mauvais.jrs@gmail.com ave
-	c nom/prénom/téléphone
-URL:https://locator.riftbound.uvsgames.com/events/499082
-GEO:48.8578278;2.3765972
-LOCATION:46 Rue Sedaine\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ivwYo6R_PmcuhAcGj12jB
-SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre-Rift Vendetta - Mardi 28 Jui
-	llet à 19h - Gambetta
-DTSTAMP:20260725T061617Z
-DTSTART:20260728T170000Z
-DTEND:20260728T193000Z
-DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
-	rvations sur https://lesgentlemendujeu.com/evenements-riftbound/12399-rift
-	bound-pre-rift-vendetta-gambetta-mardi-28-juillet-a-19h.html
-URL:https://locator.riftbound.uvsgames.com/events/521804
-GEO:48.8642911;2.3976277
-LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:hN8TLGT_xsg7l-ZzFRkXw
+UID:NeqwqCWJwmNE2P_f7trDC
 SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - MARDI 28 JUI
 	LLET 19H00
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260728T170000Z
 DTEND:20260728T211000Z
 DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
@@ -1068,23 +551,62 @@ DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
 URL:https://locator.riftbound.uvsgames.com/events/520868
 GEO:48.8342176;2.3239146
 LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:D5_2qYrTVeZvFs_bIF8V-
+UID:Qnlxf7v12Sd-xsb5epBPa
+SUMMARY:Les Mauvais Joueurs - Tuesday Evening Vendetta Pre-Rift Event
+DTSTAMP:20260726T063449Z
+DTSTART:20260728T170000Z
+DTEND:20260728T211000Z
+DESCRIPTION:Inscription uniquement par mail à les.mauvais.jrs@gmail.com ave
+	c nom/prénom/téléphone
+URL:https://locator.riftbound.uvsgames.com/events/499082
+GEO:48.8578278;2.3765972
+LOCATION:46 Rue Sedaine\, Paris\, IDF\, 75011\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:VHF9FXK5EqwIAiHgMh_aK
 SUMMARY:Atmos Arena - Avant-Premiere Vendetta 28/07 (Pre-Rift Event)
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260728T170000Z
 DTEND:20260728T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/604492
 GEO:48.8672591;2.3524848
 LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Hd4bNxeAXOaEmeitKxLv6
+UID:lVKhQzhdyEjJHuHzGOkHe
+SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #6
+DTSTAMP:20260726T063449Z
+DTSTART:20260728T170000Z
+DTEND:20260728T211000Z
+URL:https://locator.riftbound.uvsgames.com/events/500140
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:YjbGMG0GrERJKWGeJPnHX
+SUMMARY:Les Gentlemen du Jeu - Riftbound : Pre-Rift Vendetta - Mardi 28 Jui
+	llet à 19h - Gambetta
+DTSTAMP:20260726T063449Z
+DTSTART:20260728T170000Z
+DTEND:20260728T193000Z
+DESCRIPTION:Rejoignez-nous pour une Avant-Première Riftbound Vendetta\nRése
+	rvations sur https://lesgentlemendujeu.com/evenements-riftbound/12399-rift
+	bound-pre-rift-vendetta-gambetta-mardi-28-juillet-a-19h.html
+URL:https://locator.riftbound.uvsgames.com/events/521804
+GEO:48.8642911;2.3976277
+LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:SSDFJozIyOEtBVZn_0n-2
 SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260728T173000Z
 DTEND:20260728T205000Z
 DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
@@ -1106,12 +628,12 @@ DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
 URL:https://locator.riftbound.uvsgames.com/events/535565
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Y_cssOqPmGH6udMFTKaYL
+UID:_ylgS82AvulUJvFzozYdN
 SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260728T173000Z
 DTEND:20260728T214000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
@@ -1119,61 +641,35 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
 URL:https://locator.riftbound.uvsgames.com/events/507160
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:zI6gtnhdBcuBNjZv3vwYm
+UID:vwtG7W-EGW6JiN15qbLvT
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260728T173000Z
 DTEND:20260728T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/703451
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5Vp63c1Omt8pH1MY8d9Ms
+UID:UxizzbexkWyWeKw4aBICm
 SUMMARY:Chasseur de jeux - Wednesday Afternoon Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260729T123000Z
 DTEND:20260729T155000Z
 URL:https://locator.riftbound.uvsgames.com/events/540553
 GEO:48.9185933;2.4491500999999998
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:fOo2AMCc7OUxBsST44rBI
-SUMMARY:Atmos Arena - Avant-Premiere Vendetta 29/07 (Pre-Rift Event)
-DTSTAMP:20260725T061618Z
-DTSTART:20260729T170000Z
-DTEND:20260729T211000Z
-URL:https://locator.riftbound.uvsgames.com/events/604494
-GEO:48.8672591;2.3524848
-LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:xfrxVK6dGhmvAK5gowfuK
-SUMMARY:ULTRAJEUX OBERKAMPF - 0729 - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
-DTSTART:20260729T170000Z
-DTEND:20260729T193000Z
-DESCRIPTION:IMPORTANT : Seul le paiement de votre place de tournoi sur ultr
-	ajeux.com garantit votre participation à cet évènement.\n\nMerci de ne rej
-	oindre le tournoi sur Carde.io qu'APRES avoir réglé avec succès votre part
-	icipation sur ultrajeux.com.\n\nLes places sont nominatives.
-URL:https://locator.riftbound.uvsgames.com/events/638782
-GEO:48.8639689;2.3715375
-LOCATION:108 Boulevard Richard-Lenoir\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:FUnu_B-qT_l4vYM8mZaWg
+UID:Lhf5UcKErEK-senqugr2b
 SUMMARY:Multivers - AP Vendetta Pre-Rift x Multivers
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260729T170000Z
 DTEND:20260729T190000Z
 DESCRIPTION:🧞 Sortie de l'extension VENDETTA de Riftbound - League Of legen
@@ -1191,35 +687,99 @@ DESCRIPTION:🧞 Sortie de l'extension VENDETTA de Riftbound - League Of legen
 URL:https://locator.riftbound.uvsgames.com/events/583414
 GEO:48.8433885;2.3813034
 LOCATION:81 Rue du Charolais\, Ground Control\, Paris\, IDF\, 75012\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:RKHtBdRLVo99E7YFMEiBV
+UID:BuUHsIG-GzC-x70_Q_LB7
 SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #7
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260729T170000Z
 DTEND:20260729T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/500142
 GEO:48.8592323;2.345664
 LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:MGFv4NCFKNKeYFXj9lI8p
+UID:MH_nID_OVE5VTwEwbbB58
+SUMMARY:Atmos Arena - Avant-Premiere Vendetta 29/07 (Pre-Rift Event)
+DTSTAMP:20260726T063449Z
+DTSTART:20260729T170000Z
+DTEND:20260729T211000Z
+URL:https://locator.riftbound.uvsgames.com/events/604494
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:-02eivGEjly2l56dk2Xbw
 SUMMARY:Le Coin des Barons - Paris Rivoli - WESNDAY Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260729T170000Z
 DTEND:20260729T202000Z
 DESCRIPTION:inscrption en boutque uniquement
 URL:https://locator.riftbound.uvsgames.com/events/505918
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:vYskECg-aX05NaK0HAZKN
+UID:NVBF8PCOZL3nHyilKPom1
+SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - MERCREDI 29 
+	JUILLET 19H00
+DTSTAMP:20260726T063449Z
+DTSTART:20260729T170000Z
+DTEND:20260729T193000Z
+DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
+	ikgames.com/fr/10000010-evenements\n\nLES INSCRIPTION SUR LE LOCATOR NE SE
+	RONT PAS PRIS EN COMPTE SI VOUS NE VOUS ÊTES PAS INSCRIT SUR NOTRE SITE AU
+	 PRÉALABLE.\n\nChaque participant reçoit un Kit d'avant première et utilis
+	e son contenu pour jouer.\nConstruisez un deck à l’aide du mini-deck préco
+	nstruit inclus\, de cinq boosters et d’une carte promotionnelle.\nProfitez
+	 d’une expérience de pré lancement accessible et idéale pour les débutants
+	\, tout en découvrant Vendetta avant sa sortie.\n\nFormat : Scellé\nStruct
+	ure : 3 rondes suisse en Bo3 de 50 minutes.\nTarif : 35€\nPlaces : 18 plac
+	es\nHoraires : Début du tournoi à 11h00\, fin vers 15h00.\nLieu : Boutique
+	 MajestiK Games\, 148 avenue du Maine\, 75014 Paris.\nAccès : 10min à pied
+	 de la station Denfert-Rochereau Métro 6 4 et RER B\, Métro 13 station Gaî
+	té\, Montparnasse Ligne N.
+URL:https://locator.riftbound.uvsgames.com/events/799665
+GEO:48.8342176;2.3239146
+LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fpymu8ydjD2qcVuiNA99q
+SUMMARY:ULTRAJEUX OBERKAMPF - 0729 - Vendetta Pre-Rift Event
+DTSTAMP:20260726T063449Z
+DTSTART:20260729T170000Z
+DTEND:20260729T193000Z
+DESCRIPTION:IMPORTANT : Seul le paiement de votre place de tournoi sur ultr
+	ajeux.com garantit votre participation à cet évènement.\n\nMerci de ne rej
+	oindre le tournoi sur Carde.io qu'APRES avoir réglé avec succès votre part
+	icipation sur ultrajeux.com.\n\nLes places sont nominatives.
+URL:https://locator.riftbound.uvsgames.com/events/638782
+GEO:48.8639689;2.3715375
+LOCATION:108 Boulevard Richard-Lenoir\, Paris\, IDF\, 75011\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ilRm77DntTzRGhSdH5OpS
+SUMMARY:MEiSiA - Vendetta Pre-Rift Event
+DTSTAMP:20260726T063449Z
+DTSTART:20260729T173000Z
+DTEND:20260729T214000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
+	s/
+URL:https://locator.riftbound.uvsgames.com/events/507161
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:XnH7aKXhtwHco0hPw-jLY
 SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260729T173000Z
 DTEND:20260729T205000Z
 DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
@@ -1241,103 +801,23 @@ DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
 URL:https://locator.riftbound.uvsgames.com/events/535566
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:LlUywS6oQimNTeJ6hEGtI
-SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
-DTSTART:20260729T173000Z
-DTEND:20260729T214000Z
-DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
-	s/
-URL:https://locator.riftbound.uvsgames.com/events/507161
-GEO:48.8693694;2.3569353
-LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:8GBGKUD16ssNfq1coV3MF
+UID:Iz_ZxMktHVfc_igRPc44a
 SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260729T173000Z
 DTEND:20260729T200000Z
 URL:https://locator.riftbound.uvsgames.com/events/653323
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ANw-gPm67VejPww7Pm-5A
-SUMMARY:DeouCafe - Thursday Night Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
-DTSTART:20260730T170000Z
-DTEND:20260730T202000Z
-URL:https://locator.riftbound.uvsgames.com/events/744585
-GEO:48.8474948;2.2740964
-LOCATION:59\, Av. de Versailles\, Paris\, IDF\, 75016\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:y8y6ql1JVtqc4mWxXcybD
-SUMMARY:Geek Factory - Thursday Evening Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
-DTSTART:20260730T170000Z
-DTEND:20260730T202000Z
-DESCRIPTION:informations à venir.\nNos avant premières sont en 3 rondes.
-URL:https://locator.riftbound.uvsgames.com/events/511801
-GEO:48.8353478;2.4736673
-LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:9vaYhVga7l9jW9C2iSnZf
-SUMMARY:Les Gentlemen du Jeu - Riftbound - Pre-Rift Vendetta 2V2 - Gambetta
-	 - Jeudi 30 Juillet à 19h
-DTSTAMP:20260725T061618Z
-DTSTART:20260730T170000Z
-DTEND:20260730T202000Z
-DESCRIPTION:Information et réservations sur : https://lesgentlemendujeu.com
-	/evenements-riftbound/12400-riftbound-pre-rift-vendetta-2v2-gambetta-jeudi
-	-30-juillet-a-19h.html
-URL:https://locator.riftbound.uvsgames.com/events/712431
-GEO:48.8642911;2.3976277
-LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:jy9U-KOrpYb0liTJ39cFH
-SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #8
-DTSTAMP:20260725T061618Z
-DTSTART:20260730T170000Z
-DTEND:20260730T211000Z
-URL:https://locator.riftbound.uvsgames.com/events/500149
-GEO:48.8592323;2.345664
-LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:s8OEw4ETHlAQQrTW61vpz
-SUMMARY:DeouCafe - Avant-Première Vendetta - Riftbound
-DTSTAMP:20260725T061618Z
-DTSTART:20260730T170000Z
-DTEND:20260730T210000Z
-DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound\n\nChaque 
-	joueur obtiendra un kit d'avant première qui contiendra : \n\n- Un mini-de
-	ck préconstruit de 15 cartes avec la Légende comprise.\n- 5 Boosters Riftb
-	ound: Vendetta\n- 1 carte promo de pre-release Vendetta\n\nNombre de joueu
-	rs : 24 joueur(euses)\nHeure de début : 19h\nNombre de rondes : 5 rondes\n
-	\nInscription ici : https://deoucafe.com/evenements/avant-premiere-riftbou
-	nd-vendetta/
-URL:https://locator.riftbound.uvsgames.com/events/595027
-GEO:48.8474948;2.2740964
-LOCATION:59\, Av. de Versailles\, Paris\, IDF\, 75016\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:duv39YgrAitprbuo-cp8Y
+UID:ZXlvExo1pz970liRighjO
 SUMMARY:Multivers - AP Vendetta Pre-Rift x Multivers
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T170000Z
 DTEND:20260730T190000Z
 DESCRIPTION:🧞 Sortie de l'extension VENDETTA de Riftbound - League Of legen
@@ -1355,35 +835,127 @@ DESCRIPTION:🧞 Sortie de l'extension VENDETTA de Riftbound - League Of legen
 URL:https://locator.riftbound.uvsgames.com/events/583420
 GEO:48.8433885;2.3813034
 LOCATION:81 Rue du Charolais\, Ground Control\, Paris\, IDF\, 75012\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:SlEyGJnqNcekdhY_hXFGi
+UID:xy7BywNzFhSaemgyKx_js
+SUMMARY:DeouCafe - Avant-Première Vendetta - Riftbound
+DTSTAMP:20260726T063449Z
+DTSTART:20260730T170000Z
+DTEND:20260730T210000Z
+DESCRIPTION:Venez célébrer l'extension VENDETTA du jeu Riftbound\n\nChaque 
+	joueur obtiendra un kit d'avant première qui contiendra : \n\n- Un mini-de
+	ck préconstruit de 15 cartes avec la Légende comprise.\n- 5 Boosters Riftb
+	ound: Vendetta\n- 1 carte promo de pre-release Vendetta\n\nNombre de joueu
+	rs : 24 joueur(euses)\nHeure de début : 19h\nNombre de rondes : 5 rondes\n
+	\nInscription ici : https://deoucafe.com/evenements/avant-premiere-riftbou
+	nd-vendetta/
+URL:https://locator.riftbound.uvsgames.com/events/595027
+GEO:48.8474948;2.2740964
+LOCATION:59\, Av. de Versailles\, Paris\, IDF\, 75016\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:UWzH9E8P-iupT1y3CBk8I
 SUMMARY:Atmos Arena - Avant-Premiere Vendetta 30/07 (Pre-Rift Event)
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T170000Z
 DTEND:20260730T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/604505
 GEO:48.8672591;2.3524848
 LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8955lW8FE5cTQjJx9yadx
+UID:xfhi6XK8_OoOxsg_0sRcM
 SUMMARY:Playin Paris BNF - Weekly Nexus Night 30/07/26
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T170000Z
 DTEND:20260730T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/661765
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8hoNqbxeKraI4dRavQPsa
+UID:ipTnvxfSW5bn8QCU_wQfZ
+SUMMARY:DeouCafe - Thursday Night Nexus Nights - 1v1
+DTSTAMP:20260726T063449Z
+DTSTART:20260730T170000Z
+DTEND:20260730T202000Z
+URL:https://locator.riftbound.uvsgames.com/events/744585
+GEO:48.8474948;2.2740964
+LOCATION:59\, Av. de Versailles\, Paris\, IDF\, 75016\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:k0JYKllw8N7SV2mgXNC8H
+SUMMARY:Playin Paris Rivoli - Vendetta Pre-Rift Event - Playin Rivoli #8
+DTSTAMP:20260726T063449Z
+DTSTART:20260730T170000Z
+DTEND:20260730T211000Z
+URL:https://locator.riftbound.uvsgames.com/events/500149
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:P4JcXRmoY9kPJrU9mQ1Zh
+SUMMARY:Les Gentlemen du Jeu - Riftbound - Pre-Rift Vendetta 2V2 - Gambetta
+	 - Jeudi 30 Juillet à 19h
+DTSTAMP:20260726T063449Z
+DTSTART:20260730T170000Z
+DTEND:20260730T202000Z
+DESCRIPTION:Information et réservations sur : https://lesgentlemendujeu.com
+	/evenements-riftbound/12400-riftbound-pre-rift-vendetta-2v2-gambetta-jeudi
+	-30-juillet-a-19h.html
+URL:https://locator.riftbound.uvsgames.com/events/712431
+GEO:48.8642911;2.3976277
+LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:tLO30PGL6jNhmoEjVQzR7
+SUMMARY:Majestik Games - RIFTBOUND - AVANT PREMIÈRE VENDETTA - JEUDI 30 JUI
+	LLET 19H00
+DTSTAMP:20260726T063449Z
+DTSTART:20260730T170000Z
+DTEND:20260730T193000Z
+DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
+	ikgames.com/fr/10000010-evenements\n\nLES INSCRIPTION SUR LE LOCATOR NE SE
+	RONT PAS PRIS EN COMPTE SI VOUS NE VOUS ÊTES PAS INSCRIT SUR NOTRE SITE AU
+	 PRÉALABLE.\n\nChaque participant reçoit un Kit d'avant première et utilis
+	e son contenu pour jouer.\nConstruisez un deck à l’aide du mini-deck préco
+	nstruit inclus\, de cinq boosters et d’une carte promotionnelle.\nProfitez
+	 d’une expérience de pré lancement accessible et idéale pour les débutants
+	\, tout en découvrant Vendetta avant sa sortie.\n\nFormat : Scellé\nStruct
+	ure : 3 rondes suisse en Bo3 de 50 minutes.\nTarif : 35€\nPlaces : 18 plac
+	es\nHoraires : Début du tournoi à 11h00\, fin vers 15h00.\nLieu : Boutique
+	 MajestiK Games\, 148 avenue du Maine\, 75014 Paris.\nAccès : 10min à pied
+	 de la station Denfert-Rochereau Métro 6 4 et RER B\, Métro 13 station Gaî
+	té\, Montparnasse Ligne N.
+URL:https://locator.riftbound.uvsgames.com/events/799666
+GEO:48.8342176;2.3239146
+LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ciUBCfPnOO2WvptBRV_H6
+SUMMARY:Geek Factory - Thursday Evening Vendetta Pre-Rift Event
+DTSTAMP:20260726T063449Z
+DTSTART:20260730T170000Z
+DTEND:20260730T202000Z
+DESCRIPTION:informations à venir.\nNos avant premières sont en 3 rondes.
+URL:https://locator.riftbound.uvsgames.com/events/511801
+GEO:48.8353478;2.4736673
+LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GORoIEKkOXkWZXmPxFmde
 SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Vendetta : 2nd Pre-Rift 
 	Event
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T173000Z
 DTEND:20260730T214000Z
 DESCRIPTION:Célébrons l'arrivée de Vendetta avec ce tournoi en mode scellé 
@@ -1403,12 +975,12 @@ DESCRIPTION:Célébrons l'arrivée de Vendetta avec ce tournoi en mode scellé
 URL:https://locator.riftbound.uvsgames.com/events/496775
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:zh1R1MO7-W3mfZEKSnf9U
+UID:Vv6VL6eVb_iHZmBl-6gb0
 SUMMARY:Uchronies Games - Vendetta Pre-Rift Event – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T173000Z
 DTEND:20260730T205000Z
 DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
@@ -1430,24 +1002,24 @@ DESCRIPTION:INSCRIPTION OBLIGATOIRE SUR LE SITE uchroniesgames.fr\n\nRejoig
 URL:https://locator.riftbound.uvsgames.com/events/535568
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:qS9dCZa3Gv1Suko95Q6z5
+UID:4d9ztUXDH-gQhi5k5dyEw
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T173000Z
 DTEND:20260730T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759882
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:yrkp9sGjSrmqMGUPxT6aT
+UID:2Gm1wJatyXvNmTcgo9jKI
 SUMMARY:MEiSiA - Vendetta Pre-Rift Event
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260730T173800Z
 DTEND:20260730T214800Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
@@ -1455,58 +1027,58 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/evenement
 URL:https://locator.riftbound.uvsgames.com/events/536296
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:xllVnlJcYYAvZxhO4U2Ex
-SUMMARY:BaronCollections Paris - Friday Evening Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
-DTSTART:20260731T170000Z
-DTEND:20260731T202000Z
-URL:https://locator.riftbound.uvsgames.com/events/736021
-GEO:48.864591399999995;2.3682141999999997
-LOCATION:26 Bd Voltaire\, 75011 Paris\, France
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:C_bDvzYROffBClXcgoI4u
+UID:u8HajgE4_JEs6mBojElSa
 SUMMARY:Parkage Paris - Nexus Nights - Parkage EDB
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260731T170000Z
 DTEND:20260731T200000Z
 DESCRIPTION:Inscription et détails sur parkage.com
 URL:https://locator.riftbound.uvsgames.com/events/697861
 GEO:48.8413925;2.3505626
 LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b_cD2P7rORgHMTSLARH0n
+UID:pUshShCsKhpOcEYN_4MLw
+SUMMARY:BaronCollections Paris - Friday Evening Nexus Nights - 1v1
+DTSTAMP:20260726T063449Z
+DTSTART:20260731T170000Z
+DTEND:20260731T202000Z
+URL:https://locator.riftbound.uvsgames.com/events/736021
+GEO:48.864591399999995;2.3682141999999997
+LOCATION:26 Bd Voltaire\, 75011 Paris\, France
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aE87SEfqnkJbWCU-K5cs7
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260731T173000Z
 DTEND:20260731T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/666125
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:pNXBkEkAfTgrgsd4-boo2
+UID:ylQ_U1CvroaItzF2CKU4g
 SUMMARY:Atmos Arena - Atmos Arena Rift Tour phase 1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260801T080000Z
 DTEND:20260801T130000Z
 URL:https://locator.riftbound.uvsgames.com/events/639083
 GEO:48.8672591;2.3524848
 LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Zck4E62fK2Trh0i6K2_me
+UID:LFaU46IfMGDbzRi-VmYrx
 SUMMARY:Le Repaire du Dragon - Nexus Morning du 1er aout
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260801T090000Z
 DTEND:20260801T113000Z
 DESCRIPTION:Samedi Matin  Nexus Morning- 1v1\n\nInscription sur le site du 
@@ -1515,23 +1087,23 @@ DESCRIPTION:Samedi Matin  Nexus Morning- 1v1\n\nInscription sur le site du
 URL:https://locator.riftbound.uvsgames.com/events/758027
 GEO:48.87605589999999;2.3805953
 LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4Wg72j37OkM0jVwyLeSK0
+UID:T7kOWXCrTIyMHtjGdWeQ4
 SUMMARY:Chasseur de jeux - Soirées Nexus du samedi après-midi - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260801T123000Z
 DTEND:20260801T150000Z
 URL:https://locator.riftbound.uvsgames.com/events/668986
 GEO:48.9185933;2.4491500999999998
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:aiJoTlDlUbSXdix-Vgilh
+UID:prl7LP50X5vW__6n0ORFr
 SUMMARY:ULTRAJEUX BASTILLE - 0801 Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260801T153000Z
 DTEND:20260801T185000Z
 DESCRIPTION:UltraJeux organise un Tournoi Nexus Night à la boutique de Bast
@@ -1549,12 +1121,12 @@ DESCRIPTION:UltraJeux organise un Tournoi Nexus Night à la boutique de Bast
 URL:https://locator.riftbound.uvsgames.com/events/727074
 GEO:48.8554475;2.3692011
 LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9IOsHdB2H8xjkghriMrGG
+UID:YqF6uy4eqVRfMlhZzbZUP
 SUMMARY:La Compagnie des Jeux - [LCDJ] Le Rift Tour - Phase 1 - Tournoi 3
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260802T073000Z
 DTEND:20260802T114000Z
 DESCRIPTION:**Tournoi RIFTBOUND Rift Tour 03**\n\nLe Rift Tour est le premi
@@ -1594,12 +1166,12 @@ DESCRIPTION:**Tournoi RIFTBOUND Rift Tour 03**\n\nLe Rift Tour est le premi
 URL:https://locator.riftbound.uvsgames.com/events/638321
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:AYlAQxH79KicpYXeNd8nv
+UID:n9_Jw5FFfSUdu9IeWxsjk
 SUMMARY:Playin Paris BNF - Rift Tour - Phase 1 Play-in BNF
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260802T091500Z
 DTEND:20260802T141500Z
 DESCRIPTION:⚔️ Rift Tour – Qualifiez-vous pour la phase suivante ! ⚔️\nAffron
@@ -1618,35 +1190,35 @@ DESCRIPTION:⚔️ Rift Tour – Qualifiez-vous pour la phase suivante ! ⚔️\
 URL:https://locator.riftbound.uvsgames.com/events/667382
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:-eN2BSHqVvtuE6Pk9eWDo
+UID:oS4cof5jCbc4qKyzpq_CS
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260803T170000Z
 DTEND:20260803T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/674297
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:GoEUZiQqPmjOxBc94Y_Lc
+UID:hotdOxCVhv9Ezpzpxb9q2
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260804T173000Z
 DTEND:20260804T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/703452
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:z-DyQy0V74I6EvUIXrA3B
+UID:NB7Nu-Qv-JHcnTnMwO8O3
 SUMMARY:Le Coin des Barons - Paris Rivoli - WESNDAY WANTED NEXUS NIGHT
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260805T170000Z
 DTEND:20260805T211000Z
 DESCRIPTION:TOURNOI WANTED EST UN CLASSIQUE.\nLE GAGNANT DU TOURNOI SERA LE
@@ -1659,23 +1231,12 @@ DESCRIPTION:TOURNOI WANTED EST UN CLASSIQUE.\nLE GAGNANT DU TOURNOI SERA LE
 URL:https://locator.riftbound.uvsgames.com/events/782873
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:r9oA7VpfWCdPkafVaQ8Zh
-SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
-DTSTART:20260805T173000Z
-DTEND:20260805T200000Z
-URL:https://locator.riftbound.uvsgames.com/events/679490
-GEO:48.8469379;2.2991451
-LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:hOWqL8n3Us_fxz14Tm8Ji
+UID:iqlQBCjTRoGoC3FU_EaxP
 SUMMARY:MEiSiA - Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260805T173000Z
 DTEND:20260805T205000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -1683,70 +1244,81 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/646818
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:UCR9O_sDoPoqQ8xQOh4Md
+UID:41gGESjZwZo24uiEVsOz1
+SUMMARY:Uchronies Games - Draft Night – Uchronies Games
+DTSTAMP:20260726T063449Z
+DTSTART:20260805T173000Z
+DTEND:20260805T200000Z
+URL:https://locator.riftbound.uvsgames.com/events/679490
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:phVntFbJ5nEeQRr58mpnn
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260806T170000Z
 DTEND:20260806T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/682218
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Nompqd9ABmRLTYzELrDaP
+UID:X8WI95ZiFtf5HK_W75Lb8
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260806T173000Z
 DTEND:20260806T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759883
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:q_Ps6_3ubpjwmtiv43Rcq
+UID:pTX9KCfRigJ0uqf4sxUN8
 SUMMARY:Parkage Paris - Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260807T170000Z
 DTEND:20260807T202000Z
 DESCRIPTION:Inscription prioritaire sur parkage.com
 URL:https://locator.riftbound.uvsgames.com/events/774991
 GEO:48.8413925;2.3505626
 LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:HNbCaYczM2Ic1NkDJxp8U
+UID:Y__f1L7QLrZGQ1Yslfh3x
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260807T173000Z
 DTEND:20260807T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/685162
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:YzzlCluLcbQgju_IjlUaS
+UID:FoHqVx_SBz_Ih7LaWoaj4
 SUMMARY:Chasseur de jeux - Soirées Nexus du samedi après-midi - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260808T123000Z
 DTEND:20260808T150000Z
 URL:https://locator.riftbound.uvsgames.com/events/687431
 GEO:48.9185933;2.4491500999999998
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:AHiG4MuAE4r-ECLuFJDLM
+UID:9DU8tvKD4xb559BkzShii
 SUMMARY:Geek Factory - Geek Factory -  Le Rift Tour - Phase 1 - 9 aout 2026
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260809T073000Z
 DTEND:20260809T114000Z
 DESCRIPTION:L'événement est déjà complet !\nToutes les informations sur not
@@ -1754,36 +1326,36 @@ DESCRIPTION:L'événement est déjà complet !\nToutes les informations sur not
 URL:https://locator.riftbound.uvsgames.com/events/638633
 GEO:48.8353478;2.4736673
 LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:k0zjlKzl1llLwE6cj3OW3
+UID:WJM7H23FvByIsf--_Rvfp
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260810T170000Z
 DTEND:20260810T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/691943
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:umSh6Vol-y75swt88mar6
+UID:_GKHUvzafm0RGNjvK33S2
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260811T173000Z
 DTEND:20260811T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/703453
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:xT1UExBoWc_4Wf1STo5y8
+UID:fA0CjkFKzzYCbTeIzVl1X
 SUMMARY:Le Coin des Barons - Paris Rivoli - WIN 12 VANDETTA BOOSTERS NEXUS 
 	NIGHT
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260812T170000Z
 DTEND:20260812T211000Z
 DESCRIPTION:LOT POUR 16 JOUEURS\nLOTS REAJUSTES SI MOINS DE JOUEURS\nWINNER
@@ -1792,12 +1364,12 @@ DESCRIPTION:LOT POUR 16 JOUEURS\nLOTS REAJUSTES SI MOINS DE JOUEURS\nWINNER
 URL:https://locator.riftbound.uvsgames.com/events/784864
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8xkQEvPIVA34zU65QOD3P
+UID:8imU5ygcOyTRjiLYXg1Qz
 SUMMARY:MEiSiA - Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260812T173000Z
 DTEND:20260812T205000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -1805,71 +1377,71 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/646819
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ffXi7Njw-ObZt46pALUfk
+UID:8Pa26aeqoJbnlzSH49xi5
 SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260812T173000Z
 DTEND:20260812T200000Z
 URL:https://locator.riftbound.uvsgames.com/events/697105
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:W1yDUC49dGaDVkgzBbdA8
+UID:CrqiUjYaVEutT6zn-dcae
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260813T170000Z
 DTEND:20260813T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/699898
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:rSvt9v6vHXRe34SW3IALg
+UID:YxD6N0lnWq557pp2i-D73
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260813T173000Z
 DTEND:20260813T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759884
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Iv4AP1Tzvaeq1Gg59AwP1
+UID:sKUDRwirw1ry_481e_K9w
 SUMMARY:Parkage Paris - Friday Evening Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260814T170000Z
 DTEND:20260814T202000Z
 DESCRIPTION:Inscription prioritaire sur parkage.com
 URL:https://locator.riftbound.uvsgames.com/events/774992
 GEO:48.8413925;2.3505626
 LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:YZk5sJ9pxqzOPJVFBxfUQ
+UID:q4jbDoFUzA2ISA9Xp-7Ar
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260814T173000Z
 DTEND:20260814T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/702431
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8rh34bdq6NEH2qB-9QJ9n
+UID:UaCCItySc3jYkjM7i6ZR8
 SUMMARY:Geek Factory - Geek Factory -  Le Rift Tour - Phase 1 - 15 aout 202
 	6
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260815T073000Z
 DTEND:20260815T114000Z
 DESCRIPTION:L'événement est déjà complet !\nToutes les informations sur not
@@ -1877,68 +1449,57 @@ DESCRIPTION:L'événement est déjà complet !\nToutes les informations sur not
 URL:https://locator.riftbound.uvsgames.com/events/638634
 GEO:48.8353478;2.4736673
 LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ww7HPGkNFTnutO_suw4Ba
+UID:qOjwPcJioE75hrDmc90NH
 SUMMARY:Chasseur de jeux - Saturday Afternoon Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260815T123000Z
 DTEND:20260815T164000Z
 URL:https://locator.riftbound.uvsgames.com/events/736023
 GEO:48.9185933;2.4491501
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:v87RL-KENIyvczHmIYfwh
+UID:SX8NV8qE6zTug1UDf5Qyo
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260817T170000Z
 DTEND:20260817T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/708538
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6Ra2UODqfusQik_RqqaGA
+UID:drMkTyyf1bxz5yGx4zmaO
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260818T173000Z
 DTEND:20260818T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/710870
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:O_bdkqje0P7VdQny6_hz7
+UID:QCe3JryEiMHuPSvsm1vep
 SUMMARY:Le Coin des Barons - Paris Rivoli - WESNDAY NEXUS NIGHT
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260819T170000Z
 DTEND:20260819T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/784869
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:XnjimwxpgGhwefKxg2yJ2
-SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
-DTSTART:20260819T173000Z
-DTEND:20260819T200000Z
-URL:https://locator.riftbound.uvsgames.com/events/713504
-GEO:48.8469379;2.2991451
-LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ZZ8o3rPbinAA--lzSP-IW
+UID:lBpBTGAZW-gJTMllWM4hZ
 SUMMARY:MEiSiA - Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260819T173000Z
 DTEND:20260819T205000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -1946,35 +1507,46 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/646820
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:CjJhTT96me_SFviTOmUWO
+UID:joj9wOvFy6ASdLKLPigzH
+SUMMARY:Uchronies Games - Draft Night – Uchronies Games
+DTSTAMP:20260726T063449Z
+DTSTART:20260819T173000Z
+DTEND:20260819T200000Z
+URL:https://locator.riftbound.uvsgames.com/events/713504
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:-fNw5X2SWs-Jc0oujEKQW
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260820T170000Z
 DTEND:20260820T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/716453
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:sAy5HG0f7PD0KSiYd9VM2
+UID:ygwy-7rwShQpNg4M09jcC
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260820T173000Z
 DTEND:20260820T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759885
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9qY7ILAmT4-8h0k00AyIc
+UID:8rihThllYoxmgcol9pfz4
 SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260820T180000Z
 DTEND:20260820T185000Z
 DESCRIPTION:Venez entrainer votre deck dans la Faille au cours de notre Nex
@@ -1982,47 +1554,47 @@ DESCRIPTION:Venez entrainer votre deck dans la Faille au cours de notre Nex
 URL:https://locator.riftbound.uvsgames.com/events/739646
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Kzfxp5gg0V0bfxFK7gums
+UID:osVS8RSSrWUdybqDIKx2j
 SUMMARY:Parkage Paris - Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260821T170000Z
 DTEND:20260821T202000Z
 DESCRIPTION:Inscription prioritaire sur parkage.com
 URL:https://locator.riftbound.uvsgames.com/events/774993
 GEO:48.8413925;2.3505626
 LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4YYGfv6ObuHQsZxq9fOrN
+UID:c7XbcwQXpvjilPbyD5SL0
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260821T173000Z
 DTEND:20260821T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/719278
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:xh0ug3igiTJB5cN0aNxIz
+UID:pLVIpjtiOelDg1JuJdFb6
 SUMMARY:Chasseur de jeux - Saturday Morning Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260822T080000Z
 DTEND:20260822T144000Z
 URL:https://locator.riftbound.uvsgames.com/events/502976
 GEO:48.9185933;2.4491500999999998
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:miqLmYoluT2tMpH_xGyno
+UID:ZUnKsHJyI3aLsBsR1ni2n
 SUMMARY:Multivers - Vendetta Summoner Skirmish - I Window x Multivers
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260822T120000Z
 DTEND:20260822T175000Z
 DESCRIPTION:C'est l'heure des Skirmish du Multivers ! \nDonnez le meilleur 
@@ -2035,59 +1607,59 @@ DESCRIPTION:C'est l'heure des Skirmish du Multivers ! \nDonnez le meilleur
 URL:https://locator.riftbound.uvsgames.com/events/583442
 GEO:48.8433885;2.3813034
 LOCATION:81 Rue du Charolais\, Ground Control\, Paris\, IDF\, 75012\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:0WqCjHyNzPlvtt7pV6tn9
+UID:iUkaKT0jsIGSSfiSgiu4l
 SUMMARY:Chasseur de jeux - Saturday Afternoon Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260822T123000Z
 DTEND:20260822T164000Z
 URL:https://locator.riftbound.uvsgames.com/events/736025
 GEO:48.9185933;2.4491501
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:w4wUZ7Dq0Vz4iVJCqCrWQ
+UID:FGdP2ctpfFq6n-oK3jQ1n
 SUMMARY:BaronCollections Paris - Saturday Afternoon Vendetta Summoner Skirm
 	ish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260822T130000Z
 DTEND:20260822T194000Z
 URL:https://locator.riftbound.uvsgames.com/events/608050
 GEO:48.864591399999995;2.3682141999999997
 LOCATION:26 Bd Voltaire\, 75011 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Ee0FLdZiZkaJ1kPVoOlVy
+UID:pQBqCI_hwQqY-0SrcVE5u
 SUMMARY:Playin Paris BNF - Saturday Night Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260822T213000Z
 DTEND:20260823T050000Z
 DESCRIPTION:Inscription sur le site : https://www.play-in.com/fr/evenements
 URL:https://locator.riftbound.uvsgames.com/events/543593
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:2fenH8z9Udg71GAiChKm6
+UID:Fp7rSoA-Q0vH2WUVy5Ocr
 SUMMARY:Les Mauvais Joueurs - Sunday Morning Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260823T070000Z
 DTEND:20260823T120000Z
 DESCRIPTION:Inscription uniquement par mail à les.mauvais.jrs@gmail.com
 URL:https://locator.riftbound.uvsgames.com/events/499093
 GEO:48.8578278;2.3765972
 LOCATION:46 Rue Sedaine\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6WYtjyJgrhntdxHbx5HT9
+UID:9Z98U9dFLscJx9oktg6mG
 SUMMARY:La Compagnie des Jeux - [LCDJ] Le Rift Tour - Phase 1 - Tournoi 4
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260823T073000Z
 DTEND:20260823T114000Z
 DESCRIPTION:**Tournoi RIFTBOUND Rift Tour 04**\n\nLe Rift Tour est le premi
@@ -2127,12 +1699,12 @@ DESCRIPTION:**Tournoi RIFTBOUND Rift Tour 04**\n\nLe Rift Tour est le premi
 URL:https://locator.riftbound.uvsgames.com/events/638322
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:NNSSrFSHmlDIZkdqB5wpF
+UID:zSPidOlPKrVQZXpfMmXcI
 SUMMARY:Loufoque - Riftbound Vendetta Skirmish #1 23-08-2026 LOUFOQUE
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260823T080000Z
 DTEND:20260823T135000Z
 DESCRIPTION:Riftbound Unleashed Skirmish #2\n\nDate : Dimanche 23 Aout à 10
@@ -2155,12 +1727,12 @@ DESCRIPTION:Riftbound Unleashed Skirmish #2\n\nDate : Dimanche 23 Aout à 10
 URL:https://locator.riftbound.uvsgames.com/events/651420
 GEO:48.85108470000001;2.3468215
 LOCATION:57 Rue Galande\, Paris\, IDF\, 75005\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:KWczoe9Z8YeZScT7byjoi
+UID:5MVa_Avb-7r_Uw8EiIWzG
 SUMMARY:ULTRAJEUX BASTILLE - 0823 - Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260823T083000Z
 DTEND:20260823T151000Z
 DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
@@ -2168,26 +1740,26 @@ DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
 URL:https://locator.riftbound.uvsgames.com/events/583280
 GEO:48.8554475;2.3692011
 LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:pzVv3_Ci1J3Hsf1PLSZOI
+UID:64vTAo31HLgpzj05zcV6L
 SUMMARY:Le Coin des Barons - Paris Rivoli - Sunday Morning Vendetta Summone
 	r Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260823T090000Z
 DTEND:20260823T154000Z
 DESCRIPTION:incrption en boutique uniquement
 URL:https://locator.riftbound.uvsgames.com/events/505921
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ONScLy06zOrj5IW9ucLP1
+UID:0s2oXrVMgCBYoPyK8Nh0b
 SUMMARY:Majestik Games - RIFTBOUND - SUMMONER SKIRMISH DIMANCHE 23 AOUT 11H
 	00
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260823T090000Z
 DTEND:20260823T154000Z
 DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
@@ -2205,47 +1777,47 @@ DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
 URL:https://locator.riftbound.uvsgames.com/events/567636
 GEO:48.8342176;2.3239146
 LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:XCZZEDmpnPmPrSMs6Md5a
+UID:zWU58xBQDPfO_wb_tNYvG
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260824T170000Z
 DTEND:20260824T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/726427
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:jDYUGj5KtVus--cKO99Za
+UID:JeA3QGJwz5swtMEWAh6Yk
 SUMMARY:Derive Geek - Monday Evening Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260824T170000Z
 DTEND:20260824T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/647558
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:IFTxXym2TcBcnwbnoEw5-
+UID:QYBDZC3gM7NQ84M7jSujV
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260825T173000Z
 DTEND:20260825T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/729018
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:D4FuftxYLltuR5owZkPgb
+UID:cD3jH3aCSOKryV_8_AthT
 SUMMARY:Le Coin des Barons - Paris Rivoli - WIN 12 VENDETTA BOOSTERS  NEXUS
 	 NIGHT
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260826T170000Z
 DTEND:20260826T211000Z
 DESCRIPTION:LOT POUR 16 JOUEURS\nLOTS REAJUSTES SI MOINS DE JOUEURS\nWINNER
@@ -2254,23 +1826,23 @@ DESCRIPTION:LOT POUR 16 JOUEURS\nLOTS REAJUSTES SI MOINS DE JOUEURS\nWINNER
 URL:https://locator.riftbound.uvsgames.com/events/784874
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:KzZUGWsI6cgqXsdEeH_KE
+UID:KJJJWdD27k2PrNVBOkMkZ
 SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260826T173000Z
 DTEND:20260826T200000Z
 URL:https://locator.riftbound.uvsgames.com/events/735229
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6VGJDwKSIGjAI-xlLPJ3_
+UID:xuXRUO2oVEcimXn7zv_Di
 SUMMARY:MEiSiA - Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260826T173000Z
 DTEND:20260826T205000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -2278,23 +1850,23 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/646821
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4XVr3jtZsESj_tdVbAvE3
+UID:j5xf4XN3nezXIHH8cZPKr
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260827T170000Z
 DTEND:20260827T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/738313
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8p0GBa-CceshCNo8FwFfr
+UID:emGrGH09SwgubdCrU5sR8
 SUMMARY:DeouCafe - Skirmish d'Aout - Vendetta
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260827T170000Z
 DTEND:20260827T202000Z
 DESCRIPTION:Participez à notre Summoner Skirmish Septembre\, un tournoi com
@@ -2308,35 +1880,35 @@ DESCRIPTION:Participez à notre Summoner Skirmish Septembre\, un tournoi com
 URL:https://locator.riftbound.uvsgames.com/events/667698
 GEO:48.8474948;2.2740964
 LOCATION:59\, Av. de Versailles\, Paris\, IDF\, 75016\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:KzmBMU3SWTpWS9Zaz8UDR
+UID:4yREJik1533tTlKwp2wZ0
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260827T173000Z
 DTEND:20260827T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759886
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:l_kpnWzVSceZNLXrD7k-m
+UID:0LILR2Bn8NzgSyZYmNCbz
 SUMMARY:Chasseur de jeux - Riftbound Wednesday Afternoon Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260827T173000Z
 DTEND:20260827T214000Z
 URL:https://locator.riftbound.uvsgames.com/events/738475
 GEO:48.9185933;2.4491501
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8o10J6ZWTTynAg-71fZ2a
+UID:idOFG4tESYiDa-9Th-KS4
 SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260827T180000Z
 DTEND:20260827T185000Z
 DESCRIPTION:Venez entrainer votre deck dans la Faille au cours de notre Nex
@@ -2344,37 +1916,37 @@ DESCRIPTION:Venez entrainer votre deck dans la Faille au cours de notre Nex
 URL:https://locator.riftbound.uvsgames.com/events/739660
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:jFB2fWT2d96SaV5qFhT0e
+UID:EMTTmPGPqmibC6EUPlaep
 SUMMARY:Parkage Paris - Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260828T170000Z
 DTEND:20260828T202000Z
 DESCRIPTION:Inscription prioritaire sur parkage.com
 URL:https://locator.riftbound.uvsgames.com/events/774996
 GEO:48.8413925;2.3505626
 LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8ME4irOiYCZWmD5H_Vosy
+UID:1Vd7ZOCtv5e2rcHGQlEJS
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260828T173000Z
 DTEND:20260828T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/741465
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:PvFCDhjzriDDNqSP3WJoz
+UID:I5JT_b2Dwt4KVVkv0tuJQ
 SUMMARY:Les Gentlemen du Jeu - Pigalle - Riftbound - Skirmish Vendetta 1 - 
 	Samedi 29 Août à 10h
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260829T080000Z
 DTEND:20260829T144000Z
 DESCRIPTION:Rejoignez-nous pour un Skirmish Riftbound Vendetta aux Gentleme
@@ -2383,12 +1955,12 @@ DESCRIPTION:Rejoignez-nous pour un Skirmish Riftbound Vendetta aux Gentleme
 URL:https://locator.riftbound.uvsgames.com/events/522344
 GEO:48.881438599999996;2.3400781999999998
 LOCATION:72 R. des Martyrs\, 75009 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:OMxMTtcJ59tIVpfDANpRw
+UID:W-l73urIV2EUhybeiep5M
 SUMMARY:Playin Paris BNF - Rift Tour - Phase 1 Play-in BNF
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260829T091500Z
 DTEND:20260829T141500Z
 DESCRIPTION:⚔️ Rift Tour – Qualifiez-vous pour la phase suivante ! ⚔️\nAffron
@@ -2407,90 +1979,101 @@ DESCRIPTION:⚔️ Rift Tour – Qualifiez-vous pour la phase suivante ! ⚔️\
 URL:https://locator.riftbound.uvsgames.com/events/667383
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:eJ_hpX9leFWbG0AXhPMum
+UID:sonvDCvznhXdhwdyrsMwn
 SUMMARY:Chasseur de jeux - Saturday Afternoon Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260829T123000Z
 DTEND:20260829T164000Z
 URL:https://locator.riftbound.uvsgames.com/events/736030
 GEO:48.9185933;2.4491501
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:D5D8h40CgbKSZXIIxsyQc
+UID:b6-eBG33koMOX_pwBkROJ
 SUMMARY:Goupiya - Saturday Afternoon Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260829T130000Z
 DTEND:20260829T194000Z
 URL:https://locator.riftbound.uvsgames.com/events/503166
 GEO:48.758216;2.306741
 LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:16nNaa8h4k0X3Yx0hOxfL
+UID:kR5LWZpUGViSBYFkTE0tQ
 SUMMARY:Uchronies Games - Vendetta Summoner Skirmish I – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260830T070000Z
 DTEND:20260830T134000Z
 URL:https://locator.riftbound.uvsgames.com/events/535602
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:D5u82nhk1GVZmYebaENzW
+UID:LWwH-n7YuiopKn2Hm9YOo
 SUMMARY:Playin Paris Rivoli - Sunday Afternoon Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260830T103000Z
 DTEND:20260830T171000Z
 URL:https://locator.riftbound.uvsgames.com/events/500157
 GEO:48.8592323;2.345664
 LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:u7igCRVFqkWKUiQZA9k-i
+UID:86sAnctdkTzT5SCePVHxv
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260831T170000Z
 DTEND:20260831T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/748764
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:7lu67UFtW6h9mKb3g4oOs
+UID:Ox4JBEXDk66EBCQ9eQszm
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260901T173000Z
 DTEND:20260901T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/751198
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:YRCMXZt6XK4uZyVA7BEV3
+UID:bQ6B7JF5HWS64f7WkZIdD
 SUMMARY:Le Coin des Barons - Paris Rivoli - WESNDAY NEXUS NIGHT
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260902T170000Z
 DTEND:20260902T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/784880
 GEO:48.85696615185772;2.3544743972544335
 LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:XAEF9WRELJL9yytg4KeVx
+UID:10w12GCLD17yQ0RZS27gK
+SUMMARY:Uchronies Games - Draft Night – Uchronies Games
+DTSTAMP:20260726T063449Z
+DTSTART:20260902T173000Z
+DTEND:20260902T200000Z
+URL:https://locator.riftbound.uvsgames.com/events/754198
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:hNLvkpevFUrfZ-5cD-nMn
 SUMMARY:MEiSiA - Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260902T173000Z
 DTEND:20260902T205000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -2498,70 +2081,59 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/646823
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:oPVP07UGNJf585M-ifcV_
-SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
-DTSTART:20260902T173000Z
-DTEND:20260902T200000Z
-URL:https://locator.riftbound.uvsgames.com/events/754198
-GEO:48.8469379;2.2991451
-LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
-END:VEVENT
-BEGIN:VEVENT
-UID:Uz-I9ye4ecVa65XruAZSg
+UID:FuE_Em3gqMrFK6P8-QUho
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260903T170000Z
 DTEND:20260903T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/757216
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Mi5vMChrr46Ng8YhGKdk4
+UID:WwUyCG25OFoW5rjavQYPa
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260903T173000Z
 DTEND:20260903T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759887
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:qHXCBeLDontQ5yJFEIu4k
+UID:LQc9JToE2ixd7m54o9xtF
 SUMMARY:Chasseur de jeux - Riftbound Wednesday Afternoon Nexus Nights - 1v1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260903T173000Z
 DTEND:20260903T214000Z
 URL:https://locator.riftbound.uvsgames.com/events/757361
 GEO:48.9185933;2.4491501
 LOCATION:100\, Av. Henri Barbusse\, Drancy\, IDF\, 93700\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:R_l1qZm86G_Ng_rB5o4cl
+UID:slQG_O_zDf9CCmNIgUlxD
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260904T173000Z
 DTEND:20260904T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/759888
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:L7x2mR_LXdQq-hwbkdJet
+UID:Bptbztt_3jl4d2PfUZnKd
 SUMMARY:ULTRAJEUX OBERKAMPF - ULTRAJEUX Oberkampf - Riftbound - Vendetta Su
 	mmoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260905T070000Z
 DTEND:20260905T125000Z
 DESCRIPTION:IMPORTANT : Seul le paiement de votre place de tournoi sur ultr
@@ -2571,23 +2143,23 @@ DESCRIPTION:IMPORTANT : Seul le paiement de votre place de tournoi sur ultr
 URL:https://locator.riftbound.uvsgames.com/events/638769
 GEO:48.8639689;2.3715375
 LOCATION:108 Boulevard Richard-Lenoir\, Paris\, IDF\, 75011\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:D6EcMu8D_lcw3QXwjXg_2
+UID:tezFwBWkFQv2yWbMyU3K3
 SUMMARY:Atmos Arena - Skirmish Atmos Arena Septembre
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260905T073000Z
 DTEND:20260905T150000Z
 URL:https://locator.riftbound.uvsgames.com/events/604519
 GEO:48.8672591;2.3524848
 LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:JwKPk7PSG944De3Gl8owo
+UID:sOmKBQ0fQcFF4Z9XdFMSg
 SUMMARY:Les Jeux de l'Olympe - Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260905T094500Z
 DTEND:20260905T153500Z
 DESCRIPTION:3 ou 4 rondes selon le nombre d'inscrits\, suivi d'un top 4 ou 
@@ -2598,12 +2170,12 @@ DESCRIPTION:3 ou 4 rondes selon le nombre d'inscrits\, suivi d'un top 4 ou
 URL:https://locator.riftbound.uvsgames.com/events/645224
 GEO:48.8399231;2.4965956
 LOCATION:25 avenue ledru-rollin\, Le Perreux sur Marne\, 94170\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:hh6zSyqkYLi0IO5J4reob
+UID:IwLferuEGdegzY0m1tm3L
 SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Skirmish Vendetta I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260906T073000Z
 DTEND:20260906T141000Z
 DESCRIPTION:*Tournoi RIFTBOUND Skirmish SET 4 - Septembre 2026**\n\nAttenti
@@ -2637,13 +2209,13 @@ DESCRIPTION:*Tournoi RIFTBOUND Skirmish SET 4 - Septembre 2026**\n\nAttenti
 URL:https://locator.riftbound.uvsgames.com/events/542376
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Ir6ksSs5wURutLv5Z6-6A
+UID:ivbMUioOfeDoLLtze2z3E
 SUMMARY:Les Gentlemen du Jeu - Riftbound - Skirmish Vendetta 1 - Dimanche 2
 	3 Août à 10h - Gambetta
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260906T080000Z
 DTEND:20260906T144000Z
 DESCRIPTION:Rejoignez nous pour un Skirmish Vendetta aux Gentlemen du Jeu -
@@ -2652,46 +2224,46 @@ DESCRIPTION:Rejoignez nous pour un Skirmish Vendetta aux Gentlemen du Jeu -
 URL:https://locator.riftbound.uvsgames.com/events/521820
 GEO:48.8642911;2.3976277
 LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:mwLHhw78rLyMZk1P0ifJZ
+UID:XCnfCSyUM2zNwAp6XmQH4
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260907T170000Z
 DTEND:20260907T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/767001
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:jFmogCfxitbT3jMdWG11z
+UID:naESMTb5tAQU5yo-NqAFg
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260908T173000Z
 DTEND:20260908T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/769171
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:lagUThyks4IXdzJAZc-DY
+UID:VfICefu7IdYHj_wc3WYHQ
 SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260909T173000Z
 DTEND:20260909T200000Z
 URL:https://locator.riftbound.uvsgames.com/events/771837
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:vvTh971WGov6XmYPxk6fQ
+UID:Roi9jtt-g8JUVL-tQ_LBJ
 SUMMARY:MEiSiA - Riftbound - Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260909T173000Z
 DTEND:20260909T205000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -2699,60 +2271,60 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/646817
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:XuVdw8oMngqIKqUtwUvRH
+UID:C40QLLX-DBtVgoROli5ii
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260910T170000Z
 DTEND:20260910T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/774310
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:EkvV_tEmTGvdxwIhrzAhC
+UID:PkL8awvmG20X872SP3aEq
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260910T173000Z
 DTEND:20260910T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/774316
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Ih38SJQK5LF97oYvG4vXw
+UID:_OdcJ6BpkuOlxu5V_b9An
 SUMMARY:Geek Factory - Sunday Morning Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260910T173000Z
 DTEND:20260910T232000Z
 DESCRIPTION:informations à venir
 URL:https://locator.riftbound.uvsgames.com/events/511852
 GEO:48.8353478;2.4736673
 LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:Q_4v_w7WdL6D2iXCLN01V
+UID:pQYdUI-p7OEQMGdHmmMHs
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260911T173000Z
 DTEND:20260911T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/777088
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4HSaxtIFr7ht_-SSAhqkw
+UID:_dqmuc8mNimZ9cLHXLLGY
 SUMMARY:Le Troll Savant - Le Troll Savant Créteil - Skirmish Riftbound 12/0
 	9/26
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260912T073000Z
 DTEND:20260912T141000Z
 DESCRIPTION:Bonjour à toutes et tous et bienvenue dans le Summoner Skirmsih
@@ -2775,24 +2347,24 @@ DESCRIPTION:Bonjour à toutes et tous et bienvenue dans le Summoner Skirmsih
 URL:https://locator.riftbound.uvsgames.com/events/544648
 GEO:48.79274359999999;2.4631197
 LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:OO4Fb12w1_Gz6dDjtV9nF
+UID:wXTxo8RpIap1n-cCzW0SH
 SUMMARY:Parkage Paris - Vendetta Summoner Skirmish - Parkage EDB
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260912T091500Z
 DTEND:20260912T155500Z
 DESCRIPTION:INSCRIPTION PRIORITAIRE SUR PARKAGE.COM
 URL:https://locator.riftbound.uvsgames.com/events/608620
 GEO:48.8413925;2.3505626
 LOCATION:11 Rue de l'Épée de Bois\, 75005 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:tb-sz9Y7vG6OIqifatmN4
+UID:1ISq23pmHB88lS81Jdaar
 SUMMARY:Troll2jeux - Summoner Skirmish du 12 Septembre 2026 à 12 heures
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260912T100000Z
 DTEND:20260912T164000Z
 DESCRIPTION:Invocateurs ! \n\nL'appel de la bataille vous attend à Troll2Je
@@ -2809,24 +2381,24 @@ URL:https://locator.riftbound.uvsgames.com/events/607823
 GEO:48.8487755;2.3788405
 LOCATION:15-17 Place d'Aligre\, 15-17 Place d'Aligre\, Paris\, IDF\, 75012\
 	, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:3_YBbYg5g-E5jLoAEjEWw
+UID:Coi90vdaMmYAV3l1v6kUv
 SUMMARY:MYSTIC GAMES - Saturday Afternoon Vendetta Summoner Skirmish I
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260912T103000Z
 DTEND:20260912T162000Z
 URL:https://locator.riftbound.uvsgames.com/events/535534
 GEO:48.8263632;2.2474114
 LOCATION:270 Boulevard Jean Jaurès\, Boulogne Billancourt\, IDF\, 92100\, F
 	R
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:iI6i1Wz2MQwxmQy2MUfS3
+UID:xWRQJabBHp_qSzjX5uzSy
 SUMMARY:MEiSiA - Riftbound - Summoner Skirmish - Septembre
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260913T080000Z
 DTEND:20260913T144000Z
 DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
@@ -2834,69 +2406,69 @@ DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
 URL:https://locator.riftbound.uvsgames.com/events/536303
 GEO:48.8693694;2.3569353
 LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:VdXC6yqaihs9pzxrRHcFM
+UID:MsOCykMs_ndlL_zTmTMbX
 SUMMARY:Derive Geek - Monday Evening Nexus Night 1V1
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260914T170000Z
 DTEND:20260914T211000Z
 URL:https://locator.riftbound.uvsgames.com/events/784150
 GEO:48.75870519999999;2.4113053
 LOCATION:13 Rue Parmentier\, Choisy le Roi\, IDF\, 94600\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ODaYWNjIkBLn5CljAjbnY
+UID:3P-Bvk-UI7TqYnHQJeqSE
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260915T173000Z
 DTEND:20260915T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/786739
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cFMnYEFZnsXPo578dtwj7
+UID:4bBLAVElGCsbyJFYkOaHE
 SUMMARY:Uchronies Games - Draft Night – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260916T173000Z
 DTEND:20260916T200000Z
 URL:https://locator.riftbound.uvsgames.com/events/789733
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:devHX-SdMl5sOq-h-Rkdp
+UID:SEc4CqqLM-HtSHPaj_yji
 SUMMARY:Playin Paris BNF - Weekly Nexus Night
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260917T170000Z
 DTEND:20260917T193000Z
 URL:https://locator.riftbound.uvsgames.com/events/792659
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9JmhAb_apDDvUTKO5zZov
+UID:hPsVkDP1wKIX9UOLq9GGL
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260917T173000Z
 DTEND:20260917T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/792666
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9DkO0mOYPvd88ePn-L1sD
+UID:Bjl17dCAwGR6DYfx3ZYZO
 SUMMARY:La Compagnie des Jeux - [LCDJ] Gala Riftbound
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260917T180000Z
 DTEND:20260917T213000Z
 DESCRIPTION:Gala Riftbound avec des jeux et du karaoke\, dans la joie et la
@@ -2906,25 +2478,25 @@ DESCRIPTION:Gala Riftbound avec des jeux et du karaoke\, dans la joie et la
 URL:https://locator.riftbound.uvsgames.com/events/772327
 GEO:48.90035399999998;2.2140119999999994
 LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:td36V-hVHEkQTMYh2VkS-
+UID:RRG85hQ2ZhIEFqZ-cn08n
 SUMMARY:Uchronies Games - Nexus Night – Construit 1v1 – Uchronies Games
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260918T173000Z
 DTEND:20260918T223000Z
 DESCRIPTION:24 players
 URL:https://locator.riftbound.uvsgames.com/events/795517
 GEO:48.8469379;2.2991451
 LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:bc3IBdyD2hRIZ-VqGtzl-
+UID:yjtnFmIENjC8ESJ8eQg1U
 SUMMARY:Le Repaire du Dragon - Saturday Morning Vendetta Summoner Skirmish 
 	II
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260919T083000Z
 DTEND:20260919T142000Z
 DESCRIPTION:Tournoi summoner skirmish de Septembre\n\n\nLes inscriptions po
@@ -2933,12 +2505,12 @@ DESCRIPTION:Tournoi summoner skirmish de Septembre\n\n\nLes inscriptions po
 URL:https://locator.riftbound.uvsgames.com/events/544856
 GEO:48.87605589999999;2.3805953
 LOCATION:43\, Av. Simon Bolivar\, Paris\, IDF\, 75019\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:7WFhD0_rGW9j35qIxSjhi
+UID:zgs8jEkv06T3cGxldRLTJ
 SUMMARY:Multivers - Vendetta Summoner Skirmish - II Window x Multivers
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260919T120000Z
 DTEND:20260919T175000Z
 DESCRIPTION:C'est l'heure des Skirmish du Multivers ! \nDonnez le meilleur 
@@ -2951,30 +2523,366 @@ DESCRIPTION:C'est l'heure des Skirmish du Multivers ! \nDonnez le meilleur
 URL:https://locator.riftbound.uvsgames.com/events/583445
 GEO:48.8433885;2.3813034
 LOCATION:81 Rue du Charolais\, Ground Control\, Paris\, IDF\, 75012\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cn0lhqI_rdy2fECcNOotj
+UID:5Q8KCEQs5kq6uOB6FMySC
 SUMMARY:BaronCollections Paris - Saturday Afternoon Vendetta Summoner Skirm
 	ish II
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260919T130000Z
 DTEND:20260919T194000Z
 URL:https://locator.riftbound.uvsgames.com/events/608067
 GEO:48.864591399999995;2.3682141999999997
 LOCATION:26 Bd Voltaire\, 75011 Paris\, France
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ppIJlWqI6aS1LW2BtWlVL
+UID:-6zDvGhyVIt9q4tkD7F4N
 SUMMARY:Playin Paris BNF - Saturday Night Vendetta Summoner Skirmish II
-DTSTAMP:20260725T061618Z
+DTSTAMP:20260726T063449Z
 DTSTART:20260919T213000Z
 DTEND:20260920T050000Z
 DESCRIPTION:Inscription sur le site : https://www.play-in.com/fr/evenements
 URL:https://locator.riftbound.uvsgames.com/events/543595
 GEO:48.8312895;2.3758214
 LOCATION:131 Avenue de France\, Paris\, IDF\, 75013\, FR
-LAST-MODIFIED:20260725T061600Z
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:oMVM8p_xoS_KQa5YC85Qs
+SUMMARY:Uchronies Games - Vendetta Summoner Skirmish II – Uchronies Games
+DTSTAMP:20260726T063449Z
+DTSTART:20260920T070000Z
+DTEND:20260920T134000Z
+URL:https://locator.riftbound.uvsgames.com/events/535603
+GEO:48.8469379;2.2991451
+LOCATION:61 Rue Letellier\, Paris\, IDF\, 75015\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:qQttjdF1gh3rj3YFL8_WZ
+SUMMARY:Les Gentlemen du Jeu - Riftbound - Skirmish Vendetta 2 - Dimanche 2
+	0 Septembre à 10h - Gambetta
+DTSTAMP:20260726T063449Z
+DTSTART:20260920T080000Z
+DTEND:20260920T144000Z
+DESCRIPTION:Rejoignez nous pour un Skirmish Vendetta aux Gentlemen du Jeu -
+	 Gambetta : 13 Av du père Lachaise\, 75020 Paris\nInformations et Réservat
+	ions sur lesgentlemendujeu.com
+URL:https://locator.riftbound.uvsgames.com/events/521821
+GEO:48.8642911;2.3976277
+LOCATION:13 Avenue du Père Lachaise\, Paris\, IDF\, 75020\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:K6RwYMPdRkYIB6sAsML3M
+SUMMARY:ULTRAJEUX BASTILLE - 0920 - Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20260920T083000Z
+DTEND:20260920T151000Z
+DESCRIPTION:Seule votre inscription sur ultrajeux.com garantit votre partic
+	ipation à cet évènement
+URL:https://locator.riftbound.uvsgames.com/events/583290
+GEO:48.8554475;2.3692011
+LOCATION:13 Rue Amelot\, Paris\, IDF\, 75011\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6OowRnQnzISKsx0AkpQqz
+SUMMARY:Le Coin des Barons - Paris Rivoli - Sunday Morning Vendetta Summone
+	r Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20260920T090000Z
+DTEND:20260920T154000Z
+DESCRIPTION:inscrption en boutique
+URL:https://locator.riftbound.uvsgames.com/events/505925
+GEO:48.85696615185772;2.3544743972544335
+LOCATION:48B Rue de Rivoli\, 75004 Paris\, France
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:JtCyztL27efFhAr5P5cEC
+SUMMARY:Majestik Games - RIFTBOUND - SUMMONER SKIRMISH DIMANCHE 20 SEPTEMBR
+	E 11H00
+DTSTAMP:20260726T063449Z
+DTSTART:20260920T090000Z
+DTEND:20260920T154000Z
+DESCRIPTION:Inscription et paiement sur notre site ici : https://www.majest
+	ikgames.com/fr/10000010-evenements\n\nLES INSCRIPTION SUR LE LOCATOR NE SE
+	RONT PAS PRIS EN COMPTE SI VOUS NE VOUS ÊTES PAS INSCRIT SUR NOTRE SITE AU
+	 PRÉALABLE.\n\nFormat : 1v1 Construit\nStructure : 5 rondes suisse en Bo3 
+	puis Top 8.\nTarif : 15€\nPlaces : 32 places\nHoraires : Début du tournoi 
+	à 11h00\, fin vers 19h00.\nLieu : Boutique MajestiK Games\, 148 avenue du 
+	Maine\, 75014 Paris.\nAccès : 10min à pied de la station Denfert-Rocherot\
+	, Métro 6 et 4\, RER B\, Ligne L.\n\nLots :\n\n1er: 3 Boosters Riftbound +
+	 Carte promo Top 8 + Playmat Champion\n\n2e: 3 Boosters Riftbound + Carte 
+	promo Top 8\n\n3-4e: 2 Boosters Riftbound + Carte promo Top 8\n\n5-8e: 1 B
+	oosters Riftbound + Carte promo Top 8\n\n9-32e: 1 Booster Riftbound + Cart
+	e promo
+URL:https://locator.riftbound.uvsgames.com/events/567638
+GEO:48.8342176;2.3239146
+LOCATION:148 Avenue du Maine\, Paris\, IDF\, 75014\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:QtfwzFcIUu5wV-xavOcbl
+SUMMARY:MISTER 8 - Sunday Afternoon Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20260920T110000Z
+DTEND:20260920T142000Z
+URL:https://locator.riftbound.uvsgames.com/events/658672
+GEO:48.8912282;2.2421416
+LOCATION:10 Pl. de la Défense\, 92400 Courbevoie\, France
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nl6XbmucUuaQ4ZweYLKJY
+SUMMARY:DeouCafe - Skirmish de Septembre - Vendetta
+DTSTAMP:20260726T063449Z
+DTSTART:20260924T170000Z
+DTEND:20260924T202000Z
+DESCRIPTION:Participez à notre Summoner Skirmish d'Aout\, un tournoi compét
+	itif en format Construit 1 contre 1.\n\nFormat :\n\n- 4 Rondes suisses d'1
+	h chacune\n\n- Le classement final à la fin de la phase Suisse détermine l
+	a répartition des dotations\n\nDotation :\n\n- Pour chaque joueur : Carte 
+	promo de participation (dans la limite des stocks)\n\n- Vainqueur : Carte 
+	promo Champion + Playmat\n\n🏆 Récompense spéciale :\n\n- Le vainqueur remp
+	orte également un Round 1 BYE pour un Regional Qualifier.\n\nPrix d'entrée
+	 : 15 €\n\nInscription et paiement sur notre site :
+URL:https://locator.riftbound.uvsgames.com/events/667716
+GEO:48.8474948;2.2740964
+LOCATION:59\, Av. de Versailles\, Paris\, IDF\, 75016\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:udaBfZnUSADS1at_P2VJT
+SUMMARY:Les Jeux de l'Olympe - Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20260926T094500Z
+DTEND:20260926T153500Z
+DESCRIPTION:3 ou 4 rondes selon le nombre d'inscrits\, suivi d'un top 4 ou 
+	d'un top 8.\nrécompenses skirmish : cartes promo de participation\, cartes
+	 promo top 8\, carte promo vainqueur\, tapis vainqueur.\nrécompenses addit
+	ionnelles : 3 boosters nexus night Unleashed par personne + carte promo (s
+	elon disponibilités).
+URL:https://locator.riftbound.uvsgames.com/events/645271
+GEO:48.8399231;2.4965956
+LOCATION:25 avenue ledru-rollin\, Le Perreux sur Marne\, 94170\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:-x8DsXj7rALe4Ao53t1RA
+SUMMARY:Goupiya - Saturday Afternoon Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20260926T130000Z
+DTEND:20260926T194000Z
+URL:https://locator.riftbound.uvsgames.com/events/503167
+GEO:48.758216;2.306741
+LOCATION:67 Avenue Aristide Briand\, Antony\, IDF\, 92160\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0DlatwU0eTkCEZP2cFRxl
+SUMMARY:Playin Paris Rivoli - Sunday Evening Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20260927T150000Z
+DTEND:20260927T214000Z
+URL:https://locator.riftbound.uvsgames.com/events/500203
+GEO:48.8592323;2.345664
+LOCATION:59 Rue de Rivoli\, Paris\, IDF\, 75001\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:40xwOxkWm6I7Ie5z76_BK
+SUMMARY:Les Gentlemen du Jeu - Pigalle - Riftbound : Skirmish Vendetta 2 - 
+	Samedi 26 Septembre à 10h - Pigalle
+DTSTAMP:20260726T063449Z
+DTSTART:20261002T080000Z
+DTEND:20261002T144000Z
+DESCRIPTION:Rejoignez-nous pour un Skirmish Riftbound Vendetta au Gentlemen
+	 du Jeu - Pigalle : 72 rue des Martyrs\, 75009 Paris\nInformations et Rése
+	rvations sur lesgentlemendujeu.com
+URL:https://locator.riftbound.uvsgames.com/events/522352
+GEO:48.881438599999996;2.3400781999999998
+LOCATION:72 R. des Martyrs\, 75009 Paris\, France
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:khJMiIwS8zcjO-ADUwwDK
+SUMMARY:ULTRAJEUX OBERKAMPF - ULTRAJEUX Oberkampf - Riftbound - Vendetta Su
+	mmoner Skirmish II
+DTSTAMP:20260726T063449Z
+DTSTART:20261003T070000Z
+DTEND:20261003T125000Z
+DESCRIPTION:IMPORTANT : Seul le paiement de votre place de tournoi sur ultr
+	ajeux.com garantit votre participation à cet évènement.\n\nMerci de ne rej
+	oindre le tournoi sur Carde.io qu'APRES avoir réglé avec succès votre part
+	icipation sur ultrajeux.com.\n\nLes places sont nominatives.
+URL:https://locator.riftbound.uvsgames.com/events/638771
+GEO:48.8639689;2.3715375
+LOCATION:108 Boulevard Richard-Lenoir\, Paris\, IDF\, 75011\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5SB6J2GOimYzvcp3hSVkX
+SUMMARY:Troll2jeux - Summoner Skirmish du 3 Octobre 2026 à 12 heures
+DTSTAMP:20260726T063449Z
+DTSTART:20261003T100000Z
+DTEND:20261003T164000Z
+DESCRIPTION:Invocateurs ! \n\nL'appel de la bataille vous attend à Troll2Je
+	ux le 3 OCTOBRE 2026 à 12 HEURES !\n\nNombre de joueurs : 32\nNombre de ro
+	ndes : 5 de 50 minutes avec un Top 8.\nLots : \n\nPour tous les joueurs en
+	 dessous du top 8 : Une carte promo de participation !\nPour le top 8 : La
+	 carte de participation + une carte promotionnelle pour avoir atteint le t
+	op 8 !\nPour l'invocateur CHAMPION : La carte de participation + la carte 
+	de top 8 ET un tapis de jeu CHAMPION !\n\nLe Champion recevra également un
+	 "Round 1 Bye" utilisable pour les Regional Qualifier !\n\nQu'attendez vou
+	s ? Préparez votre meilleur deck et champions et affrontez le monde des in
+	vocateurs !
+URL:https://locator.riftbound.uvsgames.com/events/607838
+GEO:48.8487755;2.3788405
+LOCATION:15-17 Place d'Aligre\, 15-17 Place d'Aligre\, Paris\, IDF\, 75012\
+	, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:EkDDa78LDjb-Se7QqSNUS
+SUMMARY:La Compagnie des Jeux - [LCDJ] Riftbound - Skirmish Vendetta II
+DTSTAMP:20260726T063449Z
+DTSTART:20261004T073000Z
+DTEND:20261004T141000Z
+DESCRIPTION:*Tournoi RIFTBOUND Skirmish SET 4 - Octobre 2026**\n\nAttention
+	\, merci de bien compléter votre inscription via notre billetterie : https
+	://boutique.compagniedesjeux.fr/?page=product&id=6763\n(choisissez un crén
+	eau quelconque pour le click and collect\, cela n'aura pas d'impact)\nEn e
+	ffet l'inscription via riftbound.uvsgames.com ne suffira pas à garantir vo
+	tre place.\n\nVoici plusieurs informations importantes pour son bon déroul
+	ement :\n\nVous pouvez arriver sur le lieu du tournoi dès 9h30 pour un dém
+	arrage à 10h00 max. \n\nL'adresse :\nLa Compagnie des Jeux\n169 Esplanade 
+	Patrice Chéreau\n92000 Nanterre\nLe lien Google Maps :\nhttps://maps.app.g
+	oo.gl/Yf4jMZcpPn5cArWZ8\n\nFormat : Core (construit)\n5 rondes suisses et 
+	Top Cut 8 (élimination directe)\n24 Participants\nRonde de 55 minutes en B
+	O3\nTours à élimination directe :\n- BO3\n- 70 minutes par tour du Top 8\n
+	- Finale non chronométrée\nSide deck autorisé\n\nNous ferons une pause pou
+	r déjeuner après les 3 premières rondes. Il y a de nombreuses solutions po
+	ur se restaurer autour de la boutique\, vous aurez l'embarras du choix.\n\
+	n\nDotations \n\n**Le Champion vainqueur reçoit :**\n1 tapis Champion\n12 
+	boosters Set 4\n1 carte Promo Top 8\n1 carte Promo de participation\nLe va
+	inqueur bénéficiera d'un bye pour le premier tour lors des qualifications 
+	régionales.\n\n**Place d'honneur - Le deuxième reçoit :**\n8 boosters Set 
+	4 \n1 carte Promo Top 8\n1 carte Promo de participation\n\n**Pour les 3ème
+	 et 4ème :**\n4 boosters Set 4\n1 carte Promo Top 8\n1 carte Promo de part
+	icipation\n\n**Pour les 5ème\, 6ème\, 7ème et 8ème :**\n3 boosters Set 4\n
+	1 carte Promo Top 8\n1 carte Promo de participation\n\n**Pour les 9ème à 2
+	4ème :**\n2 boosters Set 4\n1 Carte Promo de participation\n\nLa dotation 
+	pourra être ajustée en fonction de la participation.\n\nPour les inscripti
+	ons aux évènements\, l'annulation au moins 7 jours francs avant la date de
+	 l'évènement donnera lieu à l'émission d'un avoir utilisable en boutique. 
+	Aucun remboursement en espèces ne sera proposé.
+URL:https://locator.riftbound.uvsgames.com/events/542380
+GEO:48.90035399999998;2.2140119999999994
+LOCATION:169 Espl. Patrice Chéreau\, Nanterre\, IDF\, 92000\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:k_pS7MIpVn578VCdYL5EX
+SUMMARY:Les Mauvais Joueurs - Sunday Morning Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063450Z
+DTSTART:20261004T090000Z
+DTEND:20261004T140000Z
+DESCRIPTION:Inscription uniquement par mail à les.mauvais.jrs@gmail.com
+URL:https://locator.riftbound.uvsgames.com/events/499094
+GEO:48.8578278;2.3765972
+LOCATION:46 Rue Sedaine\, Paris\, IDF\, 75011\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:SwvpXfza1st-e8YRXJeKK
+SUMMARY:Le Troll Savant - Le Troll Savant Créteil - Skirmish Riftbound 10/1
+	0/26
+DTSTAMP:20260726T063450Z
+DTSTART:20261010T080000Z
+DTEND:20261010T144000Z
+URL:https://locator.riftbound.uvsgames.com/events/544650
+GEO:48.79274359999999;2.4631197
+LOCATION:33 Rue du Général Leclerc\, Créteil\, IDF\, 94000\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:UgnXYIhMnAZgMaipm0kk7
+SUMMARY:Geek Factory - Saturday Morning Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063450Z
+DTSTART:20261010T080000Z
+DTEND:20261010T135000Z
+DESCRIPTION:informations à venir
+URL:https://locator.riftbound.uvsgames.com/events/511865
+GEO:48.8353478;2.4736673
+LOCATION:4 Place du Général Leclerc\, Nogent-sur-Marne\, IDF\, 94130\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:hlKddS9RQ3iG5etV0mxHQ
+SUMMARY:MYSTIC GAMES - Saturday Afternoon Vendetta Summoner Skirmish II
+DTSTAMP:20260726T063450Z
+DTSTART:20261010T120000Z
+DTEND:20261010T175000Z
+URL:https://locator.riftbound.uvsgames.com/events/535536
+GEO:48.8263632;2.2474114
+LOCATION:270 Boulevard Jean Jaurès\, Boulogne Billancourt\, IDF\, 92100\, F
+	R
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1XdVQ9wccubMzVIWPgm2Z
+SUMMARY:Atmos Arena - Skirmish Atmos-Arena Octobre
+DTSTAMP:20260726T063450Z
+DTSTART:20261010T143000Z
+DTEND:20261010T220000Z
+URL:https://locator.riftbound.uvsgames.com/events/604527
+GEO:48.8672591;2.3524848
+LOCATION:4 Rue du Caire\, Paris\, IDF\, 75002\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fzQAeavo-66NzChd9XPcY
+SUMMARY:Loufoque - Riftbound Vendetta Skirmish #2 11-10-2026 LOUFOQUE
+DTSTAMP:20260726T063450Z
+DTSTART:20261011T080000Z
+DTEND:20261011T135000Z
+DESCRIPTION:Riftbound Unleashed Skirmish #2\n\nDate : Dimanche 11 Octobre à
+	 10h00\nFormat&nbsp\; Construit de 16 joueurs :\n5 rondes de 50 minutes en
+	 BO3\, suivies d'un top 8 en BO3. Top 8\, top 4 en 70 minutes et Finale no
+	n chronométrée\,\nDecklist obligatoire à envoyer sur le Locator&nbsp\;\n\n
+	\nCoût : 16\,50 €\n\nLots promotionnels exclusifs selon le classement:\n\n
+	\nChampion - Le vainqueur remporte :\n1 tapis de jeu&nbsp\; Champion&nbsp\
+	;\n1 carte promo foil top 8\n1 Bye pour les Régional Qualifier\nDe la deux
+	ième à la huitième place\, chacun reçoit :\n1 carte promo foil top 8\nTous
+	 les participants :\n\n&nbsp\;1 carte promo&nbsp\;\n&nbsp\;1 Booster Promo
+	 Riftbound\n\nRécompenses supplémentaires selon le classement.\n1ere place
+	 : 1x Riftbound Vault  Vendetta\n2ème place : 4x Boosters Riftbound  Vende
+	tta\n3ème et&nbsp\; 4 ème place : 3x Boosters Riftbound  Vendetta\n5ème à 
+	la 16 ème place : 2x Boosters Riftbound  Vendetta\n\nFormule repas sur pla
+	ce : un plat OU deux tapas = une boisson offerte\, à choisir parmi notre M
+	enu.\n\nRejoignez nous sur notre Discord : [Discord Loufoque](https://disc
+	ord.gg/rm5EYSm27c)\n\n\nToute inscription est OBLIGATOIRE via le site web 
+	: https://shop.loufoque.fr/
+URL:https://locator.riftbound.uvsgames.com/events/651427
+GEO:48.85108470000001;2.3468215
+LOCATION:57 Rue Galande\, Paris\, IDF\, 75005\, FR
+LAST-MODIFIED:20260726T063400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4qmy6gJe2OYCcr7OWrdEw
+SUMMARY:MEiSiA - Riftbound - Summoner Skirmish - Octobre
+DTSTAMP:20260726T063450Z
+DTSTART:20261011T080000Z
+DTEND:20261011T144000Z
+DESCRIPTION:Infos et inscriptions sur https://shop.cafemeisia.com/events/ri
+	ftbound-summoner-skirmish/
+URL:https://locator.riftbound.uvsgames.com/events/536308
+GEO:48.8693694;2.3569353
+LOCATION:84 Rue René Boulanger\, Paris\, IDF\, 75010\, FR
+LAST-MODIFIED:20260726T063400Z
 END:VEVENT
 END:VCALENDAR
