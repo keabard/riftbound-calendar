@@ -3,6 +3,7 @@ import ics, { EventAttributes } from 'ics'
 import { writeFileSync } from 'fs'
 
 const PARIS_COORDINATES = { latitude: 48.8571346, longitude: 2.3479679, radius: 8 }
+const BRETIGNY_COORDINATES = { latitude: 48.6009488, longitude: 2.2577348, radius: 8 }
 const LE_MANS_COORDINATES = { latitude: 48.006110, longitude: 0.199556, radius: 4 }
 
 const mapUVSEventToICSEvent = (event: EventLocatorResponse['results'][number]): EventAttributes => {
@@ -203,4 +204,22 @@ ics.createEvents(leMansResult.results.map(mapUVSEventToICSEvent), (error, value)
   }
 
   writeFileSync('events_le_mans.ics', value);
+});
+
+const bretignyResponse = await fetch(`https://api.cloudflare.riftbound.uvsgames.com/hydraproxy/api/v2/events/?start_date_after=${today.toISOString()}&display_status=upcoming&latitude=${BRETIGNY_COORDINATES.latitude}&longitude=${BRETIGNY_COORDINATES.longitude}&num_miles=${BRETIGNY_COORDINATES.radius}&upcoming_only=true&game_slug=riftbound&page=1&page_size=200`, {
+	tls: {
+		rejectUnauthorized: false,
+	},
+})
+
+const bretignyResponseJSON = await bretignyResponse.json()
+const bretignyResult = eventLocatorResponseSchema.parse(bretignyResponseJSON)
+
+ics.createEvents(bretignyResult.results.map(mapUVSEventToICSEvent), (error, value) => {
+  if (error) {
+    console.log('ICS ERROR', error);
+    return;
+  }
+
+  writeFileSync('events_bretigny.ics', value);
 });
