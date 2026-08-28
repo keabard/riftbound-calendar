@@ -5,66 +5,247 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:T4u_rg26r9KMxW6fZOD8z
-SUMMARY:Ecoloustik - RIFTBOUND Open Play Écoloustik
-DTSTAMP:20260213T110619Z
-DTSTART:20260213T190000Z
-DTEND:20260213T220000Z
-DESCRIPTION:Soirée jeu libre. \nÉchanges\, initiation\, découverte.\nGratui
-	t
-URL:https://locator.riftbound.uvsgames.com/events/387338
-GEO:48.0329431;0.1748939
-LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
-LAST-MODIFIED:20260213T110600Z
+UID:5vMKu0eSI1WucPbBJ8CJg
+SUMMARY:Ludotrotter Lemans - Friday Evening Nexus Nights - 1v1
+DTSTAMP:20260828T075012Z
+DTSTART:20260828T171500Z
+DTEND:20260828T212500Z
+DESCRIPTION:Pour plus d'informations\, rendez vous sur le discord Ludotrott
+	er Le Mans
+URL:https://locator.riftbound.uvsgames.com/events/882753
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:1WaRcAVZ3biQH1ffrCkDs
-SUMMARY:Ecoloustik - Soirée RIFTBOUND jeu libre
-DTSTAMP:20260213T110619Z
-DTSTART:20260220T190000Z
-DTEND:20260220T220000Z
-DESCRIPTION:Soirée jeu libre. Echanges\, initiation\, découverte.\nGratuit
-URL:https://locator.riftbound.uvsgames.com/events/347747
+UID:zdLRbyiKEJFwm9cBRm1Uu
+SUMMARY:Ecoloustik - Riftbound construit ou scellé
+DTSTAMP:20260828T075012Z
+DTSTART:20260828T180000Z
+DTEND:20260828T212000Z
+DESCRIPTION:Soirée Riftbound en construit ou scellé
+URL:https://locator.riftbound.uvsgames.com/events/885215
 GEO:48.0329431;0.1748939
 LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
-LAST-MODIFIED:20260213T110600Z
+LAST-MODIFIED:20260828T075000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:oI4R7J9Jab8mSakhIPgLt
-SUMMARY:La Boîte à Jeux - Saturday Afternoon Nexus Nights - 1v1
-DTSTAMP:20260213T110619Z
-DTSTART:20260221T130000Z
-DTEND:20260221T160000Z
-DESCRIPTION:tournoi quotidien nexus night
-URL:https://locator.riftbound.uvsgames.com/events/364014
+UID:yX9IM1bDK4sBGV4ZxZHlT
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20260829T083000Z
+DTEND:20260829T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813297
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:yMNAwroRW9m4qC8I932tc
+SUMMARY:Ecoloustik - Scelle set 4 VO pack ap
+DTSTAMP:20260828T075012Z
+DTSTART:20260902T180000Z
+DTEND:20260902T212000Z
+DESCRIPTION:Scelle set 4 vendetta avec pack ap
+URL:https://locator.riftbound.uvsgames.com/events/870349
+GEO:48.0329431;0.1748939
+LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Qp2L1o4yG_N6pQvJQvhlm
+SUMMARY:sortileges le mans - Wednesday Evening Vendetta Summoner Skirmish I
+DTSTAMP:20260828T075012Z
+DTSTART:20260902T180000Z
+DTEND:20260902T235000Z
+DESCRIPTION:Wednesday Evening Vendetta Summoner Skirmish I
+URL:https://locator.riftbound.uvsgames.com/events/502663
+GEO:48.0042587;0.1950965
+LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
+	000\, FR
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5M2o5-pg63qaPBF2anYmK
+SUMMARY:La Boîte à Jeux - Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20260904T173000Z
+DTEND:20260904T200000Z
+URL:https://locator.riftbound.uvsgames.com/events/891745
 GEO:48.000268;0.198692
 LOCATION:20 Bis Rue nationale\, Le Mans\, Pays de la Loire\, 72000\, FR
-LAST-MODIFIED:20260213T110600Z
+LAST-MODIFIED:20260828T075000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:mZJlPG8fCXDkCO9Qa_abF
-SUMMARY:sortileges le mans - mercredi Evening Summoner Skirmish - March
-DTSTAMP:20260213T110619Z
-DTSTART:20260304T190000Z
-DTEND:20260304T220000Z
-DESCRIPTION:March Summoner Skirmish Sortileges le mans à la visitation !
-URL:https://locator.riftbound.uvsgames.com/events/290601
+UID:zM9rjo2du8ZNtdbmeVv5U
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20260905T083000Z
+DTEND:20260905T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813307
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:F_OelyWAMRhgJ59k0hZ3l
+SUMMARY:Ecoloustik - Construit Riftbound
+DTSTAMP:20260828T075012Z
+DTSTART:20260909T180000Z
+DTEND:20260909T212000Z
+DESCRIPTION:Construit \nPaf :7€
+URL:https://locator.riftbound.uvsgames.com/events/870319
+GEO:48.0329431;0.1748939
+LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4pA-419SiAlC0IjCHF7Bt
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20260912T083000Z
+DTEND:20260912T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813309
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8iW0PnZZeR77-rABcYT6q
+SUMMARY:La Boîte à Jeux - Vendetta Summoner Skirmish II
+DTSTAMP:20260828T075012Z
+DTSTART:20260919T080000Z
+DTEND:20260919T144000Z
+DESCRIPTION:C'est reparti pour le deuxieme summoner skirmish :)
+URL:https://locator.riftbound.uvsgames.com/events/520385
+GEO:48.000268;0.198692
+LOCATION:20 Bis Rue nationale\, Le Mans\, Pays de la Loire\, 72000\, FR
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:95JZDZDtr2XWaiQI0gtSg
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20260919T083000Z
+DTEND:20260919T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813311
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mZ18i31PB03QTQBKUcuGC
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20260926T083000Z
+DTEND:20260926T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813316
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:zoOZfQkMy8Yyl1wp6gnlH
+SUMMARY:Ecoloustik - Vendetta Summoner Skirmish II
+DTSTAMP:20260828T075012Z
+DTSTART:20260926T170000Z
+DTEND:20260926T225000Z
+DESCRIPTION:Tournoi en 1v1. PAF 12€\nInscription à 18h30. Début du tournoi 
+	à 19h\n2 boosters pour chaques participants + lot offret par Riftbound (ca
+	rtes + tapis)\nLe gagnant reçois un bail pour un regional !
+URL:https://locator.riftbound.uvsgames.com/events/499356
+GEO:48.0329431;0.1748939
+LOCATION:122 Rue Albert Einstein\, Le Mans\, Pays de la Loire\, 72000\, FR
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Xp97UFi5Zea0tCeA8it1q
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20261003T083000Z
+DTEND:20261003T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813317
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ex0cYI34DL0qothoElCC1
+SUMMARY:sortileges le mans - Wednesday Evening Vendetta Summoner Skirmish I
+	I
+DTSTAMP:20260828T075012Z
+DTSTART:20261007T180000Z
+DTEND:20261007T235000Z
+DESCRIPTION:Wednesday Evening Vendetta Summoner Skirmish II
+URL:https://locator.riftbound.uvsgames.com/events/502668
 GEO:48.0042587;0.1950965
 LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
 	000\, FR
-LAST-MODIFIED:20260213T110600Z
+LAST-MODIFIED:20260828T075000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:JNhftu7HQPNuQpsqWxVXt
-SUMMARY:sortileges le mans - mercredi Evening Summoner Skirmish - April
-DTSTAMP:20260213T110619Z
-DTSTART:20260401T180000Z
-DTEND:20260401T210000Z
-DESCRIPTION:Summoner Skirmish Sortileges le mans à la visitation !
-URL:https://locator.riftbound.uvsgames.com/events/290598
-GEO:48.0042587;0.1950965
-LOCATION:1 b Rue Gambetta\, La Visitation\, Le Mans\, Pays de la Loire\, 72
-	000\, FR
-LAST-MODIFIED:20260213T110600Z
+UID:IZXVTJ_qEmuiouy5gEWDt
+SUMMARY:Ludotrotter Lemans - Saturday Morning Summoners' League
+DTSTAMP:20260828T075012Z
+DTSTART:20261010T083000Z
+DTEND:20261010T110000Z
+DESCRIPTION:Pour en savoir plus sur ce nouveau format\, rejoignez notre Dis
+	cord Ludotrotter Le Mans !\n\nCe format vous propose des matchs rapides en
+	 BO1 de 30 minutes. Pendant 7 semaines\, chaque participation vous permett
+	ra de gagner des points afin de progresser dans le classement de votre bou
+	tique.\n\nGravissez les différents rangs\, de Fer à Diamant\, et débloquez
+	 des récompenses exclusives à chaque nouveau palier atteint !
+URL:https://locator.riftbound.uvsgames.com/events/813321
+GEO:48.004934999999996;0.19318839999999998
+LOCATION:10 Rue Hippolyte Lecornue\, 72100 Le Mans\, France
+LAST-MODIFIED:20260828T075000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:k2-GglsvNcJ8ZLZzWfwnP
+SUMMARY:La Boîte à Jeux - Avant première Radiance VO - 1v1
+DTSTAMP:20260828T075012Z
+DTSTART:20261016T173000Z
+DTEND:20261016T205000Z
+DESCRIPTION:Avant première Radiance en anglais
+URL:https://locator.riftbound.uvsgames.com/events/873229
+GEO:48.000268;0.198692
+LOCATION:20 Bis Rue nationale\, Le Mans\, Pays de la Loire\, 72000\, FR
+LAST-MODIFIED:20260828T075000Z
 END:VEVENT
 END:VCALENDAR
