@@ -102,12 +102,13 @@ h1{
 }
 .stats{
   display:flex;
+  flex-wrap:wrap;
   gap:12px;
   margin:22px 0 16px;
 }
 .stat-tile{
   flex:1;
-  min-width:120px;
+  min-width:105px;
   background:var(--surface);
   border:1px solid var(--border);
   border-radius:10px;
@@ -427,6 +428,7 @@ footer a{color:var(--ink-muted);}
   <div class="stats" id="stats">
     <div class="stat-tile"><span class="stat-value" id="statHours">0h</span><span class="stat-label">Hours planned</span></div>
     <div class="stat-tile"><span class="stat-value" id="statPwt">0</span><span class="stat-label">PWT planned</span></div>
+    <div class="stat-tile"><span class="stat-value" id="statCost">€0</span><span class="stat-label">Cost planned</span></div>
   </div>
 
   <div class="legend" id="legend"></div>
@@ -532,6 +534,9 @@ EVENTS.forEach(e => {
   // per-player PWT: team-reward events divide the published per-team tier by team size.
   e.pwtPerPlayer = e.pwt == null ? null : e.pwt / (e.teamSize || 1);
   e.ratio = e.pwtPerPlayer == null ? null : e.pwtPerPlayer / ((e.e - e.s) / 60);
+  // price is what one player pays to enter (team events are bought per teammate, not split) — null when it's not a plain fee (e.g. "qualifiers only").
+  const priceMatch = e.price.match(/€(\d+(?:\.\d+)?)/);
+  e.priceValue = priceMatch ? parseFloat(priceMatch[1]) : null;
 });
 
 // Sequential tiering (one hue, light->dark) computed from the natural gaps in the per-player ratio distribution.
@@ -714,18 +719,21 @@ dayNames.forEach(dayName=>{
 const detailEl = document.getElementById("detail");
 const statHoursEl = document.getElementById("statHours");
 const statPwtEl = document.getElementById("statPwt");
+const statCostEl = document.getElementById("statCost");
 let selectedBlock = null;
 
 function updateCounters(){
-  let hours = 0, pwt = 0;
+  let hours = 0, pwt = 0, cost = 0;
   EVENTS.forEach(ev=>{
     if(!ev.saved) return;
     hours += (ev.e - ev.s) / 60;
     const table = pwtForWins(ev, ev.wins);
     if(table != null) pwt += table / (ev.teamSize || 1);
+    if(ev.priceValue != null) cost += ev.priceValue;
   });
   statHoursEl.textContent = (Math.round(hours*10)/10) + "h";
   statPwtEl.textContent = Math.round(pwt);
+  statCostEl.textContent = "€" + Math.round(cost);
 }
 
 function toggleBookmark(ev, block){
